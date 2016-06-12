@@ -8,6 +8,7 @@ This is a compilation of my notes on the Bible.
     * [Historical Books](old_testament/historical_books/README.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
     * [Prophets](old_testament/prophets/README.md)
+        * [Obadiah](old_testament/prophets/obadiah.md)
 * [New Testament](new_testament/README.md)
     * [Gospels & Acts](new_testament/gospels_and_acts/README.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
