@@ -1,1 +1,2 @@
-示例-readme
+# Pentateuch (from GK. πεντάτευχος, meaning "five scrolls")
+*(Genesis - Deuteronomy)*
