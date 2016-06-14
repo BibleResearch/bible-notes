@@ -4,7 +4,7 @@
 **Obadiah** (vs. 1).  Depending on the date of the writing, this may be the same prophet mentioned in **1 Kings 18:1-16**.
 
 ## Date and Context
-As there are very few biographical details given in Obadiah, the events described in the book are the primary .  There are **two primary dates** that would fit the invasion of Jerusalem as described in the later part of verse 11.
+As there are very few biographical details given in Obadiah, the events described in the book provide the primary clues as to the date of Obadiah.  There are **two primary dates** that would fit the invasion of Jerusalem as described in the later part of verse 11.
 
 1. The first would be **around 853 - 841 B.C. when the Arabs and Philistines invaded Jerusalem** (see 2 Kings 8:20-22; **2 Chronicles 21:8-20**).  This would mean that the author of this book would likely be the same prophet mentioned in 1 Kings 18:1-16 as a contemporary of Elijah.
 
