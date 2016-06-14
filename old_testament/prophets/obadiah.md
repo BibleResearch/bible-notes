@@ -8,7 +8,7 @@ Due to the lack of biographical references, the events described in the book of 
 
 1. The first would be **around 853 - 841 B.C. when the Arabs and Philistines invaded Jerusalem** (see 2 Kings 8:20-22; **2 Chronicles 21:8-20**).  This would mean that the author of this book would likely be the same prophet mentioned in 1 Kings 18:1-16 as a contemporary of Elijah.
 
-2. The second would possible date would be **the fall of Jerusalem in 586 B.C. at the hands of Nebuchadnezzar** (see Lamentations, Jeremiah 52). This is the most popular view among scholars today.  Many people will note the similarities between Obadiah and Jeremiah 49:1-22 as evidence for this view. 
+2. The second date would be **the fall of Jerusalem in 586 B.C. at the hands of Nebuchadnezzar** (see Lamentations, Jeremiah 52). This is the most popular view among scholars today.  Many people will note the similarities between Obadiah and Jeremiah 49:1-22 as evidence for this view. 
 
 ## Observations/Notes
 - Esau/Edom’s rebellion is **rebellion against God** (see Gen. 25:23 and  2 Chron. 21)
