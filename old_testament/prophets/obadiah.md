@@ -1,7 +1,7 @@
 # Obadiah ~ *“Servant of Yahweh”*
 
 ## Authorship  
-**Obadiah** (vs. 1).  Depending on the date of the writing, this may be the same prophet mentioned in **1 Kings 18:1-16**.
+Likely **Obadiah** (vs. 1).  Depending on the date of the writing, this may be the same prophet mentioned in **1 Kings 18:1-16**.
 
 ## Date and Context
 Due to the lack of biographical references, the primary clues as to the date when Obadiah was written come from the events described in the book.  There are **two primary dates** that would fit the invasion of Jerusalem as described in the later part of verse 11.
