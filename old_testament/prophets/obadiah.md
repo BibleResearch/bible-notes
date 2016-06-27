@@ -32,3 +32,5 @@ Due to the lack of biographical references, the primary clues as to the date whe
   - Esau/Edom’s actions in the day of Israel’s distress will be repaid by God in the day of distress brought upon all nations.
 
 
+
+
