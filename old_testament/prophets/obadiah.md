@@ -27,7 +27,7 @@ Due to the lack of biographical references, the primary clues as to the date whe
 
   - God describes the violence done by Esau/Edom to Jacob/Israel and retroactively pleas with Esau/Edom not to do what they have already done. 
 
-**III. God’s actions in the Nation’s day of distress (the Day of Yahweh)  [15 - *21*]**
+**III. God’s actions in the nations’ day of distress (the Day of Yahweh)  [15 - *21*]**
 
   - Esau/Edom’s actions in the day of Israel’s distress will be repaid by God in the day of distress brought upon all nations.
 
