@@ -6,6 +6,16 @@ Almost certainly **Micah of Moresheth** (1:1 and 3:1-4).  We do not know where M
 ## Date and Context
 Micah prophesied around the same time as **Isaiah** (compare Micah 1:1 to Isaiah 1:1).  Micah's ministry likely began sometime around **740B.C.**, shortly after Isaiah's ministry had begun, and ended around **700B.C.**.  Unlike Isaiah, however, Micah's vision is not only about Jerusalem and the Southern kingdom, but it also has to do with Samaria and the Northern Kingdom.  This, combined with the dates of Micah's ministry, is particularly interesting because this means that **Israel, the Northern Kingdom, would have been exiled about half way through Micah's ministry** (the Northern Kingdom was exiled in 722 B.C.).
 
+## Observations/Notes
+  - The structure of the book can be identified based on similar language used throughout the book:
+      + The prophecy or statement in chapters 1, 3, and 6 each begin with the word "hear"
+      + Chapters 1 and 6 begin with similar language calling earth and mountains to be witnesses against Israel (see also Jeremiah 6:19)
+      + Chapters 2 and 7 both begin with a "woe"
+  - Micah 7:18 begins with the phrase: *"Who is a God like You..."* (NASB)  which is similar to Micah's name
+
+## Theme(s)
+- **God's judgement in His covenant plan.**  The book of Micah explains why God will judge His people, but also lays out God's redemptive and restorative plans for His people.  In the process, we get a picture of how God uses judgement both to refine His people and to punish those who oppose Him.  The final chapter of this book is a great statement of hope and trust in God's ability to enact His covenant plan.
+
 ## Outline
 **I. God's case and verdict against His people and their hope, part 1  [1 - 2]**
 
