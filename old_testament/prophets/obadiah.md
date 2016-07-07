@@ -19,18 +19,14 @@ Due to the lack of biographical references, the primary clues as to the date whe
 - **God’s faithfulness in judgement.**  With Esau/Edom’s rebellion and violence toward Israel, a key question is whether or not God is faithful to His promises to Jacob/Israel and Esau/Edom. Is God faithful?  Is He powerful enough to be faithful?  This book makes it clear that God’s  faithfulness and power are both demonstrated through His judgement.  Those who oppose God will not have the final say.
 
 ## Outline
-**I. God’s coming judgement against Esau/Edom  [1 - 9]**
+**I. God’s coming judgement against Esau/Edom  [1:1-9]**
 
   - God proclaims the extent and completeness of His judgement against Esau/Edom.
 
-**II. Esau/Edom’s actions in Israel’s day of distress  [10 - 14]**
+**II. Esau/Edom’s actions in Israel’s day of distress  [1:10-14]**
 
   - God describes the violence done by Esau/Edom to Jacob/Israel and retroactively pleas with Esau/Edom not to do what they have already done. 
 
-**III. God’s actions in the nations’ day of distress (the Day of Yahweh)  [15 - *21*]**
+**III. God’s actions in the nations’ day of distress (the Day of Yahweh)  [1:15-*21*]**
 
   - Esau/Edom’s actions in the day of Israel’s distress will be repaid by God in the day of distress brought upon all nations.
-
-
-
-
