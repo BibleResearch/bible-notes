@@ -23,7 +23,7 @@ Micah prophesied around the same time as **Isaiah** (compare Micah 1:1 to Isaiah
   > 
   > B. Woe to the wicked oppressors  [2:1-11]
   > 
-  > C. The promise of restoration when God gathers his people and leads them  [2:12 - *13*]
+  > C. The promise of restoration when God gathers his people and leads them  [2:12-*13*]
 
 **II. The present oppression and future restoration  [3 - 5]**
 
