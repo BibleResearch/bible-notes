@@ -10,6 +10,7 @@ This is a compilation of my notes on the Bible.
     * [Prophets](old_testament/prophets/README.md)
         * [Obadiah](old_testament/prophets/obadiah.md)
         * [Micah](old_testament/prophets/micah.md)
+        * [Nahum](old_testament/prophets/nahum.md)
 * [New Testament](new_testament/README.md)
     * [Gospels & Acts](new_testament/gospels_and_acts/README.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
