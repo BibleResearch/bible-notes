@@ -8,6 +8,7 @@ This is a compilation of my notes on the Bible.
     * [Historical Books](old_testament/historical_books/README.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
     * [Prophets](old_testament/prophets/README.md)
+        * [Amos](old_testament/prophets/amos.md)
         * [Obadiah](old_testament/prophets/obadiah.md)
         * [Micah](old_testament/prophets/micah.md)
         * [Nahum](old_testament/prophets/nahum.md)
