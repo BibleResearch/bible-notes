@@ -16,7 +16,7 @@ While we do not know the exact date that this book was written, we do have two e
 
 
 ## Outline
-**I. God's Inevitable Judgement and its Consequences  [1:1 - 2:2]**
+**I. God's Inevitable Judgement and Its Consequences  [1:1 - 2:2]**
 
   > A. God's attributes, power and inevitable victory  [1:1-8]
   > 
