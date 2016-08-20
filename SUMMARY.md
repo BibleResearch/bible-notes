@@ -12,6 +12,7 @@ This is a compilation of my notes on the Bible.
         * [Obadiah](old_testament/prophets/obadiah.md)
         * [Micah](old_testament/prophets/micah.md)
         * [Nahum](old_testament/prophets/nahum.md)
+        * [Habakkuk](old_testament/prophets/habakkuk.md)
 * [New Testament](new_testament/README.md)
     * [Gospels & Acts](new_testament/gospels_and_acts/README.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
