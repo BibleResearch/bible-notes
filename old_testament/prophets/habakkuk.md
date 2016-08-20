@@ -1,4 +1,4 @@
-# Habakkuk ~ *'Habakkuk is probably a loan word for an Assyrian plant by the name: hambaḳûḳu*
+# Habakkuk ~ *'Habakkuk' is probably a loan word for an Assyrian plant by the name: hambaḳûḳu*
 
 
 ## Authorship
