@@ -1,4 +1,4 @@
-# Habakkuk ~ *'Habakkuk' is probably a loan word for an Assyrian plant by the name: hambaḳûḳu*
+# Habakkuk ~ *'Habakkuk' is probably a loan word for an Assyrian plant by the name: 'hambaḳûḳu'*
 
 
 ## Authorship
@@ -6,7 +6,7 @@ Likely **Habakkuk** (see 1:1).  Apart from his name, the meaning of which is its
 
 
 ## Date and Context
-While there are no explicit markers in the text, the rise of the Chaldeans and the promise of judgement at their hands described in Habakkuk 1:5-11 best aligns with sometime around the **Battle of Carchemish** (around 605 B.C.).  I believe Habakkuk was likely written sometime between **609 and 605 B.C.**,shortly before the Battle of Carchemish where Babylon would assert their dominance and begin their dominance.
+While there are no explicit markers in the text, the rise of the Chaldeans described in Habakkuk best aligns with the years following the **Battle of Carchemish** (around 605 B.C.).  At this battle, the Chaldeans asserted their authority and began their dominant rule.  Based on this, I believe Habakkuk was likely written shortly before the Battle of Carchemish, sometime between **609 and 605 B.C.**.
 
 
 ## Theme(s)
@@ -24,7 +24,7 @@ While there are no explicit markers in the text, the rise of the Chaldeans and t
 
 **IV. Habakkuk: *Is Your judgement just when you use wicked Babylon to bring about your judgement?* [1:12 - 2:1]**
 
-**V. God: *My judgement is just because Babylon too will be punished for her greed and wickedness.*  [2:2-2:20]**
+**V. God: *My judgement is just because Babylon will also be punished for her greed and wickedness.*  [2:2-2:20]**
 
   > A. The inevitability of the coming judgement [2:2-3]
   > 
@@ -56,8 +56,8 @@ While there are no explicit markers in the text, the rise of the Chaldeans and t
 ## Observations/Notes
   - **Habakkuk 2:4** has *immense* implications for the rest of Scripture and is directly quoted in **Galatians 3:11, Romans 1:17, and Hebrews 10:38**.  This is nothing new, however, as we have already seen this going back to Abraham in **Genesis 15:6**.
 
-  - The reference to 'Shigionoth' is the plural form of the same word that appears in psalm 7:1.  It likely describes the emotional, almost ecstatic nature of the prayer.
+  - The reference to **'Shigionoth'** is the plural form of the same word that appears in **psalm 7:1**.  It likely describes the **emotional, almost ecstatic nature of Habakkuk's prayer**.
 
   - "The prayer of Habakkuk goeth on three's."  In the original Hebrew, the number of words in many of the phrases of Habakkuk's prayer are multiples of three.
 
-  - The book of Habakkuk, as in other books like Nahum, impresses upon us the reality that God's judgement has two sides.  It is just and fearful punishment for God's enemies, but is hope and salvation for God's people.  This is typified in Habakkuk in 3:13 where God "struck the head of the house of evil to lay him open from thigh to neck." in the process of bringing "the salvation of Your anointed".
+  - The book of Habakkuk, as in other books like Nahum, impresses upon us the reality that **God's judgement has two sides**.  It is just and fearful punishment for God's enemies, but is hope and salvation for God's people.  This is typified in **Habakkuk 3:13** where God "struck the head of the house of evil to lay him open from thigh to neck" in the process of bringing "the salvation of Your anointed".
