@@ -10,7 +10,7 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
 
 ## Theme(s)
-// more here soon...
+- **The Purifying Nature of God's Judgement.**  In the book of Zephaniah, we see that God's judgements, past, present, and future, all play a purifying role in God's salvific plan.  This is most clear in Zephaniah 3:8-13 where God implores his people to "wait" for the day when God will "pour out" His indignation on the nations while at the same time giving "to the peoples purified lips".
 
 
 ## Outline
@@ -32,7 +32,7 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
 **IV. Woes on Jerusalem and the Hope for the Nations  [3]**
 
-  > A. Woe on Jerusalem  [3:1-7]
+  > A. Woe to Jerusalem  [3:1-7]
   > 
   > B. The extent of judgement  [3:8-*20*]
   > 
@@ -45,3 +45,7 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
   - Both **Zephaniah 2:3** and **3:12** play on Zephaniah's name as both verses refer to the idea of hiding or seeking refuge in God.
 
   - God's warning about Nineveh in Zephaniah 2:13-15 would be carried out by the Babylonians and the Medes in **612 B.C.**, not too long after Zephaniah's ministry and possibly within Zephaniah's lifetime.
+
+  - Zephaniah 3:8-*20* is among the most wonderful descriptions of God's salvation of His people in the minor prophets.  I especially love Zephaniah 3:17:
+
+  *"The LORD your God is in your midst, A victorious warrior. He will exult over you with joy, He will be quiet in His love, He will rejoice over you with shouts of joy."*
