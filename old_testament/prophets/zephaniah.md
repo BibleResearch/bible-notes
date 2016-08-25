@@ -46,6 +46,6 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
   - God's warning about Nineveh in Zephaniah 2:13-15 would be carried out by the Babylonians and the Medes in **612 B.C.**, not too long after Zephaniah's ministry and possibly within Zephaniah's lifetime.
 
-  - Zephaniah 3:8-*20* is among the most wonderful descriptions of God's salvation of His people in the minor prophets.  I especially love Zephaniah 3:17:
+  - Zephaniah 3:8-*20* is among the most wonderful of descriptions which detail God's salvation of His people.  I especially love Zephaniah 3:17 which reads:
 
   *"The LORD your God is in your midst, A victorious warrior. He will exult over you with joy, He will be quiet in His love, He will rejoice over you with shouts of joy."*
