@@ -18,9 +18,11 @@ For those who accept that Nahum was written between 663 and 612 B.C., there is m
 
 
 ## Outline
-**I. God's Inevitable Judgement and Its Consequences  [1:1 - 2:2]**
+**0. Introduction  [1:1]**
 
-  > A. God's attributes, power and inevitable victory  [1:1-8]
+**I. God's Inevitable Judgement and Its Consequences  [1:2 - 2:2]**
+
+  > A. God's attributes, power and inevitable victory  [1:2-8]
   > 
   > B. God's unstoppable judgement  [1:9-13]
   > 
