@@ -14,9 +14,11 @@ Micah prophesied around the same time as **Isaiah** (compare Micah 1:1 to Isaiah
 
 
 ## Outline
-**I. God's Case and Verdict Against His People and Their Hope, Part 1  [1 - 2]**
+**0. Introduction  [1:1]**
 
-  > A. The people's unfaithfulness and its consequences  [1]
+**I. God's Case and Verdict Against His People and Their Hope, Part 1  [1:2 - 2]**
+
+  > A. The people's unfaithfulness and its consequences  [1:2 - 1:*16*]
   > 
   > B. Woe to the wicked oppressors  [2:1-11]
   > 
