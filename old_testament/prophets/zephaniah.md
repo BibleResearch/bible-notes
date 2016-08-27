@@ -14,11 +14,11 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
 
 ## Outline
-**I. Introduction  [1:1]**
+**0. Introduction  [1:1]**
 
-**II. The Day of Yahweh  [1:2-*18*]**
+**I. The Day of Yahweh  [1:2-*18*]**
 
-**III. A Plea for Repentance in Light of Extensive Judgement  [2]**
+**II. A Plea for Repentance in Light of Extensive Judgement  [2]**
 
   > A. A plea for repentance  [2:1-3]
   > 
@@ -30,7 +30,7 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
   >   > 
   >   > 3. Judgement on Ethiopia and Assyria (to the **South** and **North**, respectively, of Judah)  [2:12-*15*]
 
-**IV. Woes on Jerusalem and the Hope for the Nations  [3]**
+**III. Woes on Jerusalem and the Hope for the Nations  [3]**
 
   > A. Woe to Jerusalem  [3:1-7]
   > 
