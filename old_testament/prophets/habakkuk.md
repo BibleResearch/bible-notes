@@ -16,15 +16,15 @@ While there are no explicit markers in the text, the rise of the Chaldeans and t
 
 
 ## Outline
-**I. Introduction  [1:1]**
+**0. Introduction  [1:1]**
 
-**II. Habakkuk: *Why does evil exist and persist?*  [1:2-4]**
+**I. Habakkuk: *Why does evil exist and persist?*  [1:2-4]**
 
-**III. God: *I will execute judgement using Babylon and I will judge Babylon.*  [1:5-11]**
+**II. God: *I will execute judgement using Babylon and I will judge Babylon.*  [1:5-11]**
 
-**IV. Habakkuk: *Is Your judgement just when you use wicked Babylon to bring about your judgement?*  [1:12 - 2:1]**
+**III. Habakkuk: *Is Your judgement just when you use wicked Babylon to bring about your judgement?*  [1:12 - 2:1]**
 
-**V. God: *My judgement is just because Babylon too will be punished for her greed and wickedness.*  [2:2-2:20]**
+**IV. God: *My judgement is just because Babylon too will be punished for her greed and wickedness.*  [2:2-2:20]**
 
   > A. The inevitability of the coming judgement [2:2-3]
   > 
@@ -42,7 +42,7 @@ While there are no explicit markers in the text, the rise of the Chaldeans and t
   > > 
   > > 5. Woe to Babylon for her idolatry  [2:18-*20*]
 
-**VI. Habakkuk's Prayer [*3*]**
+**V. Habakkuk's Prayer [*3*]**
 
   > A. Introduction and a plea for God's compassionate work  [3:1-2]
   > 
