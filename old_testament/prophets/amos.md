@@ -14,9 +14,11 @@ The introduction of this book places the prophecy in the rule of Uzziah over Jud
 
 
 ## Outline
-**I.  God's Judgement Against the Nations  [1 - 2]**
+**0. Introduction  [1:1]**
 
-  > A. Judgement against seven nations  [1 - 2:5]
+**I.  God's Judgement Against the Nations  [1:2 - 2]**
+
+  > A. Judgement against seven nations  [1:2 - 2:5]
   > 
   > B. Judgement against Israel  [2:6 - 2:*16*]
 
