@@ -15,6 +15,7 @@ This is a compilation of my notes on the Bible.
         * [Habakkuk](old_testament/prophets/habakkuk.md)
         * [Zephaniah](old_testament/prophets/zephaniah.md)
         * [Haggai](old_testament/prophets/haggai.md)
+        * [Zechariah](old_testament/prophets/zechariah.md)
 * [New Testament](new_testament/README.md)
     * [Gospels & Acts](new_testament/gospels_and_acts/README.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
