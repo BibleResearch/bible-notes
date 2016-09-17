@@ -58,11 +58,11 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
   > 
   > E. Multinational recognition of Israel's blessing  [8:18-*23*]
 
-**III. Two Burdens  [9 - *14*]**
+**III. Two Burdens Regarding the King  [9 - *14*]**
 
-  > A. Burden 1: The rejection of the King  [9 - 11]
+  > A. Burden 1: The rejection of the Messiah/King  [9 - 11]
   > 
-  > B. Burden 2: The return of the King  [12 - *14*]
+  > B. Burden 2: The return of the Messiah/King  [12 - *14*]
 
 
 ## Observations/Notes
