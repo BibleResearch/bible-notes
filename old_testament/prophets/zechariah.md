@@ -43,5 +43,29 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
 
   > H. Vision 8: Four Chariots  [6:1-8]**
 
-//more here soon...
 
+**II. Five Words from Yahweh  [6:9 - 8:*23*]**
+
+  > A. A man whose name is 'Branch'  [6:9-*15*]
+  > 
+  >     - - The 'Branch' will build the Temple and be both a King and Priest.
+  > 
+  > B. A reason for the exile: selfish hearts  [7:1-7]
+  > 
+  > C. A reason for the exile: hard hearts  [7:8-*14*]
+  > 
+  > D. Future prosperity for Israel (a reversal) because of God's jealousy and the present implications  [8:1-17]
+  > 
+  > E. Multinational recognition of Israel's blessing  [8:18-*23*]
+
+**III. Two Burdens  [9 - *14*]**
+
+  > A. Burden 1: The rejection of the King  [9 - 11]
+  > 
+  > B. Burden 2: The return of the King  [12 - *14*]
+
+
+## Observations/Notes
+  - If you are reading the book of Zechariah well, you will see numerous images and themes that overlap with other Old Testament prophecies (especially those of Daniel) and that are repeated in the book of Revelation.  Zechariah is an extremely important book to understand if we want to properly understand the book of Revelation.
+
+  - Chapters 9 - 14 are very tough to understand, or at least to outline.  The first burden is especially difficult as it contains a description of the Messiah in Zechariah 9:9, fulfilled in Christ (Matthew 21:5), followed by a description of the peace brought by the Messiah in Zech. 9:10, which has not yet happened.
