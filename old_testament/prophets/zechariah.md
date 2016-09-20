@@ -27,28 +27,28 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
 
 **I. Eight Visions  [1:7 - 6:8]**
 
-  > A.Vision 1: Four, Patrolling Horseman  [1:7-17]**
+  > A.Vision 1: Four, Patrolling Horseman  [1:7-17]
 
-  > B. Vision 2: Four Horns and Four Craftsmen  [1:18-*21*]**
+  > B. Vision 2: Four Horns and Four Craftsmen  [1:18-*21*]
 
-  > C. Vision 3: Measuring Jerusalem  [2]**
+  > C. Vision 3: Measuring Jerusalem  [2]
 
-  > D.Vision 4: Joshua, the High Priest  [3]**
+  > D.Vision 4: Joshua, the High Priest  [3]
 
-  > E.Vision 5: Golden Lampstand and Two Olive Trees  [4]**
+  > E.Vision 5: Golden Lampstand and Two Olive Trees  [4]
 
-  > F. Vision 6: Flying Scroll  [5:1-4]**
+  > F. Vision 6: Flying Scroll  [5:1-4]
 
-  > G. Vision 7: Wickedness and the Ephah  [5:5-*11*]**
+  > G. Vision 7: Wickedness and the Ephah  [5:5-*11*]
 
-  > H. Vision 8: Four Chariots  [6:1-8]**
+  > H. Vision 8: Four Chariots  [6:1-8]
 
 
 **II. Five Words from Yahweh  [6:9 - 8:*23*]**
 
   > A. A man whose name is 'Branch'  [6:9-*15*]
   > 
-  >     - - The 'Branch' will build the Temple and be both a King and Priest.
+  >   - The 'Branch' will build the Temple and be both a King and Priest.
   > 
   > B. A reason for the exile: selfish hearts  [7:1-7]
   > 
@@ -58,7 +58,7 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
   > 
   > E. Multinational recognition of Israel's blessing  [8:18-*23*]
 
-**III. Two Burdens Regarding the King  [9 - *14*]**
+**III. Two Burdens Regarding the Messiah/King  [9 - *14*]**
 
   > A. Burden 1: The rejection of the Messiah/King  [9 - 11]
   > 
