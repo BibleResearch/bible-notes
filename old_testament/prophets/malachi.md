@@ -9,6 +9,12 @@ Likely **Malachi** (see 1:1).  We do not have any other biographical details giv
 Given the fact that the issues being addressed in Malachi are very similar to those addressed in Nehemiah, it is likely these two were contemporaries.  It is safe to say that Malachi was written between 435 - 430 BC.  According to most scholars, this makes Malachi the last book in the Old Testament Canon.
 
 
+## Theme(s)
+- **God is not Done with His People.**  In the book of Malachi, we find God's chosen people back in their homeland after the exile, but still sinning and rejecting God.  In the book of Malachi, there are many calls to repent and return to God, but we also see that God has not given up on His people and will take action to save those who still fear Him.  In this, we see God's patience, mercy, and grace clearly demonstrated.
+
+- **God Must be Worshiped on His Terms.**  This is a theme throughout the entire Bible, but it becomes a critical point in the book of Malachi.  The 'dialog' portions of Malachi make it clear that Israel was not concerned with worshiping God in the way that He designated and chose.  They wanted to worship in a way that was most convenient for them.  In fact, God goes so far as to say that He wishes there was someone who would "shut the gates" of the newly built Temple "that you might not uselessly kindle fire on My altar!" (1:10).  God is to be worshiped on His terms, as He defines them and not according to our own agendas/convenience.
+
+
 ## Outline
 **0. Introduction  [1:1]**
 
@@ -51,3 +57,5 @@ Given the fact that the issues being addressed in Malachi are very similar to th
   - Note the use of the word "messenger" (and similar forms) throughout the book (2:7 and 3:1).
 
   - **Beware** of anyone who tries to apply **Malachi 3:8-12** to Christians.  This passage was **not written to Christians**, nor do we have the promises detailed in this passage.
+
+  - This book should be read along with **Nehemiah** as both books are post-exile and address many of the same issues.
