@@ -9,6 +9,10 @@ The author of Esther is **unknown**.  Based on the knowledge of Susa and Persian
 There are a couple important dates that frame the dating of the book of Esther.  First, the reign of **Xerxes**, most likely the king described in Esther, ended in **465 BC**.  Second, the Persian empire would finally succumb to the Greeks in **331 BC**.  Clearly, Esther must have been written after 465 BC as Xerxes is a part of the story and there are no hints of Greek influence in the book which hints that the book was written sometime at least between 465 and 331 BC.  Based on Esther 9:9, it is likely that the festival of Purim had been going on for some time when this book was written, so I believe it is likely that the book of Esther was written sometime **between 465 and 400 BC**.
 
 
+## Theme(s)
+- **The Sovereignty of God.**  One of the most ironic aspects of the book of Esther is that it never onces mentions God and yet one of the principle themes is the sovereignty of God.  This is evidenced by the numerous 'coincidences', rolls of the dice, and ironic twists in the story.  Haman, enemy of God's chosen people, is thwarted, no thanks to the drunken king Xerxes, and ends up being killed on the very apparatus he created for Mordecai.  The fact that God is never mentioned is actually meant to encourage the reader him/herself to look 'behind' the circumstances and notice that there is more going on than meets the eye.  Purim itself is an acknowledgment that chance and probability, both of which demonstrate our lack of sovereignty as humans,  are controlled and used by God to bring about His plans.
+
+
 ## Observations/Notes
   - Throughout the entire book of Esther, God is never mentioned explicitly... not even once.  What is even more interesting is that one of the principle themes of this book is the sovereignty of God.  This theme is primarily communicated through the use of irony and 'chance' in the story.
 
