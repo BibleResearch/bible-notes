@@ -10,7 +10,43 @@ There are a couple important dates that frame the dating of the book of Esther. 
 
 
 ## Theme(s)
-- **The Sovereignty of God.**  One of the most ironic aspects of the book of Esther is that it never onces mentions God and yet one of the principle themes is the sovereignty of God.  This is evidenced by the numerous 'coincidences', rolls of the dice, and ironic twists in the story.  Haman, enemy of God's chosen people, is thwarted, no thanks to the drunken king Xerxes, and ends up being killed on the very apparatus he created for Mordecai.  The fact that God is never mentioned is actually meant to encourage the reader him/herself to look 'behind' the circumstances and notice that there is more going on than meets the eye.  Purim itself is an acknowledgment that chance and probability, both of which demonstrate our lack of sovereignty as humans,  are controlled and used by God to bring about His plans.
+- **The Sovereignty of God.**  One of the most ironic aspects of the book of Esther is that it never onces mentions God and yet one of the principle themes is the sovereignty of God.  This is evidenced by the numerous 'coincidences', rolls of the dice, and ironic twists in the story.  Haman, enemy of God's chosen people, is thwarted, no thanks to the drunken king Xerxes, and ends up being killed on the very apparatus he created for Mordecai.  The fact that God is never mentioned is actually meant to encourage the reader him/herself to look 'behind' the circumstances and notice that there is more going on than meets the eye.  The festival of Purim itself is an acknowledgment that chance and probability, both of which demonstrate our lack of sovereignty as humans, are controlled and used by God to bring about His plans.
+
+
+## Outline
+**0. Introduction  [1]**
+
+  > A. Introduction to Xerxes and his party  [1:1-9]
+  > 
+  > B. The king's request and Vashti's refusal  [1:10-12]
+  > 
+  > C. The king's response  [1:13-*22*]
+
+**I. The King Searches and Chooses Esther as the New Queen  [2:1-20]**
+
+**II. Mordecai Saves the King  [2:21-*23*]**
+
+**III. Haman's Plot to Kill the Jews  [3]**
+
+**IV. Esther Recieves News of Haman's Plot and Decides to Intercede  [4]**
+
+**VI. Esther's First Banquet  [5:1-8]**
+
+**VII. Haman's Plot to Kill Mordecai  [5:9-*14*]**
+
+**VIII. Haman Honors Mordecai Rather Than Killing Him  [6]**
+
+**IX. Esther's Second Banquet Results in Haman's Death  [7]**
+
+**X. Mordecai Made Second in Command and Jews Allowed to Defend Themselves and Attack Their Enemies  [8]**
+
+**XI. Jews Destroy Their Enemies  [9:1-19]**
+
+**XII. Epiloge  [9:20 - 10:*3*]**
+
+  > A. Festival of Purim instituted  [9:20-*32*]
+  > 
+  > B. Mordecai's greatness  [*10*]
 
 
 ## Observations/Notes
