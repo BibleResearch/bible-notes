@@ -51,7 +51,7 @@ Given the fact that the issues being addressed in Malachi are very similar to th
   > B. A reminder that the promises of the law (especially Deuteronomy) are still in play  [4:4]
   > 
   > C. 'Elijah' the prophet is promised  [4:5-*6*]
-  > > - This is **John the Baptist** (Luke 1:17)
+  > > - This is **John the Baptist** (Luke 1:17 and Matthew 17:10-13)
 
 
 ## Observations/Notes
