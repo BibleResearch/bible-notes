@@ -27,15 +27,15 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
 
 **I. Eight Visions  [1:7 - 6:8]**
 
-  > A.Vision 1: Four, Patrolling Horseman  [1:7-17]
+  > A. Vision 1: Four, Patrolling Horseman  [1:7-17]
 
   > B. Vision 2: Four Horns and Four Craftsmen  [1:18-*21*]
 
   > C. Vision 3: Measuring Jerusalem  [2]
 
-  > D.Vision 4: Joshua, the High Priest  [3]
+  > D. Vision 4: Joshua, the High Priest  [3]
 
-  > E.Vision 5: Golden Lampstand and Two Olive Trees  [4]
+  > E. Vision 5: Golden Lampstand and Two Olive Trees  [4]
 
   > F. Vision 6: Flying Scroll  [5:1-4]
 
