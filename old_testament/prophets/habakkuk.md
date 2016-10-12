@@ -24,7 +24,7 @@ While there are no explicit markers in the text, the rise of the Chaldeans and t
 
 **III. Habakkuk: *Is Your judgement just when you use wicked Babylon to bring about your judgement?*  [1:12 - 2:1]**
 
-**IV. God: *My judgement is just because Babylon too will be punished for her greed and wickedness.*  [2:2-2:20]**
+**IV. God: *My judgement is just because Babylon too will be punished for her greed and wickedness.*  [2:2-2:*20*]**
 
   > A. The inevitability of the coming judgement [2:2-3]
   > 
