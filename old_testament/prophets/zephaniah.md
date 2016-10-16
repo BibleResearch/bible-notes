@@ -6,7 +6,7 @@ Likely **Zephaniah** (see 1:1).  From the short genealogical background of Zepha
 
 
 ## Date and Context
-We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah's reign (640 - 609 B.C.)**.  Based on the reference to Nineveh as a city that "dwells securely" (Zephaniah 2:15), we can confidently say that Zephaniah's prophecy must have occurred before the fall of Nineveh 612 BC.  In 627 B.C., the Assyrian King Ashurbanipal died, which severely weakened Assyria.  It is possible that this prophecy occurred even before 627 while Assyria was still a very powerful nation.
+We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah's reign** (**640 - 609 B.C.**).  Based on the reference to Nineveh as a city that "dwells securely" (Zephaniah 2:15), we can confidently say that Zephaniah's prophecy must have occurred before the fall of Nineveh 612 BC.  In 627 B.C., the Assyrian King Ashurbanipal died, which severely weakened Assyria.  It is possible that this prophecy occurred even before 627 while Assyria was still a very powerful nation.
 
 
 ## Theme(s)

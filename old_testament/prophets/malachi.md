@@ -2,11 +2,11 @@
 
 
 ## Authorship
-Likely **Malachi** (see 1:1).  We do not have any other biographical details given about Malachi in the Bible and this, combined with Malachi's generic name, has led some scholars to argue that Malachi is not the name of the prophet, but simply a description of him as the "My messenger".  While this is possible, none of the other prophets are written anonymously and, without further evidence, I hold to the simplest explanation that Malachi is a proper name.
+Likely **Malachi** (see 1:1).  We do not have any other biographical details given about Malachi in the Bible which, combined with Malachi's generic name, has led some scholars to argue that Malachi is not the name of the prophet, but simply a description of a prophet as "My [God's] messenger".  While this is possible, none of the other prophets are written anonymously and, without further evidence, I hold to the simplest explanation that Malachi is a proper name.
 
 
 ## Date and Context
-Given the fact that the issues being addressed in Malachi are very similar to those addressed in Nehemiah, it is likely these two were contemporaries.  It is safe to say that Malachi was written between 435 - 430 BC.  According to most scholars, this makes Malachi the last book in the Old Testament Canon.
+Given the fact that the issues being addressed in Malachi are very similar to those addressed in Nehemiah, it is likely these two were contemporaries.  It is safe to say that Malachi was written between **435 - 430 BC**.  According to most scholars, this makes Malachi the last book in the Old Testament Canon.
 
 
 ## Theme(s)
@@ -57,6 +57,6 @@ Given the fact that the issues being addressed in Malachi are very similar to th
 ## Observations/Notes
   - Note the use of the word "messenger" (and similar forms) throughout the book (2:7 and 3:1).
 
-  - **Beware** of anyone who tries to apply **Malachi 3:8-12** to Christians.  This passage was **not written to Christians**, nor do we have the promises detailed in this passage.
+  - **Beware** of anyone who tries to apply **Malachi 3:8-12** directly to Christians.  This passage was **not written to Christians**, nor do we have the promises detailed in this passage.
 
   - This book should be read along with **Nehemiah** as both books are post-exile and address many of the same issues.
