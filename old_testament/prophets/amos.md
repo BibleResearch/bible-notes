@@ -6,7 +6,7 @@
 
 
 ## Date and Context
-The introduction of this book places the prophecy in the rule of Uzziah over Judah and that of **Jeroboam II** over Israel.  This would date the book to around **760 - 750 B.C.**  In this time, Israel was enjoying **tremendous prosperity and wealth** as is alluded to in the book of Amos (references to summer houses and ivory in 3:15 and 6:4).
+The introduction of this book places the prophecy in the rule of Uzziah over Judah and that of **Jeroboam II** over Israel.  This would date the book to around **760 - 750 BC**.  In this time, Israel was enjoying **tremendous prosperity and wealth** as is alluded to in the book of Amos (references to summer houses and ivory in 3:15 and 6:4).
 
 
 ## Theme(s)

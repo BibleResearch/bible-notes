@@ -2,17 +2,17 @@
 
 
 ## Authorship and Audience
-Based on the unanimous tradition of the early Church leaders, the book of Matthew was written by Matthew.  Matthew, also called "Levi" (possibly a reference to the tribe or a surname), was a tax collector (see Matthew 9:9, Mark 2:14, Luke 5:27) before becoming a disciple of Jesus Christ and later an Apostle.
+Based on the unanimous tradition of the early Church leaders, the book of Matthew was written by **Matthew**.  Matthew, also called "Levi" (possibly a reference to the tribe or a surname), was a tax collector (see Matthew 9:9, Mark 2:14, Luke 5:27) before becoming a disciple of Jesus Christ and later an Apostle.
 
-Matthew records his account of the Gospel primarily for a Jewish audience.  This is evidenced by the fact that there are very few explanations of Hebrew words, customs, and places described in the Gospel.  While all of the gospel records make references to the Old Testament, Matthew makes more than any other with 53 direct citations from 25 Old Testament books.
+Matthew records his account of the Gospel primarily for a **Jewish audience**.  This is evidenced by the fact that there are very few explanations of Hebrew words, customs, and places described in the Gospel.  Matthew also makes more Old Testament references than any of the other Gospel accounts with **53 direct citations from 25 Old Testament books**.
 
 
 ## Date and Context
-The order in which the Gospels were written is highly debated.  I am going to make the argument, based largely on the testimony of Eusibius in 300 A.D., that the gospel as recorded by Matthew was the first of the Gospels to be written.  According to Irenaeus, Matthew wrote his book while Peter and Paul were ministering in Rome.  This would place the book around 62 AD.  I argue it is safe to say that Matthew was likely written between 50 and 65 AD.
+The order in which the Gospels were written is highly debated.  I am going to make the argument, based largely on the testimony of Eusibius in 300 A.D., that the gospel as recorded by Matthew was the first of the Gospels to be written.  According to Irenaeus, Matthew wrote his book while Peter and Paul were ministering in Rome.  This would place the book around 62 AD.  I argue it is safe to say that Matthew was likely written between **50 and 65 AD**.
 
 
 ## Theme(s)
-- **Jesus Christ is the Messiah.**  There are two, primary evidences that this is Matthew's primary theme.  First, the content and quantity of the Old Testament passages quoted by Matthew and second, one of the key questions raised in this book is "Who is Jesus?".  As to the Old Testament quotations, many of the Old Testament passages that Matthew quotes make it clear that Jesus is qualified to be and indeed, is the Messiah.  As a couple examples, consider Matthew 1:23 and 2:6.  As I mentioned in the "Authorship" section above, Matthew also quotes a lot of Old Testament scripture that goes to show how Christ fulfills Messianic prophecies.  The second evidence that Matthew is trying to show his readers that Jesus is the Messiah is that he consistently records characters who wrestle with and answer the question: "Who is Jesus?" or, as the disciples put it "What kind of a man is this...?".  Verses like: Matthew 8:27, 9:27, 9:34, 11:3, 12:8, 12:23, 14:2, 14:33, 15:27, 16:13-20, and 17:1-13 (not an exhaustive list) all relate to the question: "Who is Jesus?".  Whether it is the Pharisees who say Jesus is of Satan (12:24) or Peter who confesses that Jesus is the Messiah (16:16), everyone has an opinion about Jesus.  Matthew, backed by the Old Testament, presents the argument that Jesus is the Messiah.
+- **Jesus Christ is the Messiah.**  There are two, primary evidences that this is Matthew's primary theme.  First, the content and quantity of the Old Testament passages quoted by Matthew make it clear that Matthew is interesting in providing Old Testament evidence that Jesus is the Christ (the Messiah).  Many of the Old Testament passages that Matthew quotes make it clear that Jesus is qualified to be and indeed, is the Messiah.  As a couple examples, consider Matthew 1:23 and 2:6.  The second point of evidence that Matthew is trying to show his readers that Jesus is the Messiah is that he consistently records characters who wrestle with and answer the question: "Who is Jesus?" or, as the disciples put it "What kind of a man is this...?".  Verses like: Matthew 8:27, 9:27, 9:34, 11:3, 12:8, 12:23, 14:2, 14:33, 15:27, 16:13-20, and 17:1-13 (which is not an exhaustive list) all relate to the question: "Who is Jesus?".  Whether it is the Pharisees who say Jesus is of Satan (12:24) or Peter who confesses that Jesus is the Messiah (16:16), everyone has an opinion about Jesus.  Matthew, backed by the Old Testament along with Christ's life, death, and resurrection, presents the argument that Jesus is the Messiah.
 
 
 ## Outline
@@ -26,7 +26,7 @@ The order in which the Gospels were written is highly debated.  I am going to ma
 
   > A. Jesus's Temptation  [4:1-11]
   > 
-  > B. Proclaiming the Kingdom: Jesus Begins His Ministry  [4:12-25]
+  > B. Proclaiming the Kingdom: Jesus Begins His Ministry  [4:12-*25*]
   > 
   > C. Discourse #1: Preaching on Kingdom Living: The Sermon on the Mount  [5 - 7]
   > 
@@ -80,6 +80,6 @@ The order in which the Gospels were written is highly debated.  I am going to ma
 ## Observations/Notes
   - Matthew may be related to **James the Less** who is described as "the son of Alphaeus" in Matthew 10:3.
 
-  - Quotations from both Papias (70 - 163 A.D.) and Ireneus (130- 202 A.D.), are understood by some scholars to indicate that Matthew originally wrote his gospel account in Hebrew and that it was later translated into Greek.  Foxe, in *Foxe's Book of Martyrs* claims that James the Less translated Matthew's gospel account into Greek.  Whether or not Matthew was first written in Hebrew is the subject of much scholarly debate.
+  - Quotations from both Papias (70 - 163 A.D.) and Ireneus (130- 202 A.D.), are understood by some scholars to indicate that Matthew originally wrote his gospel account in Hebrew and that it was later translated into Greek.  In fact, Foxe, in his famous work *Foxe's Book of Martyrs*, claims that James the Less translated Matthew's gospel account into Greek.  Whether or not Matthew's Gospel account was first written in Hebrew is the subject of much scholarly debate.
 
-  - Notice that in the outline above, I have numbered off five "discourses".  Each of these five discourses ends, in English, with a phrase like "When Jesus had finished these words..." or "When Jesus had finished these parables...".  Some who study Matthew will suggest an outline based around the five discourses.  While I have not chosen to do so, this is a viable option as the discourses certainly form a critical part of Matthew's Gospel Record.
+  - Notice that in the outline above, I have numbered off five "discourses".  Each of these five discourses ends, in English, with a phrase like *"When Jesus had finished these words..."** or *"When Jesus had finished these parables..."*.  Some who study Matthew will suggest an outline based around the five discourses.  While I have not chosen to do so, this is a viable option as the discourses certainly form a critical part of Matthew's Gospel record.

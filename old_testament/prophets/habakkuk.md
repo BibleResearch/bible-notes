@@ -58,6 +58,6 @@ While there are no explicit markers in the text, the rise of the Chaldeans and t
 
   - The reference to 'Shigionoth' is the plural form of the same word that appears in psalm 7:1.  It likely describes the emotional, almost ecstatic nature of the prayer.
 
-  - "The prayer of Habakkuk goeth on three's."  In the original Hebrew, the number of words in many of the phrases of Habakkuk's prayer are multiples of three.
+  - *"The prayer of Habakkuk goeth on three's"*.  In the original Hebrew, the number of words in many of the phrases of Habakkuk's prayer are multiples of three.
 
   - The book of Habakkuk, as in other books like Nahum, impresses upon us the reality that God's judgement has two sides.  It is just and fearful punishment for God's enemies, but is hope and salvation for God's people.  This is typified in Habakkuk in 3:13 where God "struck the head of the house of evil to lay him open from thigh to neck." in the process of bringing "the salvation of Your anointed".
