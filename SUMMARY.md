@@ -22,5 +22,6 @@ This is a compilation of my notes on the Bible.
 * [New Testament](new_testament/README.md)
     * [Gospels & Acts](new_testament/gospels_and_acts/README.md)
         * [Matthew](new_testament/gospels_and_acts/matthew.md)
+        * [Mark](new_testament/gospels_and_acts/mark.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
     * [General Epistles](new_testament/general_epistles/README.md)
