@@ -1,5 +1,14 @@
 # Mark
 
+
+## Authorship
+According to what Papias (c. 70 - 163 A.D.) had heard from the Apostle John, Mark (a.k.a. John Mark) recorded Peter's account of the Gospel.  Thus, apart from the Holy Spirit, Mark is the one who physically wrote the gospel, but Peter is the one who dictated what should be written.
+
+
+## Date and Context
+While there are many differing views on the order of the gospels and, therefore, the date of each one, I argue it is most likely that Mark was written after the book of Matthew.  I also believe, based on Mark 13:2, that the Gospel was written before the destruction of the temple in 70 A.D.  Thus, I would date the book of Mark somewhere in between 60 and 69 AD.
+
+
 ## Theme(s)
 - **The True Nature of Power.**  The book of Mark, written to an audience living in one of the most powerful nations in human history, demonstrates the true nature of power including its source, its end, and its proper use.  Jesus Christ is powerfully and dramatically presented as the Messiah, and yet we find Christ submitting to the Father's will, even as that leads Him to the cross where He bears the separation from God the Father that we, ourselves, had earned.
 
@@ -24,5 +33,9 @@
   - Even though it is an aside in the text, there has been much discussion about the the man in 14:51-52 who flees right out of the sheet he was using to cover himself.  Some suggest that this was a **'cameo' appearance**, if you will, of Mark himself.  While this is certainly possible, it is important not to miss the meaning because we're too busy checking the spelling.  The point of this passage, in a book that discusses the true nature of discipleship, is to highlight the fact that this man was so intent on fleeing Christ that he was willing to risk public shame and disgrace.
 
   - It is interesting to read Mark 10:42-43 in light of the fact that this book was likely written to a primarily Gentile audience  This statement would have been quite an indictment for the original readers.
-  
+
+  - The gospel of Mark has **multiple, possible endings**.  Some copies end the book of Mark at 16:8, others end at 16:8 but tack on another sentence, and still others end at 16:20 (see: https://www.biblegateway.com/passage/?search=Mark+16%3A8-20&version=NLT).  All of the earliest manuscripts, however, simply end at verse 8.  Thus, I believe verse 8 is the original ending of the work.  It is likely that scribes added longer endings in order to soften the **Mark's abrupt ending**.
+
+  - As far as the relationship between **the Apostle Peter and Mark** is concerned, 1 Peter 5:13 refers to Mark as "my son", signifying the closeness of their relationship.
+
   - More than the other gospel accounts, Mark accentuates the **political undertones and ironies** surrounding the crucifixion of Jesus Christ.  When Jesus is sentenced, the Roman soldiers mock his kingship (15:16-20).  When Jesus is crucified, the inscription put above Jesus, which said: **"The King of the Jews"** (15:26), appears to be another political shot at the Jews in that the Jews were killing their own king at the hands of the Romans.  One irony is that Jesus really is the King of the Jews and the entire world.  Most of the Jews and the Romans simply did not recognize His power because they did not understand the true nature of Christ's power.  Another irony is that because of Jesus Christ's death and resurrection, He is now ruler over death itself and will one day return to exercise authority over death by banishing it once and for all (1 Corinthians 15:50-58, Revelation 21)!
