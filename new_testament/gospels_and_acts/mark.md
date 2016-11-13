@@ -1,12 +1,16 @@
 # Mark
 
 
-## Authorship
+## Authorship and Audience
 According to what Papias (c. 70 - 163 A.D.) had heard from the Apostle John, Mark (a.k.a. John Mark) recorded Peter's account of the Gospel.  Thus, apart from the Holy Spirit, Mark is the one who physically wrote the gospel, but Peter is the one who dictated what should be written.
+
+As far as audience is concerned: Based on the fact that Mark offers translations and explanations of Jewish words and customs (a few examples are: 3:17; 14:36; 7:3-4; 15:42), it is likely that this Gospel was written to a Gentile audience.  Mark also uses Latin loan-words rather than the Greek word for the same thing (a couple examples are: 5:9; 15:16,39).
 
 
 ## Date and Context
 While there are many differing views on the order of the gospels and, therefore, the date of each one, I argue it is most likely that Mark was written after the book of Matthew.  I also believe, based on Mark 13:2, that the Gospel was written before the destruction of the temple in 70 A.D.  Thus, I would date the book of Mark somewhere in between 60 and 69 AD.
+
+Based on the testimony of early Church fathers and historical testimony that Peter was martyred in Rome, I believe that the book of Mark was written from Rome shortly before or after Peter's martyrdom.
 
 
 ## Theme(s)
