@@ -10,6 +10,7 @@ This is a compilation of my notes on the Bible.
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
     * [Prophets](old_testament/prophets/README.md)
         * [Hosea](old_testament/prophets/hosea.md)
+        * [Joel](old_testament/prophets/joel.md)
         * [Amos](old_testament/prophets/amos.md)
         * [Obadiah](old_testament/prophets/obadiah.md)
         * [Micah](old_testament/prophets/micah.md)
