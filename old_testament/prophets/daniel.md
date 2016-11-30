@@ -25,3 +25,19 @@ Coming soon...
   - Daniel's vision encompass history from the current events of Daniel's day to the inter-testamental period to eschatology which has yet to happen.
 
   - In Daniel 12:2, we see one of the clearest descriptions in the Old Testament of the resurrection for either judgement or condemnation.
+
+  - Chapters two through seven have a **chiastic structure**.  To illustrate this, the chapters could be displayed as follows with chapters two and seven paired, chapters three and six paired, and four and five paired:
+
+  Ch. 2 - King Nebuchadnezzar's Dream: 4 Kingdoms
+
+    > Ch. 3 - Daniel's Friends are Persecuted
+
+    >   > Ch. 4 - God Humbles King Nebuchadnezzar
+
+    >   > Ch. 5 - God Humbles Belshazzar
+
+    > Ch. 6 - Daniel is Persecuted
+
+  Ch. 7 - Daniel's Vision: 4 Kingdoms
+
+  - When reading about the golden statue which King Nebuchadnezzar sets up in chapter three, don't forget the vision that Daniel just saw (the statue of a man made of four, different materials). By making the statue completely of gold, Nebuchadnezzar is declaring that his kingdom will last forever and the dream he had, which God revealed and explained through Daniel, will not come to pass.
