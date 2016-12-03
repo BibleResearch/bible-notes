@@ -9,6 +9,7 @@ This is a compilation of my notes on the Bible.
         * [Esther](old_testament/historical_books/esther.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
     * [Prophets](old_testament/prophets/README.md)
+        * [Ezekiel](old_testament/prophets/ezekiel.md)
         * [Daniel](old_testament/prophets/daniel.md)
         * [Hosea](old_testament/prophets/hosea.md)
         * [Joel](old_testament/prophets/joel.md)
