@@ -2,7 +2,7 @@
 
 
 ## Authorship and Audience
-The first four verses of the book indicate that **Ezekiel** is the author.  Ezekiel was a **Levite** who would normally have become a priest at age 30 (this is likely what the first verse of the book is referring to).  He was likely taken from Judah to Babylon in the **second wave of exiles** between 605 and 595 B.C.
+The first four verses of the book indicate that **Ezekiel** is the author.  Ezekiel was a **Levite** who would normally have become a priest at age 30 (this is likely what the first verse of the book is referring to).  He was likely taken from Judah to Babylon in the **second wave of exiles** between 605 and 595 BC.
 
 
 ## Date and Context
