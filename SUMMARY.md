@@ -27,4 +27,5 @@ This is a compilation of my notes on the Bible.
         * [Matthew](new_testament/gospels_and_acts/matthew.md)
         * [Mark](new_testament/gospels_and_acts/mark.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
+        * [Colossians](new_testament/pauline_epistles/colossians.md)
     * [General Epistles](new_testament/general_epistles/README.md)
