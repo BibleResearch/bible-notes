@@ -6,15 +6,15 @@ The first four verses of the book indicate that **Ezekiel** is the author. Ezeki
 
 
 ## Date and Context
-Ezekiel started prophesying in **592 B.C.** and kept prophesying for **twenty to twenty two years** (until around 570 B.C.). Many Israelites have been taken into exile at this point and are wondering about the promises of God. Is God still faithful to His promises (**Abrahamic and Davidic Covenants**, for example)?  Does God lack the power to perform and execute His will and promises?
+Ezekiel started prophesying in **592 B.C.** and kept prophesying for **twenty to twenty two years** (until around 570 B.C.). Many Israelites have been taken into exile at this point and are wondering about the promises of God. Is God still faithful to His promises (**Abrahamic and Davidic Covenants**, for example)? Does God lack the power to perform and execute His will and promises?
 
 
 ## Theme(s)
-- **Presence/Glory of God.**  The temple features prominently in the book of Ezekiel. God's presence leaves the temple in Ezekiel ten, chapters forty through forty eight describe the new temple, and God's presence returns to the new temple in Ezekiel forty three. In the Old Testament, the temple served as a connection, so to speak, between Israel (along with the nations) and Yahweh (for more on this, read Solomon's dedication of the Temple in 1 Kings 8). If God removes His presence from the temple as in chapter 10, He is effectively severing His connection with His people. The book of Ezekiel will described why God removes His presence from the temple, deal with the repercussions of this, and the future of God's connection with Israel and the nations.
+- **Presence/Glory of God.**  The temple features prominently in the book of Ezekiel. God's presence leaves the temple in Ezekiel ten, chapters forty through forty eight describe the new temple, and God's presence returns to the new temple in Ezekiel forty three. In the Old Testament, the temple served as a connection, so to speak, between Israel (along with the nations) and Yahweh (for more on this, read Solomon's dedication of the Temple in 1 Kings 8). If God removes His presence from the temple as in chapter 10, He is effectively severing His connection with His people. The book of Ezekiel will describe why God removes His presence from the temple, deal with the repercussions of this, and the future of God's connection with Israel and the nations.
 
 - **Nature of Sin.**  The book of Ezekiel provides a graphic and, frankly, explicit picture of sin. Sin, as described in this book, is spiritual adultery. Chapter sixteen spares no detail as it describes the adultery Israel has committed against Yahweh. In this passage, Israel is described as a "harlot" and an "adulteress wife" who was pulled away to other 'gods' and religions. Ezekiel reminds us that sin, in its essence, is a rejection of God and His authority.
 
-- **Davidic Covenant.**  The Davidic Covenant (see 2 Samuel 7) promises that David’s seed will build a house for God and God will establish his throne (2 Samuel 7:13). The book of Ezekiel, written at a time when many would have doubted the power and faithfulness of God, begins with a reminder of God’s sovereign rule over the nations and closes with a picture of the future temple. The exile seems to eclipse even the possibility of the Davidic Covenant being fulfilled, but Ezekiel reminds his readers that God is still ruling and will fulfill the covenant He promised to David. As an aside, the rule of the Davidic King is explicitly mentioned in Ezekiel 37:24-*28*.
+- **Davidic Covenant.**  The Davidic Covenant (see 2 Samuel 7) promises that David’s seed will build a house for God and God will establish his throne (2 Samuel 7:13). The book of Ezekiel, written at a time when many would have doubted the power and faithfulness of God, begins with a reminder of God’s sovereign rule over the nations and closes with a picture of the future temple. The exile seems to eclipse even the possibility of the Davidic Covenant being fulfilled, but Ezekiel reminds his readers that God is still ruling and will fulfill the covenant He promised to David. In fact, the rule of the Davidic King is explicitly mentioned in Ezekiel 37:24-*28*.
 
 
 ## Outline
@@ -41,4 +41,4 @@ Ezekiel started prophesying in **592 B.C.** and kept prophesying for **twenty to
 
 
 ## Observations/Notes
-  - Ezekiel is a very **chronological book**. There are a lot of dates given throughout the book and the vast majority of them are given chronologically (which is relatively uncommon compared to other prophets). This is especially true as the dates approach the last exile in 586 BC.
+  - Ezekiel is a very **chronological book**. There are a lot of dates given throughout the book and the vast majority of them are given chronologically (which is uncommon relative to most other prophets). This is especially true as the dates approach the last exile in 586 BC.
