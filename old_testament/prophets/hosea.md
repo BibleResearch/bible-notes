@@ -1,16 +1,16 @@
 # Hosea ~ *“Salvation”*
 
 
-## Authorship
-Likely written by **Hosea** (see 1:1).
+## Authorship and Audience
+Likely written by **Hosea** (see 1:1). Written to **Israel** (the **Northern Kingdom**) shortly after they had separated from Judah.
 
 
 ## Date and Context
-This book was written to **Israel** (**Northern Kingdom**) shortly after they had split from Judah and followed **Jeroboam** (vs. 1).  This would have taken place around the **early 900s BC**.
+This book was written shortly after **Israel** (the **Northern Kingdom**) had split from Judah and followed **Jeroboam** (vs. 1). This would have taken place around the **early 900s BC**.
 
 
 ## Theme(s)
-- **God’s Love in Judgement.**  One of the principal, theological themes of Hosea is God’s love in judgement.  This is evidence by the example of Hosea himself in marrying a prostitute and in the calls to repent and return throughout the book (see the outline below).  Put another way, this book answers the question: **“If God loves us, how can he judge us?”**.  We will see that God has used and will use judgement as a way to bring His people back to Himself.
+- **God’s Love in Judgement.** One of the principal, theological themes of Hosea is God’s love in judgement. This is demonstrated by Hosea himself in marrying a prostitute and calling Israel to repent and return throughout the book (see the outline below). Put another way, this book answers the question: **“If God loves us, how can he judge us?”**. We will see that God has used and will use judgement as a way to bring His people back to Himself.
 
 
 ## Outline
@@ -54,4 +54,4 @@ This book was written to **Israel** (**Northern Kingdom**) shortly after they ha
 
 
 ## Observations/Notes
-  - The names of Hosea’s children are important.  There are a lot of word plays that deal with the names God gives for Hosea’s children (especially in the early sections of the book)
+  - The names of Hosea’s children are important. There are a lot of word-plays that deal with the names of Hosea’s children (especially in the early sections of the book).
