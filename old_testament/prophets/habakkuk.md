@@ -6,7 +6,7 @@ Likely **Habakkuk** (see 1:1). Apart from his name, the meaning of which is itse
 
 
 ## Date and Context
-While there are no explicit markers in the text, the rise of the Chaldeans and the promise of judgement at their hands described in Habakkuk 1:5-11 best aligns with sometime around the **Battle of Carchemish** (around 605 B.C.). I believe Habakkuk was likely written sometime between **609 and 605 B.C.**,shortly before the Battle of Carchemish where Babylon would assert their dominance and begin their dominance.
+While there are no explicit markers in the text, the rise of the Chaldeans and the promise of judgement at their hands described in Habakkuk 1:5-11 best aligns with sometime around the **Battle of Carchemish** (around 605 B.C.). I believe Habakkuk was likely written sometime between **609 and 605 B.C.**,shortly before the Battle of Carchemish where Babylon would assert their dominance.
 
 
 ## Theme(s)
