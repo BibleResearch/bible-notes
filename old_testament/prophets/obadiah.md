@@ -35,3 +35,5 @@ Due to the lack of biographical references, the primary clues as to the date whe
   - Esau/Edom’s rebellion is **rebellion against God** (see Gen. 25:23 and  2 Chron. 21). That is, the very faithfulness of God is challenged by Esau/Edom’s rebellion.
 
   - The first verse is interesting: “the **Vision** of Obadiah. Thus **says** the Lord Yahweh concerning Edom” (emphases added).
+
+  - If Obadiah was written at the earlier of the possible dates (**853 - 841 B.C.**), this would mean that Obadiah was (one of) the earliest of the minor prophets to write. This is significant because he introduces the concept of the "Day of Yahweh/the LORD" which is a central theme for many of the prophets.
