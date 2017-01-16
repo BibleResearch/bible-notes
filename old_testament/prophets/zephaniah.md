@@ -2,15 +2,15 @@
 
 
 ## Authorship
-Likely **Zephaniah** (see 1:1).  From the short genealogical background of Zephaniah given in Zephaniah 1:1, we know that Zephaniah was **a descendant of King Hezekiah**.  This likely means that he was born into a relatively high social class.
+Likely **Zephaniah** (see 1:1). From the short genealogical background of Zephaniah given in Zephaniah 1:1, we know that Zephaniah was **a descendant of King Hezekiah**. This likely means that he was born into a relatively high social class.
 
 
 ## Date and Context
-We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah's reign** (**640 - 609 B.C.**).  Based on the reference to Nineveh as a city that "dwells securely" (Zephaniah 2:15), we can confidently say that Zephaniah's prophecy must have occurred before the fall of Nineveh 612 BC.  In 627 B.C., the Assyrian King Ashurbanipal died, which severely weakened Assyria.  It is possible that this prophecy occurred even before 627 while Assyria was still a very powerful nation.
+We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah's reign** (**640 - 609 B.C.**). Based on the reference to Nineveh as a city that "dwells securely" (Zephaniah 2:15), we can confidently say that Zephaniah's prophecy must have occurred before the fall of Nineveh 612 BC. In 627 B.C., the Assyrian King Ashurbanipal died, which severely weakened Assyria. It is possible that this prophecy occurred even before 627 while Assyria was still a very powerful nation.
 
 
 ## Theme(s)
-- **The Purifying Nature of God's Judgement.**  In the book of Zephaniah, we see that God's judgements, past, present, and future, all play a purifying role in God's salvific plan.  This is most clear in Zephaniah 3:8-13 where God implores his people to "wait" for the day when God will "pour out" His indignation on the nations while at the same time giving "to the peoples purified lips".
+- **The Purifying Nature of God's Judgement.** In the book of Zephaniah, we see that God's judgements, past, present, and future, all play a purifying role in God's salvific plan. This is most clear in Zephaniah 3:8-13 where God implores his people to "wait" for the day when God will "pour out" His indignation on the nations while at the same time giving "to the peoples purified lips".
 
 
 ## Outline
@@ -46,6 +46,6 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
   - God's warning about Nineveh in Zephaniah 2:13-15 would be carried out by the Babylonians and the Medes in **612 B.C.**, not too long after Zephaniah's ministry and possibly within Zephaniah's lifetime.
 
-  - Zephaniah 3:8-*20* is among the most wonderful of descriptions which detail God's salvation of His people.  I especially love Zephaniah 3:17 which reads:
+  - Zephaniah 3:8-*20* is among the most wonderful of descriptions which detail God's salvation of His people. I especially love Zephaniah 3:17 which reads:
 
   *"The LORD your God is in your midst, A victorious warrior. He will exult over you with joy, He will be quiet in His love, He will rejoice over you with shouts of joy."*
