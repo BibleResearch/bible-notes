@@ -66,6 +66,6 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
 
 
 ## Observations/Notes
-  - If you are reading the book of Zechariah well, you will see numerous images and themes that overlap with other Old Testament prophecies (especially those of Daniel) and that are repeated in the book of Revelation. Zechariah is an extremely important book to understand if we want to properly understand the book of Revelation.
+  - If you are reading the book of Zechariah well, you will see numerous images and themes that overlap with other Old Testament prophecies (especially those of Daniel) and that are repeated in the book of Revelation. Zechariah is foundational for understanding the book of Revelation.
 
-  - Chapters 9 - 14 are very tough to understand, or at least to outline. By way of example, consider Zechariah 9:9-10. Both verses describe the Messiah, but verse 9 has already been fulfilled by Christ (Matthew 21:5) while verse 10 has not yet been fulfilled. In two verses, Zechariah leaps from Christ's first, humble coming, to His triumphant rule.
+  - Chapters 9 - 14 are very tough to understand, or at least to outline. By way of example, consider Zechariah 9:9-10. Both verses describe the Messiah, but verse 9 has already been fulfilled by Christ (Matthew 21:5), while verse 10 has not yet been fulfilled. In two verses, Zechariah leaps from Christ's first, humble coming, to His second, triumphant return and reign.
