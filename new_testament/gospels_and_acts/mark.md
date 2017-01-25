@@ -2,7 +2,7 @@
 
 
 ## Authorship and Audience
-According to what Papias (c. 70 - 163 A.D.) had heard from the Apostle John, Mark (a.k.a. John Mark) recorded Peter's account of the Gospel. Thus, apart from the Holy Spirit, Mark is the one who physically wrote the gospel, but Peter is the one who dictated what should be written.
+According to what Papias (c. 70 - 163 A.D.) had heard from the Apostle John, Mark (a.k.a. John Mark) recorded Peter's account of the Gospel. Thus, Mark is the one who physically wrote the gospel, but Peter is the one who dictated what should be written.
 
 As far as audience is concerned: Based on the fact that Mark offers translations and explanations of Jewish words and customs (a few examples are: 3:17; 14:36; 7:3-4; 15:42), it is likely that this Gospel was written to a Gentile audience. Mark also uses Latin loan-words rather than the Greek word for the same thing (a couple examples are: 5:9; 15:16,39).
 
