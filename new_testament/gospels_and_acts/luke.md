@@ -23,3 +23,7 @@ The particular audience of Luke-Acts is "Theophilus" ("θεόφιλος") as men
 **III. Christ in Jerusalem (a.k.a. Passion Week)  [19:28 - 23:56a]**
 
 **IV. Christ Resurrected  [23:56b - *24*]**
+
+
+## Observations/Notes
+  - The genealogy from Jesus back to Adam in Luke 3:23-38 plays a critical role in the development of Luke's argument. First, the genealogy itself makes a connection between Jesus Christ and Adam. This is something Luke will continue to build on throughout the rest of the book of Luke and into Acts. Like Adam, Christ's first coming was the start of something new (which underscores the significance of Christ's coming in human history). Second, zooming back in on Luke 3 and 4, the genealogy at the end of chapter 3 sets the reader up for Jesus's temptation in Luke 4:1-13. When you start reading chapter 4, the key question is: *"If Christ a 'new' Adam, will Christ fall like Adam did?"*. Luke uses the genealogy to flow into Jesus's temptation where we see that Christ did not fall like the first Adam and will, indeed, start something new. Notice how both Matthew and Luke use the story of Christ's temptation to further their, albeit different, arguments. This is not to say that either one of them is wrong or reading into the events of Jesus's life, but simply that Christ's fulfillment of complex Old Testament prophecy about Himself was complete and the significance of this for the future is tremendous.
