@@ -8,9 +8,9 @@ As far as audience is concerned: Based on the fact that Mark offers translations
 
 
 ## Date and Context
-While there are many differing views on the order of the gospels and, therefore, the date of each one, I argue it is most likely that Mark was written after the book of Matthew. I also believe, based on Mark 13:2, that the Gospel was written before the destruction of the temple in 70 A.D. Thus, I would date the book of Mark somewhere in between 60 and 69 AD.
+While there are many differing views on the order of the gospels and, therefore, the date of each one, I argue it is most likely that Mark was written after the book of Matthew. I also believe, based on the fact that the prophecy in Mark 13:2 is not described as already having been fulfilled, that the Gospel was written before the destruction of the temple in 70 A.D. Thus, I would date the book of Mark somewhere in between 60 and 69 AD.
 
-Based on the testimony of early Church fathers and historical testimony that Peter was martyred in Rome, I believe that the book of Mark was written from Rome shortly before or after Peter's martyrdom.
+Based on the testimony of early Church fathers and historical testimony that Peter was martyred in Rome, I believe that the book of Mark was written from Rome shortly before Peter's martyrdom.
 
 
 ## Theme(s)
