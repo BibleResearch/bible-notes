@@ -7,6 +7,14 @@ Before considering the author, it is important to note that Luke is part one of 
 The particular audience of Luke-Acts is "Theophilus" ("θεόφιλος") as mentioned in Luke 1:3 and Acts 1:1. There is much debate as to the identity of "Theophilus", but there is nothing explicitly in the text. For the purpose of this summary, I will not delve into this any further as it enters the realm of conjecture and is not, in my estimation, essential to understanding Luke-Acts.
 
 
+## Theme(s)
+- **Christ is the Central Figure in World History.** In his gospel account, Luke portrays Jesus as the one on whom the Old Testament prophecies and covenants depend and as the one who will change the future by establishing His kingdom and becoming a new, second Adam. Think of the history of the world as an hourglass, with Christ as the center. All history before Christ pointed to Him and all history after Christ stems from what Christ has begun. The, very long, introduction to the book of Luke (1 - 4:13) is, in fact, a microcosm of the whole book. We hear prophecies from Mary and Zechariah that echo Old Testament passages and speak of how God is fulfilling the covenants He made with Abraham and David. We also see from Christ's genealogy and temptation that Christ is, in a sense, a new Adam who did not fall to Satan and who is redeeming fallen man.
+
+- **Christ Came to Save ALL Men.** Put another way, Christ came to offer salvation to all types of human beings. Poor, rich, male, female, free, slave, 'religious', 'un-religious', Jews, Gentiles, Roman, the list goes on and on... 
+
+This is evidenced in the gospel of Luke as Jesus ministers to both Jews and Gentiles. We find him dining with Pharisees (wealthy religious leaders) and tax collectors (also wealthy, but known for their greed and regarded as traitors for serving Rome). Jesus heals a Centurion's slave and has His feet anointed by a prostitute. It is hard, neigh impossible, to think of a group of people from Jesus's time to which He did not minister.
+
+
 ## Outline
 **0. Introduction  [1 - 4:13]**
 
@@ -27,3 +35,5 @@ The particular audience of Luke-Acts is "Theophilus" ("θεόφιλος") as men
 
 ## Observations/Notes
   - The genealogy from Jesus back to Adam in Luke 3:23-38 plays a critical role in the development of Luke's argument. First, the genealogy itself makes a connection between Jesus Christ and Adam. This is something Luke will continue to build on throughout the rest of the book of Luke and into Acts. Like Adam, Christ's first coming was the start of something new (which underscores the significance of Christ's coming in human history). Second, zooming back in on Luke 3 and 4, the genealogy at the end of chapter 3 sets the reader up for Jesus's temptation in Luke 4:1-13. When you start reading chapter 4, the key question is: *"If Christ a 'new' Adam, will Christ fall like Adam did?"*. Luke uses the genealogy to flow into Jesus's temptation where we see that Christ did not fall like the first Adam and will, indeed, start something new. Notice how both Matthew and Luke use the story of Christ's temptation to further their, albeit different, arguments. This is not to say that either one of them is wrong or reading into the events of Jesus's life, but simply that Christ's fulfillment of complex Old Testament prophecy about Himself was complete and the significance of this for the future is tremendous.
+
+  - Mary's beautiful prayer of thanksgiving offered after she got the news that she would bear the Messiah (Luke 1:46-55) is often called the 'Magnificat'. It bears a strong resemblance to Hannah's prayer in 1 Samuel 2:1-10 as both prayers praise God for considering the humble and reversing the broken state of things. Through both women, God demonstrates how He feeds the starving and sends "away the rich empty-handed" (Luke 1:53b); how He gives strength to the weak and weakens the strong; how he has "brought down rulers from *their* thrones, and has exalted those who were humble." (Luke 1:52).
