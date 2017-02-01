@@ -7,6 +7,10 @@ Before considering the author, it is important to note that Luke is part one of 
 The particular audience of Luke-Acts is "Theophilus" ("θεόφιλος") as mentioned in Luke 1:3 and Acts 1:1. There is much debate as to the identity of "Theophilus", but there is nothing explicitly in the text. For the purpose of this summary, I will not delve into this any further as it enters the realm of conjecture and is not, in my estimation, essential to understanding Luke-Acts.
 
 
+## Date and Context
+It is likely that the book of Luke was written sometime between **60 - 62 AD**. Support for this conclusion comes from the fact that, in 1 Timothy 5:18, Paul quotes Luke 10:7 (and interestingly enough refers to it as 'Scripture'). As 1 Timothy was likely written around 65 AD, Luke would have to be finished by this time. Paul was imprisoned in Rome around 60 to 62 AD, so this would have been an ideal time for Luke to gather eye-witness testimony and compile his account. There are other historical events which are not mentioned in Luke-Acts like the destruction of the temple (70 A.D.) and the martyrdom of James (62 A.D.) which also supports the view that the book of Luke was likely finished by 62 AD.
+
+
 ## Theme(s)
 - **Christ is the Central Figure in World History.** In his gospel account, Luke portrays Jesus as the one on whom the Old Testament prophecies and covenants depend and as the one who will change the future by establishing His kingdom and becoming a new, second Adam. Think of the history of the world as an hourglass, with Christ as the center. All history before Christ pointed to Him and all history after Christ stems from what Christ has begun. The, very long, introduction to the book of Luke (1 - 4:13) is, in fact, a microcosm of the whole book. We hear prophecies from Mary and Zechariah that echo Old Testament passages and speak of how God is fulfilling the covenants He made with Abraham and David. We also see from Christ's genealogy and temptation that Christ is, in a sense, a new Adam who did not fall to Satan and who is redeeming fallen man.
 
