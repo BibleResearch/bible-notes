@@ -2,7 +2,7 @@
 
 
 ## Authorship and Audience
-Per 1 Corinthians 1:1-2 and 16:21, this letter was written by **Paul** (Sosthenes was likely the [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)) to the "church of God which is at Corinth" (1:2a).
+Per 1 Corinthians 1:1-2 and 16:21, this letter was written by **Paul** to the "church of God which is at Corinth" (1:2a).
 
 
 ## Date and Context
@@ -11,3 +11,5 @@ This letter was most likely written around **55 AD**. This is evidenced by the f
 
 ## Observations/Notes
   - Some scholars and commentators suggest that the "Sosthenes" mentioned in 1 Corinthians 1:1 is the same leader of the synagogue in Corinth who is mentioned in Acts 18:17. While this is certainly possible, I see no positive evidence that this is necessarily the case.
+
+  - When he first came to them, Paul spent eighteen months with the Corinthians (Acts 18:1-17). The letter of 1 Corinthians was written after this initial visit.
