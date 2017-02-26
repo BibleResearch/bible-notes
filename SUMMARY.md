@@ -30,5 +30,6 @@ This is a compilation of my notes on the Bible.
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
         * [1 Corinthians](new_testament/pauline_epistles/1_corinthians.md)
         * [2 Corinthians](new_testament/pauline_epistles/2_corinthians.md)
+        * [Galatians](new_testament/pauline_epistles/galatians.md)
         * [Colossians](new_testament/pauline_epistles/colossians.md)
     * [General Epistles](new_testament/general_epistles/README.md)
