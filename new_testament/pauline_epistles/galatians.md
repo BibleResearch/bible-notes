@@ -1,6 +1,14 @@
 # Galatians
 
 
+## Authorship and Audience
+This letter was written by **Paul** to the churches in **Galatia** which were made up of primarily Gentile believers.
+
+
+## Date and Context
+This letter was likely written sometime around **49 AD**. There is some debate as to whether Paul's visit to Jerusalem described in Galatians 2:1-10 was his attendance at the Jerusalem Council in Acts 15:4 or Paul's earlier visit to Jerusalem when delivering the money he collected for the poor as noted in Acts 11:30. While there are some difficult questions associated with both views, I believe that the book was most likely written **before the Jerusalem Council**. Regardless of the exact chronology, Paul was writing to the Galatian believers who were dealing with false teaching from so called 'Judiazers' who were teaching that true believers needed to follow Mosaic law in order to be saved and sanctified. Thus, Paul writes this letter to clarify the purpose of the law and the true means of salvation.
+
+
 ## Theme(s)
 The letter to the Galatians can be summed up as a contrast between two teachings:
 
@@ -34,3 +42,9 @@ All in all, the main point of this letter is to define **what the Gospel is and 
 **IV. Interpersonal Principles  [6:1-10]**
 
 **V. Conclusion  [6:11-*18*]**
+
+
+## Observations/Notes
+  - We see a glimpse into the workings of the early church and a reminder that even the Apostles were not perfect in Galatians 2:11-15. Here, Paul records his confrontation with the Apostle Peter when Peter was hypocritically "fearing the party of the circumcision" (2:12).
+
+  - This letter serves to validate Paul's message because it was revealed to him by Christ Himself per 1:11-12.
