@@ -16,19 +16,25 @@ This letter was most likely written around **55 AD**. This is evidenced by the f
 ## Outline
 **0. Introduction and Greeting  [1:1-9]**
 
-**I. Addressing the Lack of Unity in the Church  [1:10 - 4]**
+**I. Confronting Problems in the Church  [1:2-*18*]**
 
-**II. Addressing Immorality in the Church  [5 - 6]**
+  > A. Addressing the Lack of Unity in the Church  [1:10 - 4]
+  > 
+  > B. Addressing Immorality in the Church  [5 - 6]
 
-**III. Marriage in the Church  [7]**
+**II. Answering Questions and Providing Principles  [7 - 15]**
 
-**IV. Liberty in the Church  [8 - 11:1]**
+  > A. Answer: Marriage in the Church  [7]
+  > 
+  > B. Answer: Liberty in the Church  [8 - 11:1]
+  > 
+  > C. Principles: Order in the Church  [11:2-*34*]
+  > 
+  > D. Answer: Spiritual Gifts  [12 - 14]
+  > 
+  > E. Principle: The Centrality of the Resurrection to the Gospel  [15]
 
-**V. Order in the Church  [11:2 - 14]**
-
-**VI. The Centrality of the Resurrection to the Gospel  [15]**
-
-**VII. Conclusion: Instructions and Final Greetings  [*16*]**
+**VIII. Conclusion: Final Instructions and Greetings  [*16*]**
 
 
 ## Observations/Notes
@@ -36,4 +42,4 @@ This letter was most likely written around **55 AD**. This is evidenced by the f
 
   - When he first came to them, Paul spent eighteen months with the Corinthians (Acts 18:1-17). The letter of 1 Corinthians was written after this initial visit.
 
-  - As evidenced by passages like 7:1, 8:4, and 12:1, Paul was writing this letter partly to confront issues with the Church and partly to respond to some questions the Corinthians had written him about. This gives us some tremendous insight into how the early church operated and how churches today ought to order themselves.
+  - As evidenced by passages like 7:1, 8:1, and 12:1, Paul was writing this letter partly to confront issues with the Church and partly to respond to some questions the Corinthians had written him about. This gives us some tremendous insight into how the early church operated and how churches today ought to order themselves.
