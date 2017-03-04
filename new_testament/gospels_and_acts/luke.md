@@ -16,7 +16,7 @@ It is likely that the book of Luke was written sometime between **60 - 62 AD**. 
 
 - **Christ Came to Save ALL Men.** Put another way, Christ came to offer salvation to all types of human beings. Poor, rich, male, female, free, slave, 'religious', 'un-religious', Jews, Gentiles, Roman, the list goes on and on... 
 
-This is evidenced in the gospel of Luke as Jesus ministers to both Jews and Gentiles. We find him dining with Pharisees (wealthy religious leaders) and tax collectors (also wealthy, but known for their greed and regarded as traitors for serving Rome). Jesus heals a Centurion's slave and has His feet anointed by a prostitute. It is hard, neigh impossible, to think of a group of people from Jesus's time to which He did not minister.
+  This is evidenced in the gospel of Luke as Jesus ministers to both Jews and Gentiles. We find him dining with Pharisees (wealthy religious leaders) and tax collectors (also wealthy, but known for their greed and regarded as traitors for serving Rome). Jesus heals a Centurion's slave and has His feet anointed by a prostitute. It is hard, neigh impossible, to think of a group of people from Jesus's time to which He did not minister.
 
 
 ## Outline
