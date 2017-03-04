@@ -9,10 +9,6 @@ Per 1 Corinthians 1:1-2 and 16:21, this letter was written by **Paul** to the "c
 This letter was most likely written around **55 AD**. This is evidenced by the fact that Paul was writing from **Ephesus** (see 1 Corinthians 16:8) where he stayed for three years (see Acts 20:31) likely between 53 to 55/56 AD. I claim Paul wrote 1 Corinthians toward the end of his stay in Ephesus based on 1 Corinthians 16:6 where Paul is making plans to spend the winter in Corinth.
 
 
-## Theme(s)
-- **More here soon.**  Mas viene pronto...
-
-
 ## Outline
 **0. Introduction and Greeting  [1:1-9]**
 
@@ -34,7 +30,7 @@ This letter was most likely written around **55 AD**. This is evidenced by the f
   > 
   > E. Principle: The Centrality of the Resurrection to the Gospel  [15]
 
-**VIII. Conclusion: Final Instructions and Greetings  [*16*]**
+**III. Conclusion: Final Instructions and Greetings  [*16*]**
 
 
 ## Observations/Notes
