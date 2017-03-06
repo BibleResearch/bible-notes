@@ -9,13 +9,5 @@
 This letter, known as a **prison epistle**, was likely written while by Paul while he was imprisoned in **Rome** between **60** and **62 AD**.
 
 
-## Theme(s)
-- **More here soon.**  Mas viene pronto...
-
-
-## Outline
-**0. Introduction  [1:1]**
-
-
 ## Observations/Notes
-  - Some early versions of Ephesians do not include the word "Ephesus" in 1:1 which leads some scholars to say that this letter was likely an 'encyclical' (a work meant to be circulated and passed around).
+  - Some early manuscripts of Ephesians do not include the word "Ephesus" in 1:1 which leads some scholars to say that this letter may have been an 'encyclical' (a work meant to be circulated and passed around).
