@@ -6,6 +6,9 @@ This letter was written by **Paul** (1:1) to **Timothy** (1:2).
 ## Date and Context
 As Paul was writing this letter from prison (1:16-18; 2:9), it was likely written around **66-67 A.D.** during Paul's second, Roman imprisonment. 
 
+## Theme(s)
+- **Be Faithful!**  One of the key themes of this book is an underlying admonition, plea, and charge that Timothy remain faithful. This book answers questions like "*Faithful to what?*", "*Why should I/Timothy be faithful?*", and "*How can I/Timothy be faithful?*" which are all designed to encourage and support Timothy in his faith and teaching.
+
 ## Outline
 **0. Greeting  [1:1-2]**
 
