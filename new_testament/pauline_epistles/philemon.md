@@ -30,3 +30,8 @@ Philemon was a relatively wealthy man who owned a slave named "**Onesiumus**". I
 **III. Final Instructions  [22]**
 
 **IV. Closing  [23-25]**
+
+## Observations/Notes
+  - The mode of argumentation used by Paul in this letter is very interesting. It highlights the personal relationship Paul had with Philemon and reinforces the power of doing something from goodwill rather than compulsion (8-9).
+  - In a lecture on this book, Martin Luther referred to some verses in this letter saying: "This is good flattery; but it is holy, because it proceeds as in Christ."[[1]](https://books.google.com/books?id=6oGDkSjwXBIC&pg=PA272&dq=%22this+is+good+flattery%22&hl=en&ved=0ahUKEwiYzuzXu4DTAhUIWCYKHUR6B1gQ6AEIHzAB#v=onepage&q=%22this%20is%20good%20flattery%22).
+  - For more on what the Bible has to say to slaves and masters, read **Ephesians 6:5-9** and **Colossians 3:22 - 4:1**.
