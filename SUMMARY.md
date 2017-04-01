@@ -39,3 +39,4 @@ This is a compilation of my notes on the Bible.
         * [2 Timothy](new_testament/pauline_epistles/2_timothy.md)
         * [Philemon](new_testament/pauline_epistles/philemon.md)
     * [General Epistles](new_testament/general_epistles/README.md)
+        * [Hebrews](new_testament/pauline_epistles/hebrews.md)
