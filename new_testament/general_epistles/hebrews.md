@@ -12,6 +12,24 @@ Based on the fact that the destruction of the Temple is not mentioned and that t
 - **The Superiority of Christ.**  Upon reading this letter, there is little question that one of the major themes of this book is convincing and reminding the reader that Christ is superior to anything the Old Covenant has to offer. Angels (1:4-*14*), Moses (3:1-11), High Priests (4:14 - 5:10; 7:26 - 8:8), and the Levitical Priests (6:19 - 7:25) are all included.
 - **The Motive, Means, End, and Importance of Perseverance.**  Woven in with the doctrine of the book are exhortations like 3:12-*19* and 6:4-8 which encourage the reader to persevere in light of Christ's superiority. With regards to perseverance in the faith, this books discusses the motives, means, and end(s) of perseverance. It also underscores the fact that faith which will save is also faith which will persevere.
 
+## Outline
+**0. God's Revelation through the Son  [1:1-3a]**
+
+**I. Christ's Superiority over the Angels  [1:3b - 2]**
+
+**II. Christ's Glory Greater than Moses's  [3 - 4:13]**
+
+**III. Christ's Superiority as a High Priest  [4:13 - 8:6]**
+
+**IV. The Superiority of Christ's Sacrifice and the New Covenant over the Old Covenant and its Sacrifices  [8:7 - 10:25]**
+
+**V. The Need for Endurance and Examples Thereof  [10:26 - 12:17]**
+
+**VI. Conclusion  [12:18 - 13:19]**
+
+**VII. Benediction and Personal Greetings  [13:20-*25*]**
+
 ## Observations/Notes
-  - *The following is a statement of opinion, which is outside the realm of strict Biblical interpretation. It may be wrong and is subject to change as often as I feel is appropriate: * While we cannot positively pin-point the author of this book based on the text, I do believe we can rule out at least one author that is popularly believed to have written this book: Paul. Many argue that Paul wrote the book of Hebrews and I strongly disagree based on **Hebrews 2:3**. In this verse, the author groups himself with the audience in being second generation Christians who heard the good news of salvation, not directly from the Lord, but from first generation believers who had heard it from God.
+  - *The following is a statement of opinion, which is outside the realm of strict Biblical interpretation. It may be wrong and is subject to change as often as I feel is appropriate:* While we cannot positively pin-point the author of this book based on the text, I do believe we can rule out at least one author that is popularly believed to have written this book: Paul. Many argue that Paul wrote the book of Hebrews and I strongly disagree based on **Hebrews 2:3**. In this verse, the author groups himself with the audience in being second generation Christians who heard the good news of salvation, not directly from the Lord, but from first generation believers who had heard it from God.
   - There are some difficult theological and interpretive challenges with the book of Hebrews. One of the more well-known passages in Hebrews 6:1-8 where it seems to say that it is possible to be truly saved and to then fall away. This is a big challenge for those who believe in **Eternal Security** also known as **Perseverance of the Saints** (both of which describe the view that anyone who is truly saved cannot and will not fall away from the faith - which seems to be supported by passages like John 10:28 among others).
+  - The letter spends no time on introduction begins with some potent theology. In this way, it reminds me of John 1. While abrupt, realize that the first two and half verses (according to my outline above) are foundational for the view of Christ that is laid out in the rest of the book of Hebrews.
