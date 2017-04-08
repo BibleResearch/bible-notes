@@ -40,3 +40,4 @@ This is a compilation of my notes on the Bible.
         * [Philemon](new_testament/pauline_epistles/philemon.md)
     * [General Epistles](new_testament/general_epistles/README.md)
         * [Hebrews](new_testament/general_epistles/hebrews.md)
+        * [James](new_testament/general_epistles/james.md)
