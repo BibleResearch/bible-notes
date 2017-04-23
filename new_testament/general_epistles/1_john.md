@@ -1,0 +1,15 @@
+# 1 John
+
+## Theme(s)
+- **QUESTIONS: What does it look like to have fellowship with God? *and* How can we be sure that we have fellowship with God?**  Based on the introduction to 1 John (1:1-4) and the thesis given in 5:13, I believe the primary purpose for this book is to detail what it looks like to have fellowship with God and how to *know* with certainty that we have this fellowship.
+- **PRINCIPLE 1: Like Father, Like Son.**  To answer the question, John assumes the following principle: Like Father, Like Son. That is: a child will naturally act like his/her parents. This is true of our biological families and, as described in this book, it is also true of our spiritual sonship with God. Simply put, if we are children of God, we will naturally display (to an extent appropriate with our position as creatures) the same attributes found in God. If God is kind and loving, the children of God should likewise be kind and loving. If God is not kind or loving, the children of God should be neither kind nor loving. Assuming this principle is true, the critical question now becomes: *What are the attributes of God?* with a specific view towards those attributes which are to be displayed in His children. This question is answered by principles two and three given below.
+- **PRINCIPLE 2: God is Light.**  God's essential Holiness (described as "light" in 1:5) is identified by the Apostle John as one of the attributes of God which must be displayed in His children (1:6-7).
+- **PRINCIPLE 3: God is Love.**  Like God's Holiness mentioned in the previous point, the fact that God *is* love forms the foundation for John's argument that the one who does not love, does not have fellowship with the God who is love (4:8). In other words, those who have fellowship with God will love because God, their father, also loved.
+- **ANSWER: Fellowship with God looks like displaying and pursuing God's holiness and love.**  If we are truly children of God, we will live like our Heavenly Father. Increasingly living in this way gives us the confidence that we are true children of God and have fellowship with Him.
+
+## Observations/Notes
+  - The opening verses (1:1-4) are reminiscent of John 1:1-5.
+  - The reason why John wrote the letter given in 5:13 is very similar to the one given in **John 20:31**.
+  - It is interesting that in the Gospel of John, Jesus's "I am" statements are recorded and in this book there are two "God is" statements ("God is Light" (1:5) and "God is love" (4:8 and 16)).
+  - In my opinion, this book is one of the most difficult books to outline. John is very repetitive and there are numerous topics that are brought up throughout the book which makes it hard to outline.
+  - John is very black and white on many issues and does not go into some of the gray areas that Paul, for example, deals with.
