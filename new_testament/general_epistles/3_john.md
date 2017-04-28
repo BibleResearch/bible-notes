@@ -25,5 +25,6 @@ Like 2 John, this book was likely written late in the Apostle John's life as he 
 **III. Conclusion  [13-*15*]**
 
 ## Observations/Notes
-  - This book is short. In verse 13, the Apostle John mentions that he will not write to them with "pen and ink", but hopes to see them face to face soon.
+  - This book is short. In verse 13, the Apostle John mentions that he will not write to them with "pen and ink", but hopes to see them face to face soon. He closed 2 John with a similar phrase (2 John 12).
   - Verse 8 is encouraging to both those who are proclaiming the true Gospel and those who support them. Both people are partners and fellow workers towards the same end: proclamation of Truth.
+  - "Truth" is a word that is commonly used throughout this book as well as 2 John. The Apostle John is glad to see believers walking in the truth and responding appropriately to the truth in obedience.
