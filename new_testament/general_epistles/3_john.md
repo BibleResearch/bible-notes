@@ -5,3 +5,25 @@ According to verse 1, this letter was written by **"the elder"**, likely a refer
 
 ## Date and Context
 Like 2 John, this book was likely written late in the Apostle John's life as he served in **Ephesus** around **90 AD**.
+
+## Theme(s)
+- **Faithfully Support/Receive Those Who Are Preaching and Teaching the Truth.**  In this book, Gaius is encouraged to continue supporting and receiving those who are teaching the truth because, in doing so, he is proving himself to be a "fellow worker" (8). Two men, Diotrephes and Demetrius, are mentioned by name as examples of incorrect and correct responses to the true, respectively.
+
+## Outline
+**0. Introduction  [1-4]**
+
+**I. Support/Receive Those Teaching Truth  [5-8]**
+
+**II. Two Case Studies  [9-12]**
+
+  > A. Prideful/Wrong Response to the Truth: Diotrephes  [9-10]
+  > 
+  > B. The Principle: Imitate the Good and Godly  [10]
+  > 
+  > C. Correct Response to the Truth: Demetrius  [12]
+
+**III. Conclusion  [13-*15*]**
+
+## Observations/Notes
+  - This book is short. In verse 13, the Apostle John mentions that he will not write to them with "pen and ink", but hopes to see them face to face soon.
+  - Verse 8 is encouraging to both those who are proclaiming the true Gospel and those who support them. Both people are partners and fellow workers towards the same end: proclamation of Truth.
