@@ -44,3 +44,4 @@ This is a compilation of my notes on the Bible.
         * [1 John](new_testament/general_epistles/1_john.md)
         * [2 John](new_testament/general_epistles/2_john.md)
         * [3 John](new_testament/general_epistles/3_john.md)
+        * [Jude](new_testament/general_epistles/jude.md)

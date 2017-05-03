@@ -1,0 +1,12 @@
+# Jude
+
+## Authorship and Audience
+Based on tradition and internal evidence, **Jude**, the brother of Jesus (Mark 6:3), is the author of this book (vs. 1a). In verse seventeen of this letter, the author differentiates himself from the other Apostles, thus implying that the author was not the Apostle Judas, but Judas, Jesus' brother. The letter is addressed broadly to those who are "called beloved in God the Father, kept for Jesus Christ..." (1b). Based on the references to the Old Testament stories and even stories from the **Book of Enoch** (verses 9 and 14-15), it is possible the audience is Jewish believers with whom these stories would have resonated.
+
+## Date and Context
+Based on the similarities with **2 Peter**, this book was likely written shortly after that book. Thus, sometime between **65 and 80 A.D.** is most likely.
+
+## Observations/Notes
+  - Verse 9 contains a quote from the [**Book of Enoch**](https://en.wikipedia.org/wiki/Book_of_Enoch) to show the respect that even Michael, the archangel, has for "angelic majesties".
+  - Verses 14 and 15 also contain a quote from the Book of Enoch that describes the fate of those "ungodly persons who turn the grace of our God into licentiousness and deny our only Master and Lord, Jesus Christ" (vs 4).
+  - These references to the Book of Enoch do not imply that the Book of Enoch should be included in the canon or that the Book of Enoch was divinely inspired. These are simply a useful stories that, ostensibly, would have been familiar to the original audience.
