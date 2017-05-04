@@ -6,7 +6,25 @@ Based on tradition and internal evidence, **Jude**, the brother of Jesus (Mark 6
 ## Date and Context
 Based on the similarities with **2 Peter**, this book was likely written shortly after that book. Thus, sometime between **65 and 80 A.D.** is most likely.
 
+## Outline
+**0. Introduction  [1-2]**
+
+**I. The Challenge: Contend Earnestly for the Faith Against Unbelief and Immorality  [3-4]**
+
+**II. God's History of Judging Sin  [5-7]**
+
+**III. The Nature of Those Who Pursue Licentiousness  [8-13]**
+
+**IV. Past Testimony About Such Men  [14-16]**
+
+**V. Present Testimony About Such Men  [17-19]**
+
+**VI. Exhortation and Instruction for Believers  [20-23]**
+
+**VII. Closing Doxology  [24-25]**
+
 ## Observations/Notes
   - Verse 9 contains a quote from the [**Book of Enoch**](https://en.wikipedia.org/wiki/Book_of_Enoch) to show the respect that even Michael, the archangel, has for "angelic majesties".
   - Verses 14 and 15 also contain a quote from the Book of Enoch that describes the fate of those "ungodly persons who turn the grace of our God into licentiousness and deny our only Master and Lord, Jesus Christ" (vs 4).
   - These references to the Book of Enoch do not imply that the Book of Enoch should be included in the canon or that the Book of Enoch was divinely inspired. These are simply a useful stories that, ostensibly, would have been familiar to the original audience.
+
