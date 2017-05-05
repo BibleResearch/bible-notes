@@ -8,7 +8,7 @@ Based on the similarities with **2 Peter**, this book was likely written shortly
 
 ## Theme(s)
 - **Contending Earnestly for the Faith.**  This book encourages its audience to contend for the faith by identifying the "hidden reefs" (vs. 12), avoiding their teaching and practice (20-21), and saving others from their destructive teachings and practice (22-23).
-- **The Inevitable Judgement Coming on Those who Turn the Gospel of God into Licentiousness and Deny Jesus Christ.**  As described in this book, judgement against those who reject Christ and live as "unreasoned animals" (10) is inevitable. It has occurred in the past (see 5-7 and 14-16) and will occur again as such people are already "marked out for this condemnation" (4).
+- **The inevitable judgement coming on those who turn the gospel of God into licentiousness and deny Jesus Christ.**  As described in this book, judgement against those who reject Christ and live as "unreasoned animals" (10) is inevitable. It has occurred in the past (see 5-7 and 14-16) and will occur again as such people are already "marked out for this condemnation" (4).
 
 ## Outline
 **0. Introduction  [1-2]**
