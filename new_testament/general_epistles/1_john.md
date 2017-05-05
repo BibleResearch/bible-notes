@@ -1,5 +1,11 @@
 # 1 John
 
+## Authorship and Audience
+By the testimony of the early Church, the Apostle John was the author of this book. Internally (that is, within the book itself), this is supported by the authority with which the author writes. While the audience is not mentioned by name, it is clear that the Apostle John knew his audience very well. The repeated references to "little children", "children", and "beloved" are evidence of this.
+
+## Date and Context
+Because there are no references to historical events at the time the book was written, this book is difficult to date. Because John is addressing what appears to be an early form of [**Gnosticism**](https://en.wikipedia.org/wiki/Gnosticism) in this letter, it is usually dated toward the end of John's life between **90 and 95 AD**.
+
 ## Theme(s)
 - **QUESTIONS: What does it look like to have fellowship with God? *and* How can we be sure that we have fellowship with God?**  Based on the introduction to 1 John (1:1-4) and the thesis given in 5:13, I believe the primary purpose for this book is to detail what it looks like to have fellowship with God and how to *know* with certainty that we have this fellowship.
 - **PRINCIPLE 1: Like Father, Like Son.**  To answer the question, John assumes the following principle: Like Father, Like Son. That is: a child will naturally act like his/her parents. This is true of our biological families and, as described in this book, it is also true of our spiritual sonship with God. Simply put, if we are children of God, we will naturally display (to an extent appropriate with our position as creatures) the same attributes found in God. If God is kind and loving, the children of God should likewise be kind and loving. If God is not kind or loving, the children of God should be neither kind nor loving. Assuming this principle is true, the critical question now becomes: *What are the attributes of God?* with a specific view towards those attributes which are to be displayed in His children. This question is answered by principles two and three given below.
