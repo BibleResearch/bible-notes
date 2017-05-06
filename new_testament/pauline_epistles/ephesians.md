@@ -6,6 +6,9 @@
 ## Date and Context
 This letter, known as a **prison epistle**, was likely written while by Paul while he was imprisoned in **Rome** between **60** and **62 AD**.
 
+## Theme(s)
+- **More here soon.**  Mas viene pronto...
+
 ## Outline
 **0. Greeting  [1:1-2]**
 
@@ -39,7 +42,7 @@ This letter, known as a **prison epistle**, was likely written while by Paul whi
   > 
   > C. Implications of God's Plans and Our New Lives on Every Aspect of Life  [5:22 - 6:9]
   > 
-  >  > 1. Implications of Marriage  [5:15-*33*]
+  >  > 1. Implications of Marriage  [5:22-*33*]
   >  > 
   >  > 2. Implications for Children  [6:1-3]
   >  > 
@@ -59,7 +62,7 @@ This letter, known as a **prison epistle**, was likely written while by Paul whi
 
   > A. Personal Note  [6:20-22]
   > 
-  > B. Benediction  [6:23-24]
+  > B. Benediction  [6:23-*24*]
 
 ## Observations/Notes
   - Some early manuscripts of Ephesians do not include the word "Ephesus" in 1:1 which leads some scholars to say that this letter may have been an 'encyclical' (a work meant to be circulated and passed around from church to church).
