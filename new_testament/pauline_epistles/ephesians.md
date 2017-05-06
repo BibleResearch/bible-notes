@@ -7,7 +7,7 @@
 This letter, known as a **prison epistle**, was likely written while by Paul while he was imprisoned in **Rome** between **60** and **62 AD**.
 
 ## Theme(s)
-- **More here soon.**  Mas viene pronto...
+- **The Church**  One of the primary themes in this book is the **Church**. This first half of the book covers its formation, both from the perspective of God's eternal, global plan in chapter one and God's personal salvation of individuals in chapter two, its purpose, and its composition. The second half of the book addresses the implications of being part of the Church. In other words, how those who have put their faith in Jesus Christ must live now that they are part of the Church. This is a powerful letter both theologically and pragmatically.
 
 ## Outline
 **0. Greeting  [1:1-2]**
