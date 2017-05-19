@@ -35,6 +35,7 @@ This is a compilation of my notes on the Bible.
         * [Philippians](new_testament/pauline_epistles/philippians.md)
         * [Colossians](new_testament/pauline_epistles/colossians.md)
         * [1 Thessalonians](new_testament/pauline_epistles/1_thessalonians.md)
+        * [2 Thessalonians](new_testament/pauline_epistles/2_thessalonians.md)
         * [1 Timothy](new_testament/pauline_epistles/1_timothy.md)
         * [2 Timothy](new_testament/pauline_epistles/2_timothy.md)
         * [Philemon](new_testament/pauline_epistles/philemon.md)
