@@ -21,7 +21,7 @@ This book was likely written shortly (probably a matter of months) after the fir
 
   > A. Benediction  [2:16-*17*]
   > 
-  > A. Prayer Requests  [3:1-5]
+  > B. Prayer Requests  [3:1-5]
 
 **IV. Exhortation: Live a Disciplined Life  [3:6-15]**
 
@@ -29,7 +29,7 @@ This book was likely written shortly (probably a matter of months) after the fir
 
   > A. Benediction  [3:16]
   > 
-  > B. Closing  [3:17-18]
+  > B. Closing  [3:17-*18*]
 
 ## Observations/Notes
   - The word "**glory**" or "**glorified**" is mentioned five times in this book. Verses 1:9 and 2:14, taken together, teach that the presence (or absence) of Christ's glory is part of what differentiates heaven from hell.
