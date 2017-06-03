@@ -15,6 +15,7 @@ This is a compilation of my notes on the Bible.
         * [Joel](old_testament/prophets/joel.md)
         * [Amos](old_testament/prophets/amos.md)
         * [Obadiah](old_testament/prophets/obadiah.md)
+        * [Jonah](old_testament/prophets/jonah.md)
         * [Micah](old_testament/prophets/micah.md)
         * [Nahum](old_testament/prophets/nahum.md)
         * [Habakkuk](old_testament/prophets/habakkuk.md)
