@@ -1,5 +1,20 @@
 # Jonah ~ *“Dove”*
 
+## Theme(s)
+- **God's Righteousness and Inevitable Judgement.**  This book begins with a command given to Jonah that he go to Nineveh and announce the judgement God was planning to pour out on the city. From this, we see that God is righteous and cannot stand evil. Also, we see another instance of the recurring pattern that disobedience and rebellion against God demands judgement.
+- **God's Mercy and Compassion.**  In this book, we see that God is immensely merciful and compassionate. He relents of the judgement He had planned to bring against Nineveh (4:11), sends a fish to save Jonah (1:17), and calms the sea for the sailors (1:15). God is so characterized by mercy and compassion (see Exodus 34:6) that Jonah cites this as the reason he fled from God's command in the first place (4:2). He was sure God would end up being compassionate and relent concerning calamity (for some, unwritten reason, he didn't want this to occur).
+- **God's Patience.**  The book of Jonah also reminds us of God's tremendous patience. God is patient with Jonah even in his rank disobedience (ch. 1). He is patient with the Ninevites in sending Jonah to them to warn them of the coming judgement forty days before it occurs rather than punishing them outright (3). God is patient in the foolishness of Jonah after God choose to show mercy and compassion on Nineveh by not sending judgement (4). If the Bible is true in describing every sin as a personal offense against God, then God has displayed patience which ought to bring us to our knees in worship!
+- **YHWH is the God of Gentiles as well as Jews.**  It is fascinating that Jonah's initial mission is to gentiles (the Ninevites) and, even in his disobedience, more gentiles (the sailors) come to trust in YHWH. It is clear from this book that God is not a God who is only concerned with Israel and the Jewish people, but also with the whole world including gentiles. All of the attributes of God described above (righteousness, mercy, compassion, and patience) are all demonstrated to gentiles in this book. In fact, this book goes so far as to make the one Jewish follower of YHWH, Jonah, seem unfaithful and stubborn relative to the gentiles with whom he comes in contact. In many ways, the gentiles in this story are foils for Jonah (and it is the gentiles, not Jonah, who display a right attitude toward God).
+
+## Outline
+**0. Jonah Flees the Presence of YHWH  [1:1-16]**
+
+**I. Jonah in the Fish  [1:17 - 2:*10*]**
+
+**II. Jonah in Nineveh  [3:1-9]**
+
+**III. God's Mercy and Jonah's Anger  [3:10 - 4:*11*]**
+
 ## Observations/Notes
   - I believe that many (I dare say 'most') Christians have a wrong view of this book. From their perspective, a simple outline of the events in this book would be something like: 
     
@@ -9,4 +24,4 @@
 
     Most of what Jonah does and says in this book is wrong and, in many ways, **unrepentant Jonah is a foil for the repentant gentiles** he meets throughout this story. It is the gentiles who are exemplary in responding to God in this book and not Jonah.
   - Jonah contains what is one of the most fantastic stories in the whole Bible: Jonah getting swallowed by a "great fish" (1:17). There has been much ink spilled on this subject already and I have nothing to contribute to the discussion more than to say that if God created the universe, He can certainly control a fish and supernaturally preserve the life of anyone He wills inside or outside of a fish. I caution the reader to not get too caught up in the details of the fish as this is not the focus presented in the text. The focus is that God can save whom He wills, when He wills, how He wills, and for reasons He knows and wills.
-  - Because the book is so short and we are not given a lot of historical and contextual background in the book itself, it is easy to lose sight of the fact that the revival described in 3:5-9 is one of the greatest described in the *entire* Bible (probably second only to the future, Jewish revival described in Revelation 7:4-8). It appears that the vast majority of the population of Nineveh (around 120,000 according to 4:11), humbled themselves and repented (3:10). What a wonderful image! And, what a stark contrast between the gentiles, who quickly humble themselves and repent, and Jonah who never repents.
+  - Because the book is so short and we are not given a lot of historical and contextual background in the book itself, it is easy to lose sight of the fact that the revival described in 3:5-9 is one of the greatest described in the *entire* Bible (probably second only to the future, Jewish revival described in Revelation 7:4-8). It appears that the vast majority of the population of Nineveh (around 120,000 according to 4:11), humbled themselves and repented (3:10). What a wonderful image! And, what a stark contrast between the gentiles, who quickly humble themselves and repent, and Jonah, who never repents.
