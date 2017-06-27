@@ -8,6 +8,9 @@ No audience is explicitly given in the book of Job and any views on the audience
 ## Date and Context
 One of the interesting things about the book of Job is that it is the book that probably has the widest possible date range suggested by scholars. Some suggest it was written as late as after the exile, during the fifth century BC (499 - 400 B.C.) while others propose it was written as early as the times of the Patriarchs (the times of Abraham, Isaac, and Jacob described in Genesis). I argue that the book of Job was written earlier (no later than the time of Moses) and probably during the time of the Patriarchs. This argument is supported by the claim that Job lived 140 years *after* the events described in the book of Job (see Job 42:16), the language used (for example, the use of the word "Eloah" and "El" for God), and Job's role as a 'priestly' intercessor in Job 42:7-10 (which is similar to Abraham in Genesis 20:17).
 
+## Theological Theme(s)
+- **God is the Source of Wisdom** Throughout the various dialogs and responses in this book (which make up chapters 3 - 42:6), the fundamental question is: 'How do you know?'. When Eliphaz, Bildad, and Zophar attempt to defend God's actions, we ought to be asking ourselves how they know the position they are defending to be true. For example, in Job 4:7 Eliphaz opens with the rhetorical questions: "who ever perished being innocent? Or where were the upright destroyed?". This statement is one of many that summarizes the position of Eliphaz, Bildad, and Zophar. The immediate question ought to be: "How do you know this is true?" (hint: Eliphaz gives us some details when he begins the next verse with "According to what I have seen..."). The book of Job is not just about *what* is being said, but also *on what grounds* it is being said; that is, epistemology is central to the book of Job. How can man know what God is doing? How can man know if God is right? When it comes to questions of who God is and what he is doing/will do, we inherently have very little insight and need knowledge from something outside of ourselves. This is the basis of **divine revelation** as an epistemology. As Job notes in **Job 28**, God as the source of all wisdom and, thus, the source from which our understanding must be derived. The book of Job establishes and really introduces the importance of revelation from God.
+
 ## Outline
 **0. Prologue  [1 - 2]**
 
@@ -48,12 +51,12 @@ One of the interesting things about the book of Job is that it is the book that 
   > 
   > D. Concluding Monologue: Job on the Source of Wisdom  [28]
 
-**III Closing Arguments  [29 - 41:6]**
+**III Closing Arguments  [29 - 42:6]**
 
   > A. Job Defends His Own Integrity  [29 - 31]
   > 
   > B. Elihu Rebukes Job and Defends God's Integrity  [32 - 37]
   > 
-  > C. God Himself Answers Job  [38 - 41:6]
+  > C. God Himself Answers Job  [38 - 42:6]
 
-**IV. Epilogue  [42]**
+**IV. Epilogue  [42:7-*17*]**
