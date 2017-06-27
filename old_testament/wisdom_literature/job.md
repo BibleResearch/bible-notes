@@ -9,4 +9,51 @@ No audience is explicitly given in the book of Job and any views on the audience
 One of the interesting things about the book of Job is that it is the book that probably has the widest possible date range suggested by scholars. Some suggest it was written as late as after the exile, during the fifth century BC (499 - 400 B.C.) while others propose it was written as early as the times of the Patriarchs (the times of Abraham, Isaac, and Jacob described in Genesis). I argue that the book of Job was written earlier (no later than the time of Moses) and probably during the time of the Patriarchs. This argument is supported by the claim that Job lived 140 years *after* the events described in the book of Job (see Job 42:16), the language used (for example, the use of the word "Eloah" and "El" for God), and Job's role as a 'priestly' intercessor in Job 42:7-10 (which is similar to Abraham in Genesis 20:17).
 
 ## Outline
-There is a summary of the dialog between Job and his friends [here](old_testament/wisdom_literature/job_summary.md).
+**0. Prologue  [1 - 2]**
+
+  > A. Background on Job  [1:1-5]
+  > 
+  > B. First Trial  [1:6-*22*]
+  > 
+  > > 1. Heavenly Scene  [1:6-12]
+  > > 
+  > > 2. Earthly Scene  [1:13-*22*]
+  > > 
+  > > > - Trials Brought on Job [1:13-19]
+  > > > 
+  > > > - Job's Reaction: Worship (thus, vindicating God) [1:20-*22*]
+  > 
+  > C. Second Trial  [2]
+  > 
+  > > 1. Heavenly Scene  [2:1-6]
+  > > 
+  > > 2. Earthly Scene  [2:7-*13*]
+  > > 
+  > > > - Job Losses His Health [2:7-8]
+  > > > 
+  > > > - Advice from Job's Wife: "Curse God and die!" [2:9-10]
+  > > > 
+  > > > - Eliphaz, Bildad, and Zophar Arrive and Mourn [2:11-*13*]
+
+**I. Dialog Between Eliphaz, Bildad, Zophar, and Job  [3 - 27]**
+
+  - *Note:* There is a detailed summary of the dialog between Job and his friends [here](old_testament/wisdom_literature/job_summary.md).
+  - *Note:* **TRP** mentioned below stands for the **"Temporal Response Principle"** which encapsulates the fundamental argument presented by Eliphaz, Bildad, and Zophar. This principle states that God will (and even must) respond with punishment in this world for those who do evil. It also includes the converse: that God will respond with blessings in this world for those who do good.
+
+  > A. Cycle 1: Defending the TRP in Light of the Nature of God  [3 - 14]
+  > 
+  > B. Cycle 2: Defending the TRP in Light of the Nature of Sin  [15 - 20]
+  > 
+  > C. Cycle 3: Defending the TRP in Light of the Nature of Job  [21 - 27]
+  > 
+  > D. Concluding Monologue: Job on the Source of Wisdom  [28]
+
+**III Closing Arguments  [29 - 41:6]**
+
+  > A. Job Defends His Own Integrity  [29 - 31]
+  > 
+  > B. Elihu Rebukes Job and Defends God's Integrity  [32 - 37]
+  > 
+  > C. God Himself Answers Job  [38 - 41:6]
+
+**IV. Epilogue  [42]**
