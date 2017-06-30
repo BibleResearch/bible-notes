@@ -5,6 +5,7 @@ This is a compilation of my notes on the Bible.
 * [Preface](preface/README.md)
 * [Old Testament](old_testament/README.md)
     * [Pentateuch](old_testament/pentateuch/README.md)
+        * [Genesis](old_testament/pentateuch/genesis.md)
     * [Historical Books](old_testament/historical_books/README.md)
         * [Esther](old_testament/historical_books/esther.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
