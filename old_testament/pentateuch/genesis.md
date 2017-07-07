@@ -29,7 +29,7 @@ The outline below is based around the phrase that is usually translated into Eng
   > 
   > F. Toledot of Shem [11:10-26]
 
-**I. Patriarchal History  [11:27 - 50]**
+**I. Patriarchal History  [11:27 - *50*]**
 
   > A. Toledot of Terah [11:27 - 25:11]
   > 
