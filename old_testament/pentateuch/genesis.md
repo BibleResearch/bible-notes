@@ -11,6 +11,36 @@ Assuming Moses wrote the book, Genesis would have been written during his lifeti
 - **God's Action in the Universe.** The worldview presented by the book of Genesis is that God is intimately involved in and in control over His creation. He did not create the universe and then step back. He is not just one of many participants with relatively equal power in the universe. Throughout the book of Genesis, God is, by far, the most active and powerful character. He creates the universe, makes a garden, makes man, makes woman, makes marriage, reveals the coming flood to Noah, shuts the door of the ark, calls Abraham, changes Abram's and Sarai's names, makes a unilateral covenant with Abraham, names Ishmael and Isaac, reiterates Abrahamic covenant to Isaac, chooses Jacob over Esau, changes Jacob's name, reiterates Abrahamic covenant to Jacob, and works through the treachery of Joseph's brothers to save them (among other things).
 - **God's Choice of Israel.** The two themes mentioned above become focused together in the book of Genesis to describe how God is at work in choosing and forming the beginnings of a new nation: Israel. We watch as the seed of Adam and Eve, promised to one day crush the head of Satan (Genesis 3:16), grows and expands. We watch as God makes covenants and promises to those he chooses. God miraculously gives Abraham and Sarah a child. God chooses to exalt Jacob above Esau. God uses the treachery of Joseph's brothers to send him into slavery in Egypt where he will ultimately save his people from famine. Through the book of Genesis, we are watching the formation of a nation by God's design.
 
+## Outline
+
+The outline below is based around the phrase that is usually translated into English as "These are the generations of ..." or "This is the account of ...". This phrase occurs ten times throughout the book of Genesis and is, I believe, the best way to structure the book. The Hebrew word used for "generations" that is used in each of these instances is transliterated as "Toledot".
+
+**0. Primeval History [1 - 11:26]**
+
+  > A. Prologue: Creation of Heavens and Earth [1 - 2:3]
+  > 
+  > B. Toledot of Heavens and Earth [2:4 - 4]
+  > 
+  > C. Toledot of Adam [5 - 6:8]
+  > 
+  > D. Toledot of Noah [6:9 - 9]
+  > 
+  > E. Toledot of Shem, Ham, and Japheth [10 - 11:9]
+  > 
+  > F. Toledot of Shem [11:10-26]
+
+**I. Patriarchal History  [11:27 - 50]**
+
+  > A. Toledot of Terah [11:27 - 25:11]
+  > 
+  > B. Toledot of Ishmael [25:12-18]
+  > 
+  > C. Toledot of Isaac [25:19 - 35]
+  > 
+  > D. Toledot of Esau [36 - 37:1]
+  > 
+  > E. Toledot of Jacob [37:2 - *50*]
+
 ## Observations/Notes
 
 ### Creation
