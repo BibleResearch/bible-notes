@@ -66,6 +66,6 @@ One of the interesting things about the book of Job is that it is the book that 
 
 ## Footnotes
 
-\* *Note:* There is a detailed summary of the dialog between Job and his friends [here](old_testament/wisdom_literature/job_summary.md).
+\* *Note:* There is a detailed summary of the dialog between Job and his friends [here](job_summary.html).
 
 \*\* *Note:* **TRP** stands for the **"Temporal Response Principle"** which encapsulates the fundamental argument presented by Eliphaz, Bildad, and Zophar. This principle states that God will (and even must) respond with punishment in this world for those who do evil. It also includes the converse: that God will respond with blessings in this world for those who do good.
