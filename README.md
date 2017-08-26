@@ -1,8 +1,15 @@
 # Bible Notes
 
-This is a project in which I am writing a short overview/summary of each book in the Bible. Please use as you will and feel free to let me know if you have any questions (you can add comments and ask questions in the gitbook version of this project [here](https://fhightower.gitbooks.io/bible-notes/)).
+Hello,
 
-Any typos, misinterpretations, misrepresentations, or other errors are from me and I apologize for them in advanced and will seek to make this project as clear and accurate as is possible.
+My name is Floyd Hightower. This is a project in which I am writing a short overview/summary of each book in the Bible. The public version of the project is available at [http://bibleresearch.tk/notes/](http://bibleresearch.tk/notes/). If you find this helpful (or otherwise) or have any questions, I would appreciate some feedback. You can contact me [here](https://saythanks.io/to/fhightower). Thanks in advance!
+
+Any typos, misinterpretations, misrepresentations, or other errors in this work come from me. I apologize for them in advanced and will seek to make this project as clear and accurate as is possible. Again, feedback is highly encouraged!
+
+Working for Christ and Scripture,
+Floyd Hightower
+
+***
 
 “Surely there is a mine for silver<br />
 And a place where they refine gold.<br />
