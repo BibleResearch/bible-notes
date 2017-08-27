@@ -7,6 +7,7 @@ My name is Floyd Hightower. This is a project in which I am writing a short over
 Any typos, misinterpretations, misrepresentations, or other errors in this work come from me. I apologize for them in advanced and will seek to make this project as clear and accurate as is possible. Again, feedback is highly encouraged!
 
 Working for Christ and Scripture,
+
 Floyd Hightower
 
 ***
