@@ -42,4 +42,4 @@ All in all, the main point of this letter is to define **what the Gospel is and 
 ## Observations/Notes
 
   - We see a glimpse into the workings of the early church and a reminder that even the Apostles were not perfect in Galatians 2:11-15. Here, Paul records his confrontation with the Apostle Peter when Peter was hypocritically "fearing the party of the circumcision" (2:12).
-  - From this letter, we get a good sense of the true authority behind the Gospel message... it isn't authoritative because of any merit in the one proclaiming it, but because Christ Himself is revealing it 1:11-12 (see also 1:8-9).
+  - From this letter, we get a good sense of the true authority behind the Gospel message... it isn't authoritative because of any merit in the one proclaiming it, but because Christ Himself is revealing it as noted in 1:11-12 (see also 1:8-9).
