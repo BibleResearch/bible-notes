@@ -5,6 +5,7 @@ This is a compilation of my notes on the Bible.
 * [Preface](preface/README.md)
     * [Objectives](preface/objectives.md)
     * [Methods](preface/methods.md)
+    * [Example Summary](preface/template.md)
 * [Old Testament](old_testament/README.md)
     * [Pentateuch](old_testament/pentateuch/README.md)
         * [Genesis](old_testament/pentateuch/genesis.md)
