@@ -5,7 +5,7 @@ The summary for each book is laid out as follows:
 ## Authorship and Audience
 Who wrote the book and to whom was it originally written or intended?
 
-## Date and Context
+## Date and Historical Context
 When and in what context was the book written?
 
 ## Literary Context

@@ -3,7 +3,7 @@
 ## Authorship and Audience
 According to tradition (both Jewish and Christian), **Moses** wrote all of the books in the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy). Thus, Moses is likely the author as I see no reason to diverge from the traditional position. If Moses wrote the book, the most direct audience would have been the people of Israel. Genesis serves as an introduction to how the people of Israel came to be and what God plans to do through her. Given the universal importance of creation and the promise of redemption (Genesis 3:15), however, it is easy to see how all of humanity is the indirect audience of this book.
 
-## Date and Context
+## Date and Historical Context
 Assuming Moses wrote the book, Genesis would have been written during his lifetime, many have suggested during the 40 years of wandering in the wilderness. In order to nail down a date for Moses life, it is helpful to identify the date of the exodus from Egypt. This is the subject of significant debate as some hold to an "Early Exodus" claiming that the exodus occurred around 1446 B.C., while others hold to a "Late Exodus" claiming that the exodus occurred in the later half of the 1200s BC. The details of this debate are beyond the scope of this discussion, but I hold to an "early exodus" which would put the date of this book likely between 1445 and 1400 BC. Assuming the book was written during the wilderness wandering, the book would have been written during a time of spiritual formation in Israel's history. Israel was still trying to figure out who she was as well as how she ought to follow God.
 
 ## Theological Theme(s)
