@@ -11,7 +11,7 @@ This is a compilation of my notes on the Bible.
         * [Genesis](old_testament/pentateuch/genesis.md)
         * [Exodus](old_testament/pentateuch/exodus.md)
         * [Leviticus](old_testament/pentateuch/leviticus.md)
-        * [Numbers](old_testament/pentateuch/numbers.md)]
+        * [Numbers](old_testament/pentateuch/numbers.md)
     * [Historical Books](old_testament/historical_books/README.md)
         * [Esther](old_testament/historical_books/esther.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
