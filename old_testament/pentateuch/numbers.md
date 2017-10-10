@@ -7,7 +7,7 @@ According to tradition (both Jewish and Christian), **Moses** wrote all of the b
 Assuming Moses wrote the Pentateuch, it would have been written during Moses' lifetime. Refer to the notes for [Genesis](genesis.html) for a discussion of when this may have occurred.
 
 ## Literary Context
-The book of Numbers is important as it describes how Israel goes from being on Mount Sinai to standing on the border of the promised land forty years later. The book of Numbers picks up from Exodus in that it starts off with a census showing how many people came out of Egypt. It also continues from Leviticus in that it shows that the people are not faithful to God or the laws He has prescribed. This continual unfaithfulness sets up for Deuteronomy where we see that Israel *cannot* be faithful because they have sinful hearts.
+The book of Numbers is important as it describes how Israel goes from Mount Sinai to the border of the promised land forty years later. The book of Numbers picks up from Exodus in that it starts off with a census showing how many people came out of Egypt. It also continues from Leviticus in that it shows that the people are not faithful to God or the laws He has prescribed. This continual unfaithfulness sets up for Deuteronomy where we see that Israel *cannot* be faithful because they have sinful hearts.
 
 ## Outline
 
