@@ -4,7 +4,7 @@
 According to tradition (both Jewish and Christian), **Moses** wrote all of the books in the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy). See the notes for [Genesis](genesis.html) for more details.
 
 ## Date and Historical Context
-According to Deuteronomy 1:1, Deuteronomy is a sermon given by Moses on the plains of Moab opposite the promised land. The first generation of Israelites who had not believe God had largely died off (see Numbers 14:28-31) and the next generation was on the brink of the promised land.
+According to Deuteronomy 1:1, Deuteronomy is a sermon given by Moses on the plains of Moab opposite the promised land. The first generation of Israelites were preparing to pass the baton to the second generation of Israelites who would enter the promised land.
 
 ## Literary Context
 At the end of the book of Numbers, the second generation of Israel from Egypt had was approaching the promised land and received some instructions on how what to do once they had entered into the land. Deuteronomy is Moses' last words to the people of Israel in which he "expound[s] the law" (see 1:5). This books serves as the conclusion, and in some ways a summary and climax, of Genesis through Numbers. The promises of God are starting to come true and this is an exciting time in Israel's history.
@@ -15,18 +15,46 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
 
 **0. Preamble [1:1-5]**
 
-**I. Historical Prologue [1:6 - 4:43]**
+**I. Historical Prologue [1:6 - 3]**
 
-**II. Covenant Reiterated [4:44 - 26]**
+**II. Covenant and its Benefits Introduced [4]**
 
-  > A. Introduction [4:44 - 4:*49*]
+**III. Covenant Reiterated [5 - 26]**
+
+  > A. Foundational Commandment(s) [5 - 11]
   > 
-  > B. Core Commandments [5 - 11]
+  >  > 1. Decalogue [5]
+  >  > 
+  >  > 2. Greatest Commandment [6]
+  >  > 
+  >  > 3. Promises, Warnings, and Reminders [7 - 11]
   > 
-  > C. Specific Commandments [12 - 26]
+  > B. Consequential Commandments [12 - 26]
+  > 
+  >  > 1. No Other Gods Before Me: Exclusive Worship to a Worthy God [12]
+  >  > 
+  >  > 2. No Idols: Don't Confuse the Creator with Creation [13]
+  >  > 
+  >  > 3. Do Not Take God's Name in Vain: Respect and Represent God's Character and Nature [14:21]
+  >  > 
+  >  > 4. Keep the Sabbath: Recognize God's Ownership of Everything and His Provision [14:22 - 16:17]
+  >  > 
+  >  > 5. Honor Your Father and Mother: Respect God Ordained Authority Structures [16:18 - 18]
+  >  > 
+  >  > 6. You Shall Not Murder: Honor Life [19 - 21:9]
+  >  > 
+  >  > 7. You Shall Not Commit Adultery: Maintain a Standard of Absolute Purity [21:10 - 23:18]
+  >  > 
+  >  > 8. You Shall Not Steal: Recognize Ownership and Responsibility [23:19 - 25:12]
+  >  > 
+  >  > 9. You Shall Not Bear False Witness: Honor God's Justice [25:13-*19*]
+  >  > 
+  >  > 10. You Shall Not Covet: Acknowledge God's Ownership and Provision [26:1-15]
+  >  > 
+  >  > 11. Conclusion: Follow These Commandments to Love God and Be a Holy People [26:16-*19*]
 
-**III. Blessings and Curses Given and Covenant Ratified [27 - 30]**
+**IV. Blessings and Curses Given and Covenant Ratified [27 - 30]**
 
-**IV. Conclusion [31 - 33]**
+**V. Conclusion [31 - 33]**
 
-**V. Epilogue [34]**
+**VI. Epilogue [34]**
