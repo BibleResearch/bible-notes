@@ -35,7 +35,7 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
   >  > 
   >  > 2. No Idols: Don't Confuse the Creator with Creation [13]
   >  > 
-  >  > 3. Do Not Take God's Name in Vain: Respect and Represent God's Character and Nature [14:21]
+  >  > 3. Do Not Take God's Name in Vain: Respect and Represent God's Character and Nature [14:1-21]
   >  > 
   >  > 4. Keep the Sabbath: Recognize God's Ownership of Everything and His Provision [14:22 - 16:17]
   >  > 
@@ -43,11 +43,11 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
   >  > 
   >  > 6. You Shall Not Murder: Honor Life [19 - 21:9]
   >  > 
-  >  > 7. You Shall Not Commit Adultery: Maintain a Standard of Absolute Purity [21:10 - 23:18]
+  >  > 7. You Shall Not Commit Adultery: Maintain a Standard of Absolute Purity [21:10 - 23:14]
   >  > 
-  >  > 8. You Shall Not Steal: Recognize Ownership and Responsibility [23:19 - 25:12]
+  >  > 8. You Shall Not Steal: Recognize Ownership and Responsibility [23:15 - 24:15]
   >  > 
-  >  > 9. You Shall Not Bear False Witness: Honor God's Justice [25:13-*19*]
+  >  > 9. You Shall Not Bear False Witness: Honor God's Justice [24:16 - 25:*19*]
   >  > 
   >  > 10. You Shall Not Covet: Acknowledge God's Ownership and Provision [26:1-15]
   >  > 
@@ -58,3 +58,9 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
 **V. Conclusion [31 - 33]**
 
 **VI. Epilogue [34]**
+
+## Theological Themes
+- **God Cares About the Mundane.** This exposition on the law demonstrates that there is no aspect of life that is too small for God to care about. God cares about the minute details of everyday life and we need to view even the smallest action as worship when it is the right thing done with the right heart.
+- **Human Sinfulness is a Heart Issue.** The fact that Israel *cannot* be faithful stems not from their behavior, but from their hearts. It is not primarily their actions that need to be changed in order to keep the law but their hearts. We see this is passages like Deuteronomy 6:5, 10:12-*22*, and 30:6. Israel is supposed to love God with all of their hearts (Deuteronomy 6:5), but they are unable to do so (10:12-*22*). God, however, promises that He will one day change their hearts which will bring them into loving fellowship with God (30:6-10).
+
+## Observations/Notes
