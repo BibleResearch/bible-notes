@@ -62,5 +62,3 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
 ## Theological Themes
 - **God Cares About the Mundane.** This exposition on the law demonstrates that there is no aspect of life that is too small for God to care about. God cares about the minute details of everyday life and we need to view even the smallest action as worship when it is the right thing done with the right heart.
 - **Human Sinfulness is a Heart Issue.** The fact that Israel *cannot* be faithful stems not from their behavior, but from their hearts. It is not primarily their actions that need to be changed in order to keep the law but their hearts. We see this is passages like Deuteronomy 6:5, 10:12-*22*, and 30:6. Israel is supposed to love God with all of their hearts (Deuteronomy 6:5), but they are unable to do so (10:12-*22*). God, however, promises that He will one day change their hearts which will bring them into loving fellowship with God (30:6-10).
-
-## Observations/Notes
