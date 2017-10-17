@@ -31,25 +31,25 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
   > 
   > B. Consequential Commandments [12 - 26]
   > 
-  >  > 1. No Other Gods Before Me: Exclusive Worship to a Worthy God [12]
+  >  > 1. Exposition on "No Other Gods Before Me": Exclusive Worship to a Worthy God [12]
   >  > 
-  >  > 2. No Idols: Don't Confuse the Creator with Creation [13]
+  >  > 2. Exposition on "No Idolatry": Don't Confuse the Creator with Creation [13]
   >  > 
-  >  > 3. Do Not Take God's Name in Vain: Respect and Represent God's Character and Nature [14:1-21]
+  >  > 3. Exposition on "Do Not Take God's Name in Vain": Respect and Represent God's Character and Nature [14:1-21]
   >  > 
-  >  > 4. Keep the Sabbath: Recognize God's Ownership of Everything and His Provision [14:22 - 16:17]
+  >  > 4. Exposition on "Keep the Sabbath": Recognize God's Ownership of Everything and His Provision [14:22 - 16:17]
   >  > 
-  >  > 5. Honor Your Father and Mother: Respect God Ordained Authority Structures [16:18 - 18]
+  >  > 5. Exposition on "Honor Your Father and Mother": Respect God Ordained Authority Structures [16:18 - 18]
   >  > 
-  >  > 6. You Shall Not Murder: Honor Life [19 - 21:9]
+  >  > 6. Exposition on "You Shall Not Murder": Honor Life [19 - 21:9]
   >  > 
-  >  > 7. You Shall Not Commit Adultery: Maintain a Standard of Absolute Purity [21:10 - 23:14]
+  >  > 7. Exposition on "You Shall Not Commit Adultery": Maintain a Standard of Absolute Purity [21:10 - 23:14]
   >  > 
-  >  > 8. You Shall Not Steal: Recognize Ownership and Responsibility [23:15 - 24:15]
+  >  > 8. Exposition on "You Shall Not Steal": Recognize Ownership and Responsibility [23:15 - 24:15]
   >  > 
-  >  > 9. You Shall Not Bear False Witness: Honor God's Justice [24:16 - 25:*19*]
+  >  > 9. Exposition on "You Shall Not Bear False Witness": Honor and Reflect God's Justice [24:16 - 25:*19*]
   >  > 
-  >  > 10. You Shall Not Covet: Acknowledge God's Ownership and Provision [26:1-15]
+  >  > 10. Exposition on "You Shall Not Covet": Acknowledge God's Ownership and Provision [26:1-15]
   >  > 
   >  > 11. Conclusion: Follow These Commandments to Love God and Be a Holy People [26:16-*19*]
 
@@ -60,5 +60,8 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
 **VI. Epilogue [34]**
 
 ## Theological Themes
-- **God Cares About the Mundane.** This exposition on the law demonstrates that there is no aspect of life that is too small for God to care about. God cares about the minute details of everyday life and we need to view even the smallest action as worship when it is the right thing done with the right heart.
+- **God Cares about the Mundane.** This exposition on the law demonstrates that there is no aspect of life that is too small for God to care about. God cares about the minute details of everyday life and we need to view even the smallest action as worship when it is the right thing done with the right heart.
 - **Human Sinfulness is a Heart Issue.** The fact that Israel *cannot* be faithful stems not from their behavior, but from their hearts. It is not primarily their actions that need to be changed in order to keep the law but their hearts. We see this is passages like Deuteronomy 6:5, 10:12-*22*, and 30:6. Israel is supposed to love God with all of their hearts (Deuteronomy 6:5), but they are unable to do so (10:12-*22*). God, however, promises that He will one day change their hearts which will bring them into loving fellowship with God (30:6-10).
+
+## Observations/Notes
+- Deuteronomy is simultaneously **legal/covenant discourse** and a **sermon**. It deals with the law, but is not simply reiterating the law for a legal purpose. It targets the heart (literally) and addresses the foundation of the law.
