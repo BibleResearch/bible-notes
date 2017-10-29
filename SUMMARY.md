@@ -14,6 +14,7 @@ This is a compilation of my notes on the Bible.
         * [Numbers](old_testament/pentateuch/numbers.md)
         * [Deuteronomy](old_testament/pentateuch/deuteronomy.md)
     * [Historical Books](old_testament/historical_books/README.md)
+        * [Joshua](old_testament/historical_books/joshua.md)
         * [Esther](old_testament/historical_books/esther.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
         * [Job](old_testament/wisdom_literature/job.md)
