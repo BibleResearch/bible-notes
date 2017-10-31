@@ -52,7 +52,7 @@ The book of Joshua is like a central train station through which all trains on a
 
   > "Not one of the good promises which the LORD had made to the house of Israel failed; all came to pass."
 
-- **God Fights for Israel.** Throughout the book of Joshua, God is the one fighting for Israel. Consider the miraculous, albeit unconventional, victory at Jericho in Joshua 6. Jericho's walls collapses after being walked around for a week and being shouted at. In Joshua 10:6-14, God rains giant stones from the sky on Israel's fleeing enemies and listens to Joshua's request that the sun stand in the sky. God not only promises that Israel will take the land, but He also helps them conquer the land by fighting for them (see 10:42 and 23:2).
+- **God Fights for Israel.** Throughout the book of Joshua, God is the one fighting for Israel. Consider the miraculous, albeit unconventional, victory at Jericho in Joshua 6. Jericho's walls collapses after being walked around for a week and being shouted at. In Joshua 10:6-14, God rains giant stones from the sky on Israel's fleeing enemies and listens to Joshua's request that the sun stand in the sky. God not only promises that Israel will take the land, but He also helps them conquer the land by fighting for them (see 10:42 and 23:2). The brief history of Israel given in Joshua 24:1-13 highlights the fact that it is God who has been fighting for and defending Israel since her birth as a nation.
 
 ## Observations/Notes
 - Joshua's name means "the LORD saves" which is an appropriate title for a book in which God fights for and defends His people.
