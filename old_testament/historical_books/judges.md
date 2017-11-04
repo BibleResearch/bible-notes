@@ -8,3 +8,17 @@ Based on Judges 1:21, this book must have been written before David had taken Je
 
 ## Literary Context
 Judges is fascinating in its literary context because it picks up where Joshua left off with the people in the land having been tasked with serving God and Him alone (Joshua 22:5 and 24:14) so that God will continue to drive out the other nations in the land (Joshua 24:3-13). Judges documents their failures to be faithful to God and graphically demonstrates the need for a Godly king. Judges presents the lack of a king as a problem and the next book, Ruth, provides the solution (David). Looking further downstream in the Bible, the need for a Godly king established in Judges becomes one of the central themes in the historical narratives (Samuel through Chronicles), some of the psalms (e.g. Psalm 2 and 110), the gospel of Matthew, and Revelation. Israel needs a Godly King and He came as the man Jesus Christ.
+
+## Outline
+
+**0. Prologue [1 - 3:6]**
+
+**I. The Judges [3:7 - 16:*31*]**
+
+**II. Epilogue: Two Horror Stories Related to Bethlehem [17 - *21*]**
+
+  > A. The Idolatry of Micah, a Levite, and the Danites  [17 - 18]
+  > 
+  > B. Benjamin's Sexual Immorality and Civil War Against Benjamin [19 - *21*]
+
+*NOTE: The book of Ruth continues the book of Judges in a sense by providing a third story related to Bethlehem (see Ruth 1:1).*
