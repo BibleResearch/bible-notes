@@ -11,9 +11,31 @@ Judges is fascinating in its literary context because it picks up where Joshua l
 
 ## Outline
 
-**0. Prologue [1 - 3:6]**
+**0. Prologues [1 - 3:6]**
+
+  > A. Prologue A:  [1 - 2:5]
+  > 
+  > B. Prologue B:  [2:6 - 3:6]
 
 **I. The Judges [3:7 - 16:*31*]**
+
+  > A. Othniel [3:7-11]
+  > 
+  > B. Ehud [3:12-30]
+  > 
+  > (Shamgar [3:31])
+  > 
+  > C. Deborah and Barak [4 - 5]
+  > 
+  > D. Gideon [6 - 8]
+  > 
+  > E. Abimelech [9]
+  > 
+  > F. Misc. Minor Judges: Tola and Jair [10]
+  > 
+  > G: Jephthah [11 - 12]
+  > 
+  > H. Samson [13 - 16]
 
 **II. Epilogue: Two Horror Stories Related to Bethlehem [17 - *21*]**
 
@@ -22,3 +44,19 @@ Judges is fascinating in its literary context because it picks up where Joshua l
   > B. Benjamin's Sexual Immorality and Civil War Against Benjamin [19 - *21*]
 
 *NOTE: The book of Ruth continues the book of Judges in a sense by providing a third story related to Bethlehem (see Ruth 1:1).*
+
+## Theological Themes
+- **The Need for a Godly King.** Introduced in the epilogue of this book, the refrain "there was no king in Israel" is repeated in 17:6, 18:1, 19:1, and 21:25. This phrase is introduced not only to diagnose the cause of the two stories in the epilogue, but also to describe the problem underlying all of Israel's history as recorded in the book of Judges.
+
+## Observations/Notes
+- There is a [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of the Judges presented in the main section of the book (chapters 3:7 - 16). :
+
+    ```
+    A: Othniel: Marriage closely related to the story (1:13-15)
+      B: Ehud: Story involves the fords of the Jordan (3:28)
+        C: Deborah and Barak: Antagonist killed by a woman (4:21)
+          D: Gideon: The people want him to be king (8:22-23)
+        C`: Abimelech: Antagonist 'killed' by a woman (9:53-54)
+      B`: Jephthah: Story involves the fords of the Jordan (12:5)
+    A`: Samson: Marriage closely related to the story (14:1-4)
+    ```
