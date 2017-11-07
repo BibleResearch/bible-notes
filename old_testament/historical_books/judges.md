@@ -13,9 +13,9 @@ Judges is fascinating in its literary context because it picks up where Joshua l
 
 **0. Prologues [1 - 3:6]**
 
-  > A. Prologue A:  [1 - 2:5]
+  > A. Prologue A: Physical Point of View [1 - 2:5]
   > 
-  > B. Prologue B:  [2:6 - 3:6]
+  > B. Prologue B: Theological Point of View [2:6 - 3:6]
 
 **I. The Judges [3:7 - 16:*31*]**
 
@@ -33,7 +33,13 @@ Judges is fascinating in its literary context because it picks up where Joshua l
   > 
   > F. Misc. Minor Judges: Tola and Jair [10]
   > 
-  > G: Jephthah [11 - 12]
+  > G: Jephthah [11 - 12:7]
+  > 
+  > (Ibzan [12:8-10])
+  > 
+  > (Elon [12:11-12])
+  > 
+  > (Abdon [12:13-*15*])
   > 
   > H. Samson [13 - 16]
 
@@ -46,7 +52,7 @@ Judges is fascinating in its literary context because it picks up where Joshua l
 *NOTE: The book of Ruth continues the book of Judges in a sense by providing a third story related to Bethlehem (see Ruth 1:1).*
 
 ## Theological Themes
-- **The Need for a Godly King.** Introduced in the epilogue of this book, the refrain "there was no king in Israel" is repeated in 17:6, 18:1, 19:1, and 21:25. This phrase is introduced not only to diagnose the cause of the two stories in the epilogue, but also to describe the problem underlying all of Israel's history as recorded in the book of Judges.
+- **The Need for a Godly King.** Introduced in the epilogue of this book, the refrain "there was no king in Israel" is repeated in 17:6, 18:1, 19:1, and 21:25. This phrase is introduced not only to diagnose the cause of the two stories in the epilogue, but also to describe the problem underlying all of Israel's history as recorded in the book of Judges and to present the need for a Godly king who is ultimately found in Jesus Christ.
 
 ## Observations/Notes
 - There is a [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of the Judges presented in the main section of the book (chapters 3:7 - 16). :
