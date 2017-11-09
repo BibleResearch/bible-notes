@@ -66,3 +66,8 @@ Judges is fascinating in its literary context because it picks up where Joshua l
       B`: Jephthah: Story involves the fords of the Jordan (12:5)
     A`: Samson: Marriage closely related to the story (14:1-4)
     ```
+- If not read carefully, the book of Judges can be confusing because "Judges is thematic rather than chronological"<sup>[1](#footnote1)</sup>. The author is not concerned with the chronological order of the events he/she describes, but is more focused on the theological significance. This is evidenced by the fact that Prologue B (Judges 2:6 - 3:6) begins at a point in time when Joshua is still alive while Prologue A (1:1 - 2:5) started after Joshua's life (see 2:6-9 versus 1:1). Additionally, the last story in the book (19 - *21*) was likely one of the first events to occur chronologically because we find that Phineas (famous for his behavior in Numbers 25) is still alive (20:28). The author is more concerned with making a theological point than a historical one.
+
+## Footnotes
+
+<a name="footnote1">1</a>: https://www.gty.org/library/bible-introductions/MSB07
