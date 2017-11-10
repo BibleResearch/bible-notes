@@ -55,7 +55,7 @@ Judges is fascinating in its literary context because it picks up where Joshua l
 - **The Need for a Godly King.** Introduced in the epilogue of this book, the refrain "there was no king in Israel" is repeated in 17:6, 18:1, 19:1, and 21:25. This phrase is introduced not only to diagnose the cause of the two stories in the epilogue, but also to describe the problem underlying all of Israel's history as recorded in the book of Judges and to present the need for a Godly king who is ultimately found in Jesus Christ.
 
 ## Observations/Notes
-- There is a [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of the Judges presented in the main section of the book (chapters 3:7 - 16). :
+- There is a [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of the Judges presented in the main section of the book (chapters 3:7 - 16):
 
     ```
     A: Othniel: Marriage closely related to the story (1:13-15)
@@ -66,8 +66,8 @@ Judges is fascinating in its literary context because it picks up where Joshua l
       B`: Jephthah: Story involves the fords of the Jordan (12:5)
     A`: Samson: Marriage closely related to the story (14:1-4)
     ```
-- If not read carefully, the book of Judges can be confusing because "Judges is thematic rather than chronological"<sup>[1](#footnote1)</sup>. The author is not concerned with the chronological order of the events he/she describes, but is more focused on the theological significance. This is evidenced by the fact that Prologue B (Judges 2:6 - 3:6) begins at a point in time when Joshua is still alive while Prologue A (1:1 - 2:5) started after Joshua's life (see 2:6-9 versus 1:1). Additionally, the last story in the book (19 - *21*) was likely one of the first events to occur chronologically because we find that Phineas (famous for his behavior in Numbers 25) is still alive (20:28). The author is more concerned with making a theological point than a historical one.
+- If not read carefully, the book of Judges can be confusing because "Judges is thematic rather than chronological".<sup>[1](#footnote1)</sup> The author is not concerned with the chronological order of the events he/she describes, but is more focused on the theological significance. This is evidenced by the fact that Prologue A (1:1 - 2:5) starts after Joshua's life while Prologue B (Judges 2:6 - 3:6) goes back in time and begins at a point in time when Joshua is still alive (see 2:6-9 versus 1:1). Additionally, the last story in the book (chapters 19 - *21*) was likely one of the first events to occur chronologically because we find that Phineas (famous for his behavior in Numbers 25) is still alive (20:28). The author is more concerned with making a theological point than a historical one.
 
-## Footnotes
+---
 
-<a name="footnote1">1</a>: https://www.gty.org/library/bible-introductions/MSB07
+<a id="footnote1">1. </a>"Judges." Grace to You. February 12, 2010. Accessed November 7, 2017. https://www.gty.org/library/bible-introductions/MSB07/.
