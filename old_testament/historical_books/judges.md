@@ -51,7 +51,7 @@ Judges is fascinating in its literary context because it picks up where Joshua l
 
 *NOTE: The book of Ruth continues the book of Judges in a sense by providing a third story related to Bethlehem (see Ruth 1:1).*
 
-## Theological Themes
+## Theological Theme
 - **The Need for a Godly King.** Introduced in the epilogue of this book, the refrain "there was no king in Israel" is repeated in 17:6, 18:1, 19:1, and 21:25. This phrase is introduced not only to diagnose the cause of the two stories in the epilogue, but also to describe the problem underlying all of Israel's history as recorded in the book of Judges and to present the need for a Godly king who is ultimately found in Jesus Christ.
 
 ## Observations
