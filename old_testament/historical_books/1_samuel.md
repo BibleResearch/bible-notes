@@ -18,9 +18,9 @@ The book of Samuel continues from Judges as the first, main character (Samuel) i
   > 
   > B. Samuel Contrasted with Eli's Sons [2:12 - 3:*21*]
   > 
-  > C. The Capture of the Ark [4:1 - 7:2]
+  > C. Isreal's Unfaithful Battle: Defeat and Capture of the Ark [4:1 - 7:2]
   > 
-  > D. Samuel as Judge [7:3 - 8:3]
+  > D. Israel's Faithful Battle: Victory and Samuel's Judgeship [7:3 - 8:3]
   > 
   > E. Israel Asks for a King [8:4-*22*]
 
@@ -60,10 +60,10 @@ The book of Samuel continues from Judges as the first, main character (Samuel) i
 
 Each of the themes below are introduced in Hannah's prayer in 1 Samuel 2:1-10.
 
-- **God Has Ultimate Control.** God's power and control is celebrated in Hannah's prayer and is later demonstrated when God defeats the Philistines and her god without an army and causes David to defeat Goliath. As Hannah prayed: "not by might shall a man prevail" (2:9).
+- **God Has Ultimate Control.** God's power and control is celebrated in Hannah's prayer and is later demonstrated when God defeats the Philistines and one of her gods without an army and causes David to defeat Goliath. As Hannah prayed: "not by might shall a man prevail" (2:9).
 - **God Considers the Heart.** Throughout this book, there is a lot of emphasis on a person's heart. Starting in 2:3, we see that with God "actions are weighed". According to Samuel, God is looking for "man after His own heart" (1 Samuel 13:14). After rejecting Saul, God Himself says "man looks at the outward appearance, but the LORD looks at the heart" (16:7). There are many examples in this book of people doing good external things while their hearts are not right with God (e.g. Hophni and Phineas carrying the ark into battle in 4:4).
 - **God Reverses Situation and Uses Unexpected Means to Accomplish His Ends.** Because God is in control and considers a man's heart, He does things which are unexpected. We would expect a nine-foot tall soldier trained in combat since childhood to defeat a small shepherd boy, but the powerful God who considers the heart has other plans (see 1 Samuel 17:45-47).
-- **God Will Appoint a King** The last verse of Hannah's prayer (2:10) is fascinating because Israel did not yet have a king (although the rules of kingship were given in Deuteronomy 17:14-20 and rule was promised to Judah in Genesis 49:10). It demonstrates her understanding and confidence that God would appoint a king through whom He would judge the world and exact justice. In the rest of 1 Samuel, we witness the beginning of kingship in Israel and get to see what kind of king God desires.
+- **God Will Appoint a King.** The last verse of Hannah's prayer (2:10) is fascinating because Israel did not yet have a king (although the rules of kingship were given in Deuteronomy 17:14-20 and rule was promised to Judah in Genesis 49:10). It demonstrates her understanding and confidence that God would appoint a king through whom He would judge the world and exact justice. In the rest of 1 Samuel, we witness the beginning of kingship in Israel and get to see what kind of king God desires.
 
 ## Observations
 - The name of one of Eli's sons is "**Phineas**" which is an ironic reference to the faithful priest in Numbers 25. Unlike the first Phineas, Eli's son is neither faithful nor jealous for God's glory; in fact, he robs God of the glory through his disregard for the sacrificial system (2:12-17).
