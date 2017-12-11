@@ -2,9 +2,15 @@
 
 Hello,
 
-My name is Floyd Hightower. This is a project in which I am writing a short overview/summary of each book in the Bible. The public version of the project is available at [http://bibleresearch.tk/notes/](http://bibleresearch.tk/notes/). If you find this helpful (or otherwise) or have any questions, I would appreciate some feedback. You can contact me [here](https://saythanks.io/to/fhightower). Thanks in advance!
+My name is Floyd Hightower. This is a project to create a short overview of each book in the Bible. The public version of the project is available at [http://bibleresearch.tk/notes/](http://bibleresearch.tk/notes/). If you find this helpful (or otherwise) or have any questions, I would appreciate some feedback. You can contact me [here](https://saythanks.io/to/fhightower). Thanks in advance!
 
-Any typos, misinterpretations, misrepresentations, or other errors in this work come from me. I apologize for them in advanced and will seek to make this project as clear and accurate as is possible. Again, feedback is highly encouraged!
+Three important principles to keep in mind:
+
+1. **I am human.** There are unfortunately typos, misinterpretations, misrepresentations, or other errors in this work to which I am blind. These errors come from me and not the Bible. I apologize for them in advanced and will seek to make this project as clear and accurate as is possible. Again, I would appreciate feedback especially if you have a question or notice a mistake!
+2. **This is a living document** which will continue to change (and ideally improve) over time.
+3. **Citation is the sincerest form of flattery.** On some of the overviews, I include citations referencing outside resources. Please understand the difference between citation and endorsement. I am not endorsing everything that the author(s) has to say. By citing another work, I am only endorsing it as I describe in the overview and footnotes.
+
+Thanks for stopping by!
 
 Working for Christ and Scripture,
 

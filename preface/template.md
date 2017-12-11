@@ -1,4 +1,4 @@
-The summary for each book is laid out as follows:
+The summary for each book will follow this structure:
 
 # Name of the Book
 
@@ -17,5 +17,8 @@ What are the core themes of the book as it relates to who God is and what He has
 ## Outline
 A high-level outline of the book.
 
-## Observations/Notes
-Various observations and notes on the book that are helpful, but don't fit anywhere else.
+## Observations
+Observations and notes on the book that are helpful, but don't fit anywhere else.
+
+## Notes
+Bibliographical footnotes in the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html).
