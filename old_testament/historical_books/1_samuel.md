@@ -1,6 +1,6 @@
 # 1 Samuel
 
-The books we know as First and Second Samuel were one book in early manuscripts. In these notes, the two books are treated as separate, but remember that this distinction is artificial.
+The books we know as First and Second Samuel were one book in early manuscripts. In these notes, the two books are treated separately, but this distinction is artificial.
 
 ## Authorship and Audience
 According to Jewish tradition, Samuel wrote First Samuel chapters one through twenty four while Gad and Nathan finished the rest of First Samuel and all of Second Samuel.<sup>[1](#footnote1)</sup> The primary difficulty with this claim is that 1 Samuel 27:6 implies that the author (or editor) was writing during the time of the divided monarch. Thus, First and Second Samuel could not have been written in their final forms by Samuel, Nathan, or Gad because none of them lived during the time of the divided monarchy. It is certainly possible that the books we know as First and Second Samuel incorporated writings and accounts from Samuel, Nathan, and Gad, but the final author (or editor) remains unknown to us.<sup>[2](#footnote2)</sup>.
@@ -78,4 +78,3 @@ Each of the themes below are introduced in Hannah's prayer in 1 Samuel 2:1-10.
 <a id="footnote2">2. </a>"First Samuel," Grace to You, February 22, 2010, accessed November 17, 2017, https://www.gty.org/library/bible-introductions/MSB09.
 
 <a id="footnote3">3. </a>Ibid.
-
