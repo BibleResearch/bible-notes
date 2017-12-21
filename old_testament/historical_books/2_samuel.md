@@ -39,7 +39,7 @@ Second Samuel continues to follow David's rise from the anointed king without a 
   > 
   > F. Tamar (Davids Granddaughter) Raped [13:1-22]
   > 
-  > G. Amnon (David's Son) Murdered and Absolam (David's Son) [13:23-39]
+  > G. Amnon (David's Son) Murdered and Absolam (David's Son) Flees [13:23-39]
   > 
   > H. Absolom Returns [14]
   > 

@@ -24,4 +24,4 @@ Coming later
 
 ## Notes
 
-<a id="footnote1">1. </a>Tremper Longman, III and Raymond B. Dillard, An introduction to the Old Testament (Grand Rapids, MI: Zondervan, 2007), 144.
+<a id="footnote1">1. </a>Tremper Longman, III and Raymond B. Dillard, *An introduction to the Old Testament* (Grand Rapids, MI: Zondervan, 2007), 144.
