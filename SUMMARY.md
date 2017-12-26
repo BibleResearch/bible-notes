@@ -19,6 +19,7 @@ This is a compilation of my notes on the Bible.
         * [Ruth](old_testament/historical_books/ruth.md)
         * [1 Samuel](old_testament/historical_books/1_samuel.md)
         * [2 Samuel](old_testament/historical_books/2_samuel.md)
+        * [1 and 2 Kings](old_testament/historical_books/kings.md)
         * [Esther](old_testament/historical_books/esther.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
         * [Job](old_testament/wisdom_literature/job.md)
