@@ -3,6 +3,7 @@
 This is a compilation of my notes on the Bible.
 
 * [Preface](preface/README.md)
+    * [Background](preface/background.md)
     * [Objectives](preface/objectives.md)
     * [Methods](preface/methods.md)
     * [Example Summary](preface/template.md)

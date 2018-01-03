@@ -15,10 +15,10 @@ How does the book relate to the books around it and the Bible as a whole? Also, 
 What are the core themes of the book as it relates to who God is and what He has done, is doing, and has promised to do? In other words: what does this book teach us about God?
 
 ## Outline
-A high-level outline of the book.
+A outline of the book (usually a high level outline).
 
 ## Observations
 Observations and notes on the book that are helpful, but don't fit anywhere else.
 
 ## Notes
-Bibliographical footnotes in the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html).
+Bibliographical footnotes in [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html) format.
