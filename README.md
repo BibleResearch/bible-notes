@@ -8,7 +8,7 @@ Three important principles to keep in mind:
 
 1. **I am human.** There are unfortunately typos, misinterpretations, misrepresentations, or other errors in this work to which I am blind. These errors come from me and not the Bible. I apologize for them in advanced and will seek to make this project as clear and accurate as is possible. Again, I would appreciate feedback especially if you have a question or notice a mistake!
 2. **This is a living document** which will continue to change (and ideally improve) over time.
-3. **Citation is the sincerest form of flattery.** On some of the overviews, I include citations referencing outside resources. Please understand the difference between citation and endorsement. I am not endorsing everything that the author(s) has to say. By citing another work, I am only endorsing it as I describe in the overview and footnotes.
+3. On some of the overviews, I include citations referencing outside resources. **Please understand that a citation is not an endorsement.** By citing another work, I am not endorsing everything that the author(s) has to say. I am only using it to the extent the resource is used in my notes. If you're looking for helpful resources, you can find a list [here](http://bibleresearch.tk/resources/).
 
 Thanks for stopping by!
 
