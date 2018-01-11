@@ -23,6 +23,7 @@ This is a compilation of my notes on the Bible.
         * [1 and 2 Kings](old_testament/historical_books/kings.md)
         * [1 and 2 Chronicles](old_testament/historical_books/chronicles.md)
         * [Ezra](old_testament/historical_books/ezra.md)
+        * [Nehemiah](old_testament/historical_books/nehemiah.md)
         * [Esther](old_testament/historical_books/esther.md)
     * [Wisdom Literature](old_testament/wisdom_literature/README.md)
         * [Job](old_testament/wisdom_literature/job.md)
