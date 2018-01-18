@@ -58,6 +58,9 @@ Because 1 and 2 Samuel were originally one book, the themes for [1 Samuel](1_sam
   
   Nathan's confrontation of David (2 Samuel 12:1-14) and David's confession (2 Samuel 12:13 and Psalm 51), remind us of the true **nature of sin**. Sin is **despising God and His word** (2 Samuel 12:9-10, 12:13, and Psalm 51:4). When we know something is wrong and still do it, this is not only disobedience of an external, objective morality; it is a demonstration that we *[despise](https://www.merriam-webster.com/dictionary/despise)* God and His word.
 
+## Observations
+- After reading 1 Samuel and 2 Samuel chapters 1 - 9, we have a lot of hope for Israel. David is finally king and is ruling with righteousness (2 Sam. 8:15). He has received great promises in the Davidic covenant (2 Samuel 7) and has been defeating his enemies (2 Samuel 8). His sin with Bathsheba and Uriah, however, derails all of this success and is a reminder that, while David is not the man for the job, there will be someone from his line that comes to establish justice and succeed where David failed.
+
 ## Notes
 
 <a id="footnote1">1. </a>Keys, Gillian, *The wages of sin: a reappraisal of the 'succession narrative'* (Sheffield, England: Sheffield Academic Press, . 1996), 127.
