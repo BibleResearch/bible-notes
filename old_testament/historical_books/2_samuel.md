@@ -64,3 +64,13 @@ Because 1 and 2 Samuel were originally one book, the themes for [1 Samuel](1_sam
 ## Notes
 
 <a id="footnote1">1. </a>Keys, Gillian, *The wages of sin: a reappraisal of the 'succession narrative'* (Sheffield, England: Sheffield Academic Press, . 1996), 127.
+
+Philip J. Calderone, *Dynastic oracle and suzerainty treaty: 2. Samuel 7, 8-16* (Manila: Loyola House of Studies, Ateneo de Manila University, 1966).
+
+Rolf August. Carlson, *David, the chosen King: a traditio-historical approach to the second book of Samuel* (Stockholm: Almqvist and Wiksell, 1964).
+
+Mary J. Evans, *The message of Samuel* (Downers Grove, IL: InterVarsity, 2004).
+
+*House of God or House of David The Rhetoric of 2 Samuel 7* (Sheffield Academic Pr, 2009).
+
+Keys, Gillian. 1996. The wages of sin: a reappraisal of the 'succession narrative'. Sheffield, England: Sheffield Academic Press. http://public.eblib.com/choice/publicfullrecord.aspx?p=436632.
