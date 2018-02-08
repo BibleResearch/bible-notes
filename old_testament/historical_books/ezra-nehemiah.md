@@ -103,3 +103,10 @@ For a simple outline, remember that there are three, primary characters: Zerubba
 - Ezra 4:8–6:18 and 7:12–26 are written in [Aramaic](https://en.wikipedia.org/wiki/Aramaic_language). This is evidence that Ezra had access to official documents from the Persian king which would have been written in Aramaic.
 - Ezra 1:1-3a are the same as 2 Chronicles 36:22-23. The literary implications of this are discussed [here](#literary-context). From an authorial and historical perspective, this implies that Ezra had access to the book of Chronicles or visa-versa (or, that Ezra is the author of both Chronicles and Ezra).
 - Ezra 7:10 is a fantastic model for anyone aspiring to be a teacher. Learn it; live it; teach it.
+- The [Elephantine Papyri](https://en.wikipedia.org/wiki/Elephantine_papyri#Jewish_temple_at_Elephantine) mentions Sanballat (who is also mentioned in Nehemiah 2:19) and Jehohanan (mentioned in Nehemiah 6:18 and 12:23).
+
+## Notes
+
+Fensham, F. Charles. *The Book of Ezra and Nehemiah*. London: Eerdmans, 1982.
+
+Grabbe, Lester L. *Ezra-Nehemiah*. Florence: Taylor and Francis, 1998.
