@@ -4,17 +4,17 @@
 It is likely that **Haggai** wrote this book (see 1:1) with Israel as the intended audience.
 
 ## Date and Historical Context
-Based on passages like Haggai 1:1, 2:1, 2:10, and 2:20, we can date Haggai's four-month, recorded ministry to 520 BC. This was after Cyrus, a Persian King, had already allowed the Israelites to return to their homeland and build the temple. The work on the Temple had stalled due to opposition (see the book of Ezra 4 - 5); Haggai encourages the people to restart the building efforts.
+Based on passages like Haggai 1:1, 2:1, 2:10, and 2:20, we can date Haggai's four-month, recorded ministry to 520 BC. This was after Cyrus, a Persian King, had already allowed the Israelites to return to their homeland and build the temple. The work on the Temple had stalled due to opposition (see the book of Ezra 4 - 5); Haggai encourages the people to restart the building efforts. Around this same time, Darius investigates the complaint lodged by those opposed to the rebuilding of the temple (see Ezra 4:24 - 6:12) and ends up recommitting to the rebuilding of the temple.
 
 ## Literary Context
-Haggai fits nicely into the narrative of [Ezra-Nehemiah](../historical_books/ezra-nehemiah.html). It answers the question: Why should Israel rebuild the temple when it is nothing like Solomon's temple? This book expresses a hope about God's plans for another temple which are echoed in Ezekiel and the Messianic promises. It also establishes Zerubbabel as a significant person through whom God will work (see Luke 3:27 and Matthew 1:13).
+Haggai fits nicely into the narrative of [Ezra-Nehemiah](../historical_books/ezra-nehemiah.html). It answers the question: Why should Israel rebuild the temple when it is nothing like Solomon's temple? Even though this temple is insignificant, Israel needs to build it as an expression that God will one day build another one (as described in Ezekiel and the Messianic promises). Haggai also establishes Zerubbabel as a significant person through whom God will work which we see fulfilled in Jesus's genealogy (see Luke 3:27 and Matthew 1:13).
 
 ## Outline
 **0. Introduction  [1:1]**
 
 **I. "Consider your ways"  [1:2-11]**
 
-  - In this section, God challenges the people to consider the way they are living in light of God's commands to rebuild the temple.
+  - In this section, God condemns the people for not rebuilding the temple, pointing out the consequences of this decision.
 
 **II. The People Repent  [1:12-*15*]**
 
@@ -24,7 +24,7 @@ Haggai fits nicely into the narrative of [Ezra-Nehemiah](../historical_books/ezr
 
 **IV. God Promises to Bless Sinful Israel  [2:10-19]**
 
-  - Just as anything touched by an unclean person would become unclean, so it is with God's people and even all mankind. God still promises to bless His people, however, in spite of their unrighteousness.
+  - Just as anything touched by an unclean thing would become unclean, so it is with God's people. God still promises to bless His people, however, in spite of their unrighteousness.
 
 **V. Zerubbabel: God's Signet Ring  [2:20-*23*]**
 
