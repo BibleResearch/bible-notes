@@ -94,10 +94,11 @@ For a simple outline, remember that there are three, primary characters: Zerubba
 
 **VI. Israel's Failures [13]**
 
-## Theological Theme
+## Theological Themes
 - **The exile is not over (spiritually speaking).** While Israel has physically returned from exile, the exile is not over spiritually. Ezra-Nehemiah demonstrates that the promises of a new heart, the Holy Spirit, and the prosperity attendant with a return from exile (see Deuteronomy 4:27-31, 29:22 - 30:10, Isaiah 43 - 44:5, Ezekiel 36:16-32) are not present. This means that Israel is still in exile. We had high hopes that things would be different after the exile, but in reality nothing has changed (see Ezra 9 and Nehemiah 13:26-28).
 - **Mankind has a heart problem (spiritually speaking).** The theme noted in the previous point should draw our attention to the fact that Israel's problem is the inward sinfulness that is common to all men. Deuteronomy 4, 6, 10, and 30 make it clear that each Israelite must follow God with *all* of his/her heart. But this is not possible without God changing their hearts. Ezra-Nehemiah is a reminder that men are hopeless without the transforming work of the Holy Spirit. If anyone would have experienced a sufficiently traumatic event to draw them back to God, it was Israel. Yet, even under the leadership of Ezra and Nehemiah, Israel quickly returns to their old ways. There but for the grace of God go I.
 - **God is the *only* one capable of saving Israel.** If the punishment of the exile didn't fix the problem and Israel's sinful hearts still remain, God is the only one who can save them.
+- **God's faithfulness and sovereignty.** This book screams of God's faithfulness and power. By way of example, consider the opening of the book of Nehemiah: Nehemiah, who happens to be a cup-bearer to King Artaxerxes, hears about Jerusalem and is passionate about rebuilding it. Meanwhile, and possibly unbeknownst to Nehemiah, there were rebellions in Egypt and Syria in the twenty years leading up to his request which gave Artaxerxes a good reason to want Jerusalem rebuilt under Persian influence.<sup>[1](#footnote1)</sup> Even the opponents of the rebuilding of Jerusalem recognized that God worked to help His people rebuild Jerusalem (Nehemiah 6:15). In spite of Israel's continued unfaithfulness, God remains faithful.
 
 ## Observations
 - Ezra 4:8–6:18 and 7:12–26 are written in [Aramaic](https://en.wikipedia.org/wiki/Aramaic_language). This is evidence that Ezra had access to official documents from the Persian king which would have been written in Aramaic.
@@ -107,6 +108,8 @@ For a simple outline, remember that there are three, primary characters: Zerubba
 
 ## Notes
 
-Fensham, F. Charles. *The Book of Ezra and Nehemiah*. London: Eerdmans, 1982.
+<a id="footnote1">1. </a>Howard Frederic Vos, *Ezra, Nehemiah, and Esther* (Grand Rapids, MI: Zondervan Pub. House, 1987), 91.
 
-Grabbe, Lester L. *Ezra-Nehemiah*. Florence: Taylor and Francis, 1998.
+F. Charles Fensham, *The book of Ezra and Nehemiah* (London, 1982).
+
+L. Grabbe Lester, *Ezra-Nehemiah* (Florence, 1998).
