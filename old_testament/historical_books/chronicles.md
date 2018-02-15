@@ -48,6 +48,6 @@ Each of these emphases is pointing primarily at one, overarching theological the
 
 <a id="footnote1">1. </a>Pancratius C. Beentjes, *Tradition and transformation in the Book of Chronicles* (Leiden: Brill, 2008), 3.
 
-<a id="footnote2">2. </a>The title for this section is taken from: "First Chronicles," Grace to You, August 18, 2016, , accessed December 31, 2017, https://www.gty.org/library/bible-introductions/MSB13.
+<a id="footnote2">2. </a>The title for this section is taken from: "First Chronicles," Grace to You, August 18, 2016, accessed December 31, 2017, https://www.gty.org/library/bible-introductions/MSB13.
 
 <a id="footnote3">3. </a>Ibid.
