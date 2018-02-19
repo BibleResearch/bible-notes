@@ -11,9 +11,9 @@ The book of Leviticus answers the question that should be on our minds after hav
 
 ## Theological Theme(s)
 - **The Need for Atonement.** The word "atonement" is used [forty nine](https://www.biblegateway.com/quicksearch/?qs_version=NASB&quicksearch=atonement&begin=3&end=3) times in the book of Leviticus. Building off of Exodus where we find that God is dwelling with Israel, the repeated use of the word "atonement" in Leviticus drives home the fact that atonement between God and man is essential (refer to the "Observations/Notes" section below for a discussion of what atonement means).
+- **God Provides the Means of Atonement.** The sacrificial system described in this book was not invented by men. It was designed and given by God who Himself chooses to accept the sacrifices as sufficient atonement.
 - **The Means of Atonement.** Leviticus provides the means by which Israel can atone for their sins: the life of an animal. Leviticus 17:11 makes it clear that the taking of a life is the appropriate and accepted way to atone for sin.
 - **The Cost of Atonement.** The sacrificial system demonstrates the cost required to atone for sin. Every sin required a sin (or guilt) offering and there were even sacrifices to cover unknown and unconfessed sins. It is costly for a sinful people to be reconciled to a holy God.
-- **God Provides the Means of Atonement.** The sacrificial system described in this book was not invented by men. It was designed and given by God who Himself chooses to accept the sacrifices as sufficient atonement.
 
 ## Outline
 
@@ -51,7 +51,7 @@ The book of Leviticus answers the question that should be on our minds after hav
     > A reparation of the relationship between God and man through the life of a sacrifice.
   - There is a good outline of the five sacrifices described in Leviticus 1 - 7 [here](https://rightlydividedbible.files.wordpress.com/2014/12/otsacrifices.png)†.
   - When reading the book of Leviticus, the words "clean" and "unclean" should jump off of the page. The word "unclean" is used [ninety one](https://www.biblegateway.com/quicksearch/?qs_version=NASB&quicksearch=unclean&begin=3&end=3) times in this book (in the NASB)! God spends a lot of time defining what is clean and what is unclean as well as how one passes from clean to unclean and visa-versa. All of the rules relating to cleanliness (in chapters 11 through 16), serve at least three purposes:
-    1. They keep the people healthy (e.g. the treatment of Leaporsy in Leviticus 14).
+    1. They keep the people healthy (e.g. the treatment of Leprosy in Leviticus 14).
     2. They separate the people from the nations around them (e.g. the dietary restrictions in 11).
     3. They highlight the holiness and perfection of God (e.g. Leviticus 15:31-*33*).
 

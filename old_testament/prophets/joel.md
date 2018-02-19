@@ -32,7 +32,7 @@ Personally, however, I argue that the book was more likely written sometime duri
 
 **II. Repentance  [2:12 - 2:17]**
 
-  - This is Israel moving from the curses in section I to the blessings in section III.
+  - This is the 'bridge' between the previous section (with curses) and the next section (with blessings).
 
 **III. Restoration (Blessings) [2:18 - *3*]**
 

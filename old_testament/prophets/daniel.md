@@ -2,11 +2,11 @@
 
 
 ## Authorship and Audience
-**Daniel** is the author of this book, as stated in Daniel 8:1 , 9:2, and 10:2. The intended audience is not given directly in the book but it can be surmised by the fact that Daniel 2:4 - 7 is written with Aramaic, the common language of the Ancient Near East at the time Daniel was writing. Thus, it seems that Daniel, at least the first half of the book, is intended for an international audience.
+**Daniel** is the author of this book, as stated in Daniel 8:1, 9:2, and 10:2. The intended audience is not given directly in the book but it can be surmised by the fact that Daniel 2:4 - 7 is written with Aramaic, the common language of the Ancient Near East at the time Daniel was writing. Thus, it seems that Daniel, at least the first half of the book, is intended for an international audience.
 
 
 ## Date and Context
-Daniel and his friends were likely taken in the **first conquest of Jerusalem** that occurred in **605 B.C.** (Dan. 1:1-7 and 6:*28*). The events (not necessarily the events described in the visions) in the book took place between 605 and 530 B.C. and the bulk of the book was likely finished by **535 BC**. This meant that Daniel was involved in both the Babylonian and Persian governments. In the midst of exile, Israel must have had a lot of questions... Is God powerful? Is God sovereign? Is God faithful? What about all of God's promises? Although indirectly, the book of Daniel answers these questions and gives hope to God's exiled people.
+Daniel and his friends were likely taken in the **first conquest of Jerusalem** that occurred in **605 B.C.** (Daniel 1:1-7 and 6:*28*). The events (not necessarily the events described in the visions) in the book took place between 605 and 530 B.C. and the bulk of the book was likely finished by **535 BC**. This meant that Daniel was involved in both the Babylonian and Persian governments. In the midst of exile, Israel must have had a lot of questions... Is God powerful? Is God sovereign? Is God faithful? What about all of God's promises? Although indirectly, the book of Daniel answers these questions and gives hope to God's exiled people.
 
 
 ## Theme(s)

@@ -34,7 +34,7 @@ Based on passages like Zechariah 1:1, 1:7, and 7:1, we know that Zechariah start
 
 **II. Five Words from Yahweh  [6:9 - 8:*23*]**
 
-  > A. A man whose name is 'Branch'  [6:9-*15*]
+  > A. The man named 'Branch'  [6:9-*15*]
   > 
   >   - The 'Branch' will build the Temple and be both a King and Priest.
   > 

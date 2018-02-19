@@ -1,7 +1,7 @@
 # 1 John
 
 ## Authorship and Audience
-By the testimony of the early Church, the Apostle John was the author of this book. Internally (that is, within the book itself), this is supported by the authority with which the author writes. While the audience is not mentioned by name, it is clear that the Apostle John knew his audience very well. The repeated references to "little children", "children", and "beloved" are evidence of this.
+By the testimony of the early Church, the Apostle John was the author of this book. Internally (that is, within the book itself), this is supported by the authority with which the author writes. While the audience is not mentioned by name, it is clear that the Apostle John knew his audience very well. The repeated references to "children", "little children", and "beloved" are evidence of this.
 
 ## Date and Context
 Because there are no references to historical events at the time the book was written, this book is difficult to date. Because John is addressing what appears to be an early form of [**Gnosticism**](https://en.wikipedia.org/wiki/Gnosticism) in this letter, it is usually dated toward the end of John's life between **90 and 95 AD**.
