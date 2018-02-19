@@ -20,7 +20,7 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
 **II. A Plea for Repentance in Light of Extensive Judgement  [2]**
 
-  > A. A plea for repentance  [2:1-3]
+  > A. Plea for repentance  [2:1-3]
   > 
   > B. The extent of judgement  [2:4-*15*]
   > 
@@ -42,10 +42,8 @@ We know from Zephaniah 1:1 that Zephaniah's ministry took place during **Josiah'
 
 
 ## Observations/Notes
-  - Both **Zephaniah 2:3** and **3:12** play on Zephaniah's name as both verses refer to the idea of hiding or seeking refuge in God.
-
-  - God's warning about Nineveh in Zephaniah 2:13-15 would be carried out by the Babylonians and the Medes in **612 B.C.**, not too long after Zephaniah's ministry and possibly within Zephaniah's lifetime.
-
-  - Zephaniah 3:8-*20* is among the most wonderful of descriptions which detail God's salvation of His people. I especially love Zephaniah 3:17 which reads:
+- God's warning about Nineveh in Zephaniah 2:13-15 would be carried out by the Babylonians and the Medes in **612 B.C.**, not too long after Zephaniah's ministry and possibly within Zephaniah's lifetime.
+- Both **Zephaniah 2:3** and **3:12** play on Zephaniah's name as both verses refer to the idea of hiding or seeking refuge in God.
+- Zephaniah 3:8-*20* is among the most wonderful of descriptions which detail God's salvation of His people. I especially love Zephaniah 3:17 which reads:
 
   *"The LORD your God is in your midst, A victorious warrior. He will exult over you with joy, He will be quiet in His love, He will rejoice over you with shouts of joy."*

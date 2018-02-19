@@ -3,19 +3,31 @@
 """Find duplicate words."""
 
 import os
+import re
+import string
 
 
-def find_duplicate_words(file_path):
+def find_duplicate_words(file_path, file_name):
     errors = 0
 
     with open(file_path) as f:
-        file_text = f.read()
+        file_text = f.read().replace('.', ' ')
 
-    # TODO: add validation that we are only finding words and not markdown characters using a regex
-    words = [word for word in file_text.split(' ') if word != '' and word != '>']
+    word_pattern = '[^*]\w+'
+
+    words = [word.strip() for word in re.findall(word_pattern, file_text)]
 
     for index in range(0, len(words)):
         this_word = words[index]
+
+        # don't check 'words' that start with numbers
+        if this_word[0] in string.digits:
+            continue
+
+        # ignore words that are the name of the book of the bible
+        if this_word.lower() in file_name:
+            continue
+
         try:
             next_word = words[index + 1]
         except IndexError:
@@ -35,7 +47,9 @@ def test_duplicate_words_ot():
     for path, dirs, files in os.walk(os.path.abspath(os.path.join(os.path.dirname(__file__), '../old_testament'))):
         for file_name in files:
             file_path = os.path.join(path, file_name)
-            errors += find_duplicate_words(file_path)
+            errors += find_duplicate_words(file_path, file_name)
+
+    print("\nFound {} errors in the OT".format(errors))
     assert errors == 0
 
 
@@ -44,5 +58,7 @@ def test_duplicate_words_nt():
     for path, dirs, files in os.walk(os.path.abspath(os.path.join(os.path.dirname(__file__), '../new_testament'))):
         for file_name in files:
             file_path = os.path.join(path, file_name)
-            errors += find_duplicate_words(file_path)
+            errors += find_duplicate_words(file_path, file_name)
+
+    print("\nFound {} errors in the NT".format(errors))
     assert errors == 0

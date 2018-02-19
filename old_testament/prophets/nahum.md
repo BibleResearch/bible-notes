@@ -40,7 +40,7 @@ For those who accept that Nahum was written between 663 and 612 B.C., there is m
 
 **IV. The Inevitability of Nineveh's Fall [3:8-*19*]**
 
-  > A. A case study: Thebes  [3:8-15a]
+  > A. Thebes: A case study [3:8-15a]
   > 
   > B. The futility of trusting in man  [3:15b-*19*]
 
