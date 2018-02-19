@@ -1,0 +1,7 @@
+language: python
+python: 3.5
+branches:
+install: 
+- pip install pytest
+script:
+- py.test
