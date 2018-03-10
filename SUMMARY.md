@@ -29,6 +29,7 @@ This is a compilation of my notes on the Bible.
             * [Summary of Dialog in Job](old_testament/wisdom_literature/job_summary.md)
         * [Psalms](old_testament/wisdom_literature/psalms.md)
         * [Proverbs](old_testament/wisdom_literature/proverbs.md)
+        * [Ecclesiastes](old_testament/wisdom_literature/ecclesiastes.md)
     * [Prophets](old_testament/prophets/README.md)
         * [Ezekiel](old_testament/prophets/ezekiel.md)
         * [Daniel](old_testament/prophets/daniel.md)
