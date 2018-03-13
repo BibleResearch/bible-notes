@@ -46,6 +46,15 @@ Now for an outline:
 
 **VI. Frame: Epilogue [12:9-*14*]**
 
+## Theological Themes
+- **The limits of human wisdom.** Like the book of Job, Ecclesiastes emphasizes the limits and futility of human wisdom. This is evidenced by Qohelet's ramblings, contradictions, and errors (refer to the observations below for more details on these). He is mistaken and admittedly confused (see 7:25-29) about some of the most importance questions in life. When he begins his quest for knowledge by saying that he will use 'wisdom' (1:13), we quickly see that he is using is not biblical wisdom. His 'wisdom' is based on human experience, observation, and logic. This allows him to make some accurate and very profound statements, but also prevents him from establishing a coherent and robust understanding of the meaning of life. Human wisdom is not enough to make sense of the scale and complexities of life. Time, death, and chance are powerful forces in life that are unfathomable by human wisdom.
+- **The nature of true wisdom.** If human wisdom is insufficient for understanding the meaning and purpose of life, Ecclesiastes also suggests an alternative. The conclusion of the book (12:13) aptly sums up the nature of true wisdom by saying:
+
+  > "The conclusion, when all has been heard, is: fear God and keep His commandments..."
+
+The refrain that true wisdom and the meaningful life is made up of fearing God and keeping His commandments ought to bring to mind Job 28:28, Proverbs 1:7, and 9:10. This is the embodiment of wisdom. Why? Also notice that this does not answer the questions asked by Qohelet. It doesn't explain the intricacies or purpose of life other than to establish death and judgement as the ultimate ends of all human beings.
+- **The importance of an eternal perspective.** The phrase "under the sun" occurs 27 times in Qohelet's speech (in the NASB version). Qohelet is trying to make sense of life "under the sun", that is to say here on earth. Even Qohelet recognizes, at the end of his 'lesson', that any system which makes sense of life on earth must take into account death and life after death (Ecclesiastes 11:9 - 12:8).
+
 ## Observations
 - Ecclesiastes is remarkably applicable for today. If you were to make a list of things in which Qohelet is trying to find purpose in meaning it would look something like:
 
