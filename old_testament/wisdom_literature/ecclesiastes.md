@@ -21,7 +21,11 @@ The authorship, audience, date or writing, and historical context are all relate
 As part of [Wisdom Literature](../), Ecclesiastes discusses topics like the meaning of life and what it means to live well in this world. Assuming Solomonic authorship, 1 Kings 2 - 11 is the backdrop for this book. The conclusion that wisdom is summed up in fearing God and keeping His commandments (12:13) echoes Job 28:28, Proverbs 1:7, and 9:10. Ecclesiastes emphasizes God's judgement and hints at a resurrection which are major themes in the New Testament as evidenced by 1 Corinthians 15 and 2 Thessalonians 1 (among many others).
 
 ## Outline
-Before the official outline for the book, it is important to note that Ecclesiastes is a [frame narrative](https://en.wikipedia.org/wiki/Frame_story). This is a literary structure which contains a narrative within a narrative. Other examples of frame narratives include [Frankenstein](https://en.wikipedia.org/wiki/Frankenstein) (Mary Shelley's novel actually includes three layers of narrative) and [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride). In Ecclesiastes, the outer narrative (the frame) refers to Qohelet in the third person. The inner narrative is Qohelet himself speaking. If one were to outline the outer and inner narratives of Ecclesiastes, it would look something like:
+Before giving a complete outline for the book, it is important to note that Ecclesiastes is a [frame narrative](https://en.wikipedia.org/wiki/Frame_story). This is a literary structure which contains a narrative within a narrative. Other examples of frame narratives include [Frankenstein](https://en.wikipedia.org/wiki/Frankenstein) (Mary Shelley's novel actually includes three layers of narrative) and [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride). In Ecclesiastes, the outer narrative (the frame) refers to Qohelet in the third person. The inner narrative is Qohelet himself speaking. If we were to visualize the inner and outer narratives, it would look something like:
+
+![Ecclesiastes is a frame narrative](ecclesiastes_frame.png)
+
+Here is an outline of the inner and outer narratives in the book:
 
 | Passage | Narrative Location |
 |---|---|
