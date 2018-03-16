@@ -31,6 +31,7 @@ This is a compilation of my notes on the Bible.
         * [Proverbs](old_testament/wisdom_literature/proverbs.md)
         * [Ecclesiastes](old_testament/wisdom_literature/ecclesiastes.md)
     * [Prophets](old_testament/prophets/README.md)
+        * [Isaiah](old_testament/prophets/isaiah.md)
         * [Ezekiel](old_testament/prophets/ezekiel.md)
         * [Daniel](old_testament/prophets/daniel.md)
         * [Hosea](old_testament/prophets/hosea.md)
