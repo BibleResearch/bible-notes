@@ -20,25 +20,25 @@ Assuming Job is the first, written revelation from God that we have today, Job i
   > 
   > B. First Trial  [1:6-*22*]
   > 
-  > > 1. Heavenly Scene  [1:6-12]
-  > > 
-  > > 2. Earthly Scene  [1:13-*22*]
-  > > 
-  > > > - Trials Brought on Job [1:13-19]
-  > > > 
-  > > > - Job's Reaction: Worship (thus, vindicating God) [1:20-*22*]
+  >  > 1. Heavenly Scene  [1:6-12]
+  >  > 
+  >  > 2. Earthly Scene  [1:13-*22*]
+  >  > 
+  >  >  > - Trials Brought on Job [1:13-19]
+  >  >  > 
+  >  >  > - Job's Reaction: Worship (thus, vindicating God) [1:20-*22*]
   > 
   > C. Second Trial  [2:1-10]
   > 
-  > > 1. Heavenly Scene  [2:1-6]
-  > > 
-  > > 2. Earthly Scene  [2:7-10]
-  > > 
-  > > > - Job Losses His Health [2:7-8]
-  > > > 
-  > > > - Advice from Job's Wife: "Curse God and die!" [2:9]
-  > > > 
-  > > > - Job's Reaction: Humble Acceptance (thus, vindicating God) [2:10]
+  >  > 1. Heavenly Scene  [2:1-6]
+  >  > 
+  >  > 2. Earthly Scene  [2:7-10]
+  >  > 
+  >  >  > - Job Losses His Health [2:7-8]
+  >  >  > 
+  >  >  > - Advice from Job's Wife: "Curse God and die!" [2:9]
+  >  >  > 
+  >  >  > - Job's Reaction: Humble Acceptance (thus, vindicating God) [2:10]
 
 **II. Dialog Between Eliphaz, Bildad, Zophar, and Job<sup>[1](#footnote1)</sup>: Earthly Court Scene  [2:11 - 28]**
 
@@ -71,6 +71,8 @@ Assuming Job is the first, written revelation from God that we have today, Job i
 - When reading Job, keep in mind that many of the questions brought up throughout the book are not answered (at least not directly in the book of Job). For example, Job never learns why he suffered. We never hear a robust explanation of why a Just God can let the wicked prosper, even for a short time. As I mentioned in the "Date and Context" section, if the book of Job is one of the earliest, recorded revelations from God, it has an introductory role in laying the groundwork for what will be answered later in the Bible. Does Job ever get the mediator he asks for in Job 9:30-35? Does Job ever get the resurrection he asks wants so badly in 14:13-17?
 - Job 28:1-11 describes the mining technology available at Job's time. It is quite amazing how sophisticated it is. There appears to be some form of dynamite (28:9), scaffolding/rigging (28:4), and an accurate understanding of geology (28:5).
 - Job's rebuke of his friends in Job 13:5-12 and God's indictment of them in 42:7 ought to be warnings to Christians today. Teachers, preachers, counselors, apologists, and lay people must be careful not to misrepresent God, even out of good intentions. We must always be accountable to divine revelation as our ultimate standard and must be honest enough to distinguish between our deductions and opinions and God's revelation to us.
+- **Job 27** can be a bit confusing (specifically Job 27:7-*23*). Is Job affirming the TRP? In this chapter, Job is describing what happens to the godless man after death. Verse 8 introduces this notion and Job continues to describe what it will be like for the wicked after death in verses 13-*23*.
+- It is critical to note that a fundamental shift in Job's argument occurs in **Job 31**. In this chapter, Job shifts from defending himself to affirming his own, inherent righteousness and bringing God's justice and awareness into question. For example, verse 1-4 are a perfect example of this. In verse 1, he establishes his righteousness. In verse 2 and 3, he suggests that God punishes only the wicked. And in verse 4, he comes to the conclusion that it must be God's perception and knowledge that is faulty. This same pattern is mirrored throughout this chapter. This is why Eliphaz, Bildad, and Zophar stop answering Job (32:1) and why Elihu is outraged (32:1).
 
 ## Notes
 
