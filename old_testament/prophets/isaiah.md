@@ -9,6 +9,44 @@ Base on Isaiah 1:1, Isaiah was writing during the reigns of Uzziah, Jotham, Ahaz
 ## Literary Context
 Isaiah is quoted "over 65 times" in the New Testament which is "more than any other OT prophet".<sup>[1](#footnote1)</sup> Jerome describes Isaiah as an 'evangelist' and notes  that the book deals with 'the mysteries of Christ and the Church'. TODO: find a footnote for this that is more reputable than http://www.tertullian.org/fathers/jerome_preface_isaiah.htm Isaiah is, indeed, a very forward-looking book as it presents what will happen to Israel (and the entire world) in the future.
 
+## Outline
+
+**I. Book of Judgement [1 - 39]**
+
+  > A. Judgements Against Judah [1 - 12]
+  > 
+  > > 1. Introductory Courtroom Scene [1 - 5]
+  > > 
+  > > 2. Isaiah's Commission [6]
+  > > 
+  > > 3. Judah's Coming Judgement and Messiah [7 - 12]
+  > 
+  > B. Judgements Against the Nations [13 - 24]
+  > 
+  > C. Hope for Deliverance [25 - 27]
+  > 
+  > D. Woes and Warnings [28 - 35]
+  > 
+  > E. A Present Example of God's Salvation [36 - 39]
+
+**II. Book of Comfort [40 - *66*]**
+
+  > A. Comfort of the Coming Deliverance [40 - 48]
+  > 
+  > B. Comfort of the Coming Servant [49 - 55]
+  > 
+  > C. Comfort of Everlasting and Global Restoration [58 - 66]
+
+## Theological Theme
+- **God saves.** Isaiah's name means "Yah is salvation" and this is the theme of his book. Isaiah emphasizes God's ability and His plans to save. God is able to save and He intends to do so. 
+
+    Isaiah discusses God's ability to save by contrasting God with other nations from which Judah was seeking protection (Egypt and Babylon) and by contrasting God with idols. Humans and idols are incapable of saving Israel; only God is powerful enough to save them.
+
+    Isaiah lays out with remarkable clarity God's plans to save Israel from both the temporal oppression and their sins. The message is that Israel ought to have hope because God is not only able, but also has a plan in place to save Israel and the rest of the nations (TODO: add reference(s) here).
+
+## Observations
+- Nahum 1:15 quotes from Isaiah 52:7
+
 ## Notes
 
 <a id="footnote1">1. </a>"Isaiah," Grace to You, April 19, 2010, accessed March 15, 2018, https://www.gty.org/library/bible-introductions/MSB23.
