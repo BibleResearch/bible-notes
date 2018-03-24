@@ -30,6 +30,7 @@ This is a compilation of my notes on the Bible.
         * [Psalms](old_testament/wisdom_literature/psalms.md)
         * [Proverbs](old_testament/wisdom_literature/proverbs.md)
         * [Ecclesiastes](old_testament/wisdom_literature/ecclesiastes.md)
+        * [Song of Songs](old_testament/wisdom_literature/song_of_songs.md)
     * [Prophets](old_testament/prophets/README.md)
         * [Isaiah](old_testament/prophets/isaiah.md)
         * [Ezekiel](old_testament/prophets/ezekiel.md)
