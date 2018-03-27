@@ -44,6 +44,22 @@ Isaiah is quoted "over 65 times" in the New Testament which is "more than any ot
 
     Isaiah lays out with remarkable clarity God's plans to save Israel from both the temporal oppression and their sins. The message is that Israel ought to have hope because God is not only able, but also has a plan in place to save Israel and the rest of the nations (Isaiah 7 - 11, 40 - *66*).
 
+    You could capture the basic arguments of this book in the following structure:
+
+    - God Saves
+      - Because God is *able* to save
+        - Supporting evidence:
+          - God knows the future
+          - God is creator
+        - This is in contrast with:
+          - Idols
+          - Men
+          - Other nations
+      - Because God has *plans* to save
+        - Supporting evidence:
+          - God has been faithful to Israel in the past
+          - God knows the future
+
 ## Observations
 - Nahum 1:15 quotes from Isaiah 52:7
 
