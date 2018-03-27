@@ -7,7 +7,7 @@ According to Isaiah 1:1, "Isaiah the son of Amoz" wrote this book. Based on 7:3,
 Base on Isaiah 1:1, Isaiah was writing during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. As 'bookends' for the dating of the book, King Uzziah likely died around 740/739 BC and Judah was taken into captivity in 686 BC. Thus, the book was likely finished by 686 and parts of it were likely started before 740 BC. This was a tumultuous time in Judah's history as the Northern Kingdom would be taken into captivity by Assyria in 720 BC and the Southern Kingdom was heading into exile as well.
 
 ## Literary Context
-Isaiah is quoted "over 65 times" in the New Testament which is "more than any other OT prophet".<sup>[1](#footnote1)</sup> Jerome describes Isaiah as an 'evangelist' and notes  that the book deals with 'the mysteries of Christ and the Church'.<sup>[2](#footnote2)</sup> Isaiah is, indeed, a very forward-looking book as it presents what will happen to Israel (and the entire world) in the future.
+Isaiah is quoted "over 65 times" in the New Testament which is "more than any other OT prophet".<sup>[1](#footnote1)</sup> Jerome describes Isaiah as an 'evangelist' and notes  that the book deals with 'the mysteries of Christ and the Church'.<sup>[2](#footnote2)</sup> Isaiah is, indeed, a very forward-looking book as it presents what will happen to Israel (and the entire world) in the future. If you are well-read in the rest of the Bible, you will see a lot of connections between Deuteronomy, Isaiah, the gospels, and the book of Revelation (not to mention the overlap between Isaiah and the other prophets and Isaiah and Paul's letters).
 
 ## Outline
 
@@ -62,6 +62,7 @@ Isaiah is quoted "over 65 times" in the New Testament which is "more than any ot
 
 ## Observations
 - Nahum 1:15 quotes from Isaiah 52:7
+- Isaiah 1:2 begins with a similar phrase as Deuteronomy 31:1. In this sense, it is as though Isaiah is starting where Moses stopped. Moses and Isaiah are calling creation as witness against Israel.
 
 ## Notes
 
