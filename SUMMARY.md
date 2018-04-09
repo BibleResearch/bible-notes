@@ -67,6 +67,7 @@ This is a compilation of my notes on the Bible.
     * [General Epistles](new_testament/general_epistles/README.md)
         * [Hebrews](new_testament/general_epistles/hebrews.md)
         * [James](new_testament/general_epistles/james.md)
+        * [1 Peter](new_testament/general_epistles/1_peter.md)
         * [2 Peter](new_testament/general_epistles/2_peter.md)
         * [1 John](new_testament/general_epistles/1_john.md)
         * [2 John](new_testament/general_epistles/2_john.md)
