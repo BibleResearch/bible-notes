@@ -16,7 +16,23 @@ By tradition, Peter was martyred between 65 and 68 AD. Thus, we can safely assum
 
 This is one of two letters we have from the Apostle Peter. Like the other epistles of the New Testament, it describes the work of Christ and its consequences for believers.
 
-## Theological Themes
+## Outline
+
+I argue that Peter discusses the [theme](#theological-theme) in three 'dimensions' of life. First, he examines the 'vertical' dimension which captures our individual relationship with God (this is 1 Peter 1:13 - 2:10). Second, he discusses the 'horizontal' dimension that describes how an individual relates with other people (specifically unbelievers). Third, Peter examines how to live out the theme within the Church. This is significant not only because it appropriately outlines the text and provides us with a way to think about this book, but also because it reminds us that glorifying God is not a part-time job. It is something every Christian must do at all times and in all 'dimensions' of life.
+
+**0. Greeting [1:1-2]**
+
+**I. Introduction: The Glory of our Salvation and God's Purpose for Suffering [1:3-12]**
+
+**II. Glorifying God through Holiness [1:13 - 2:10]**
+
+**III. Glorifying God through Submission and a Godly Testimony [2:11 - 4:6]**
+
+**IV. Glorifying God within the Church [4:7 - 5:11]**
+
+**V. Final Greetings [5:12-14]**
+
+## Theological Theme
 
 1. **How to glorify God in the midst of trials and persecutions.** One of the common words in this letter is "glory". It frequently refers to God's, innate glory (1 Peter 1:21, 4:11, 4:13-14, 5:10) and often describes the honor given to God by those who persevere (1:7, 2:9, 2:12, 4:11, 4:13-14). Faithful elders even receive a "crown of glory" (5:4). If God is working for His own glory (see Ephesians 1:3-14 and Exodus 34:14), 1 Peter is a guide on how to bring God glory, even in the midst of suffering and persecutions. This theme is clearly presented in 1 Peter 1:6-9. In the letter, Peter provides two, primary principles for how to glorify God in trials:
 
