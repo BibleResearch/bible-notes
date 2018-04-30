@@ -12,15 +12,35 @@ As to the audience of this book. verse one states that the audience is believers
 
 The Roman Emperor Nero died in 68 AD. If tradition is correct in claiming that Peter was martyred by Nero, the letter must have been written before or during 68 AD. 2 Peter 1:14 shows that Peter thought his death was imminent which dates the letter **shortly before or during 68 AD at the latest**.
 
-## Literary Context
-// more here soon...
-
 ## Outline
-// more here soon...
 
-## Theological Theme
-// more here soon...
+**0. Introduction [1:1-11]**
 
-## Observations
-// more here soon...
+  > A. Greeting [1:1]
+  > 
+  > B. Admonition to Grow [1:2-11]
 
+**I. Thesis: Remembering the Important Things [1:12-15]**
+
+**II. Characteristics of True Revelation [1:16-*21*]**
+
+**III. Characteristics of False Teaching and Teachers [2]**
+
+**IV. Reiteration of Thesis [3:1-2]**
+
+**V. Christ's Return [3:3-13]**
+
+**VI. Closing Admonitions [3:14-*18*]**
+
+## Themes
+
+I believe that 2 Peter 3:1-2 and 3:17-18 sufficiently summarize the themes of this book.
+
+3:1-2: "This is now, beloved, the second letter I am writing to you in which I am stirring up your sincere mind by way of reminder, that you should remember the words spoken beforehand by the holy prophets and commandment of the Lord and Savior spoken by your apostles."
+
+3:17-18a: "You therefore, beloved, knowing this beforehand, be on your guard so that you are not carried away by the error of unprincipled men and fall from your own steadfastness, but grow in the grace and knowledge of our Lord and Savior Jesus Christ."
+
+1. **Guard against false teaching.** Following Christ requires that we are constantly guarding ourselves against falsehood and the lies that would draw us away from Christ. In this letter, Peter spends time detailing specific details about false teaching so that his readers can be equipped to detect and avoid false teaching. It is no small matter to Peter and it should not be to us either.
+2. **Grow in Christ.** If we are to avoid false teaching about Christ, we are also supposed to pursue and grow in the truth about Christ (see 2 Peter 3:18 and 1:5-8).
+3. **The importance of divine revelation.** As Peter addresses false teaching and the necessity of growing in knowledge of Christ, he presents divine revelation, whether Old Testament scripture or eye-witness accounts from the Apostles, as the necessary foundation for both of these actions (2 Peter 1:16-21 and 3:1-2). According to Peter, correctly interpreting scripture is a critical step in growing in Christ and avoiding false teaching (see Peter's mention of Paul in 3:15-17).
+4. **The importance of remembering.** I would be remiss if I did not mention that "remembering" is a critical theme of this book. One of Peter's major gaols for this book was the remind his readers of the truths they already knew ( see 2 Peter 1:12-15 and 3:1-2).
