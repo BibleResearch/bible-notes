@@ -4,7 +4,7 @@
 
 ## Authorship and Audience
 
-As claimed by the name of the letter and 1 Peter 1:1, the Apostle Peter wrote this book. The primary objection to this claim is that 1 Peter contains elements of classical Greek which is very different from 2 Peter. This can be explained, however, by 1 Peter 5:12 which suggests that Silvanus (see Acts 15:32) was as an [amenuensis](https://wikipedia.org/wiki/Amanuensis) who helped to write 1 Peter and could have added the more sophisticated elements of Greek grammar to the letter.
+As claimed by the name of the letter and 1 Peter 1:1, the Apostle Peter wrote this book. The primary objection to this claim is that 1 Peter contains elements of classical Greek which is very different from [2 Peter](2_peter.html). This can be explained, however, by 1 Peter 5:12 which suggests that Silvanus (see Acts 15:32) was as an [amenuensis](https://wikipedia.org/wiki/Amanuensis) who helped to write 1 Peter and could have added the more sophisticated elements of Greek grammar to the letter.
 
   Based on 1 Peter 1:1, this letter is addressed to believers who were "aliens" in various places throughout modern-day Turkey. These believers were facing persecution (1 Peter 1:6), possibly as a result of Nero blaming Christians for the burning of Rome.<sup>[1](#footnote1)</sup> Based on the references to "Gentiles" (2:12 and 4:3) and the Old Testament quotations (e.g. 2:6, 2:7, 3:10-12), it is most likely that Peter wrote this letter to Jewish believers.
 
