@@ -3,13 +3,16 @@
 Before getting started, I need to make a preliminary comment on interpretation. This book is frequently interpreted as an [allegory](https://en.wikipedia.org/wiki/Allegory). For example, some would argue that this book describes God's love for Israel or His love for the Church. The primary problem with this interpretation is that there is no indication in the text that this is an allegory. The only cause for viewing it as an allegory is to be able to explain the very physical and sexual nature of the book. I believe that this book is best interpreted at face value for what it is. Love poetry.
 
 ## Authorship and Audience
-Based on Song of Songs 1:1, this book was written by Solomon. Solomon is mentioned throughout the book (1:5; 3:7, 3:9, 3:11; 8:11, 8:12) and the poem probably describes his first romance before his sinful, polygamous escapades which occurred later in his life (11:3). As far as the audience of the book is concerned, this book was most likely written as one of Solomon's many songs (1 Kings 4:32) which he shared with the nation of Israel.
+Based on Song of Songs 1:1, this book was written by Solomon. He is mentioned throughout the book (1:5; 3:7, 3:9, 3:11; 8:11, 8:12) and the poem probably describes his first romance before his sinful, polygamous escapades which occurred later in his life (11:3). As far as the audience of the book is concerned, this book was most likely written as one of Solomon's many songs (1 Kings 4:32) which he shared with the nation of Israel.
 
 ## Date and Historical Context
 Assuming Solomonic authorship, Solomon's reign is the backdrop for this book (1 Kings 1 - 11 which spanned from 971 to 931 B.C.). That being said, the book has no connection with 'historical' events other than a few points in Solomon's life.
 
 ## Literary Context
 If we are to interpret this book literally, this book is very different than the rest of the books in the Bible. That being said, it does contain a lot of allusions to a garden which harkens back to the Garden of Eden where love was first enjoyed. It is often considered part of [wisdom literature](http://bibleresearch.tk/notes/old_testament/wisdom_literature/) because it was written by Solomon and has a poetic nature.
+
+## Outline
+<!-- TODO: add outline here... -->
 
 ## Theological Theme
 **The nature of true love.** This book describes aspects of what true, biblical love between a man and a woman looks like.
