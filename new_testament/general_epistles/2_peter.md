@@ -12,6 +12,10 @@ As to the audience of this book. verse one states that the audience is believers
 
 The Roman Emperor Nero died in 68 AD. If tradition is correct in claiming that Peter was martyred by Nero, the letter must have been written before or during 68 AD. 2 Peter 1:14 shows that Peter thought his death was imminent which dates the letter **shortly before or during 68 AD at the latest**.
 
+## Literary Context
+
+2 Peter has a lot of connections with other letters in the New Testament. 2 Peter is the second letter that Peter wrote (2 Peter 3:1), some of its themes and content echo Jude, and it references Paul's letters (3:15-16). Like many of the letters written later in an Apostle's life, it has a distinctly 'final' feel to it in that it feels like reading the last instructions from a father to his children (e.g. 2 Peter 1:12-15).
+
 ## Outline
 
 **0. Introduction [1:1-11]**
@@ -44,3 +48,7 @@ I believe that 2 Peter 3:1-2 and 3:17-18 sufficiently summarize the themes of th
 2. **Grow in Christ.** If we are to avoid false teaching about Christ, we are also supposed to pursue and grow in the truth about Christ (see 2 Peter 3:18 and 1:5-8).
 3. **The importance of divine revelation.** As Peter addresses false teaching and the necessity of growing in knowledge of Christ, he presents divine revelation, whether Old Testament scripture or eye-witness accounts from the Apostles, as the necessary foundation for both of these actions (2 Peter 1:16-21 and 3:1-2). According to Peter, correctly interpreting scripture is a critical step in growing in Christ and avoiding false teaching (see Peter's mention of Paul in 3:15-17).
 4. **The importance of remembering.** I would be remiss if I did not mention that "remembering" is a critical theme of this book. One of Peter's major gaols for this book was the remind his readers of the truths they already knew ( see 2 Peter 1:12-15 and 3:1-2).
+
+## Observations
+
+- Unlike [1 Peter](1_peter.html), there are very few, Old Testament quotations in 2 Peter.
