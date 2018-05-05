@@ -9,10 +9,7 @@ Based on Song of Songs 1:1, this book was written by Solomon. He is mentioned th
 Assuming Solomonic authorship, Solomon's reign is the backdrop for this book (1 Kings 1 - 11 which spanned from 971 to 931 B.C.). That being said, the book has no connection with 'historical' events other than a few points in Solomon's life.
 
 ## Literary Context
-If we are to interpret this book literally, this book is very different than the rest of the books in the Bible. That being said, it does contain a lot of allusions to a garden which harkens back to the Garden of Eden where love was first enjoyed. It is often considered part of [wisdom literature](http://bibleresearch.tk/notes/old_testament/wisdom_literature/) because it was written by Solomon and has a poetic nature.
-
-## Outline
-<!-- TODO: add outline here... -->
+If we are to interpret this book literally, this book is very different than the rest of the books in the Bible. That being said, it does contain a lot of allusions to a garden which harkens back to the Garden of Eden where love was first enjoyed. It is often considered part of [wisdom literature](https://bible.hightower.space/notes/old_testament/wisdom_literature/) because it was written by Solomon and has a poetic nature.
 
 ## Theological Theme
 **The nature of true love.** This book describes aspects of what true, biblical love between a man and a woman looks like.

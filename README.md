@@ -2,7 +2,7 @@
 
 Hello,
 
-My name is Floyd Hightower. This is a project to create a short overview of each book in the Bible. The public version of the project is available at [http://bibleresearch.tk/notes/](http://bibleresearch.tk/notes/).
+My name is Floyd Hightower. This is a project to create a short overview of each book in the Bible. The public version of the project is available at [https://bible.hightower.space/notes/](https://bible.hightower.space/notes/).
 
 If you find this helpful (or otherwise) or have any questions, I would appreciate some feedback. You can contact me [here](mailto:floyd.hightower27@gmail.com). Thanks in advance!
 
@@ -10,7 +10,7 @@ Three important principles to keep in mind:
 
 1. **I am human.** There are unfortunately typos, misinterpretations, misrepresentations, and other errors in this work to which I am blind. These errors come from me and not the Bible. I apologize for them in advanced and will seek to make this project as clear and accurate as is possible. Again, I would appreciate [feedback](mailto:floyd.hightower27@gmail.com) especially if you have a question or notice a mistake.
 2. **This is a living document** which will continue to change (hopefully improve) over time.
-3. On some of the overviews, I include citations referencing outside resources. **Please understand that a citation is not an endorsement.** By citing another work, I am not endorsing everything that the author(s) has to say. I am only using it to the extent the resource is used in my notes. If you're looking for helpful resources, you can find a list [here](http://bibleresearch.tk/resources/).
+3. On some of the overviews, I include citations referencing outside resources. **Please understand that a citation is not an endorsement.** By citing another work, I am not endorsing everything that the author(s) has to say. I am only using it to the extent the resource is used in my notes. If you're looking for helpful resources, you can find a list [here](https://bible.hightower.space/resources/).
 
 Thanks for stopping by!
 
