@@ -63,6 +63,7 @@ This is a compilation of my notes on the Bible.
         * [2 Thessalonians](new_testament/pauline_epistles/2_thessalonians.md)
         * [1 Timothy](new_testament/pauline_epistles/1_timothy.md)
         * [2 Timothy](new_testament/pauline_epistles/2_timothy.md)
+        * [Titus](new_testament/pauline_epistles/titus.md)
         * [Philemon](new_testament/pauline_epistles/philemon.md)
     * [General Epistles](new_testament/general_epistles/README.md)
         * [Hebrews](new_testament/general_epistles/hebrews.md)
