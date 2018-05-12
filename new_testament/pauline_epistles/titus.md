@@ -4,6 +4,10 @@
 
 This letter was written by the **Apostle Paul** (1:1) to **Titus** (1:4) who was in Crete to help "set in order" the church (1:5).
 
+## Date and Context
+
+The traditional view is that this book was written at the same time as 1 Timothy. This is evidenced by the fact that both books share "many affinities".<sup>[1](#footnote1)</sup> If this is the case, this book was written by Paul likely around **63-64 AD**, after he was released from his first Roman imprisonment.<sup>[2](#footnote2)</sup> Paul is writing this letter out of compassion for both Titus and the Cretan church.
+
 ## Literary Context
 
 Titus is one of three books that make up the "**Pastoral Epistles**" (1 Timothy, 2 Timothy, Titus); Paul wrote these letters to **Timothy** and **Titus** who were pastors at **Ephesus** and **Crete** respectively. Titus is very similar in themes to 1 Timothy and it has a couple wonderful presentations of the Gospel in it.
@@ -31,6 +35,13 @@ Titus is one of three books that make up the "**Pastoral Epistles**" (1 Timothy,
 
 **III. Closing [3:12-*15*]**
 
-## Observations/Notes
+## Observations
 
 - There is a humorous [self-referential](https://en.wikipedia.org/wiki/Self-reference) statement in 1:12.
+
+## Notes
+
+<a id="footnote1">1. </a>"Titus, Epistle to," Easton's Bible Dictionary, accessed May 12, 2018, http://eastonsbibledictionary.org/3684-Titus_Epistle_to.php.
+
+<a id="footnote2">2. </a>"Titus," Grace to You, July 12, 2010, accessed May 12, 2018, https://www.gty.org/library/bible-introductions/MSB56/.
+
