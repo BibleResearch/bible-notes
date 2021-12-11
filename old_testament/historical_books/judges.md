@@ -1,7 +1,7 @@
 # Judges
 
 ## Authorship and Audience
-The name of the author is not given in the text, but Talmudic tradition holds that **Samuel** the prophet wrote this book. This book was undoubtedly written to a Jewish audience, given the specificity of the geography and tribal details given.
+The name of the author is not given in the text, but Talmudic tradition holds that **Samuel** the prophet wrote this book. This book was undoubtedly written to a Jewish audience, given the specificity of the geographic and tribal details given.
 
 ## Date and Historical Context
 Based on Judges 1:21, this book must have been written before David had taken Jerusalem. As such, it was likely written **before 1003 BC**.
@@ -61,7 +61,7 @@ Judges is fascinating in its literary context because it picks up where Joshua l
   3. God raises up judges to deliver "them from the hands of those who plundered them" (2:16). Sin continues even through the lifetime of the judge (2:17-18).
   4. Once the judge dies, Israel goes back to serving other gods and sins *worse* than before (2:19)
 
-  This process is reiterated throughout the central portion of the book and the ultimate results is that God will stop driving out the nations before Israel (2:20-23). This cycle is not purely two dimensional in that it is a circle, but it takes on a third dimension in that it is a downward spiral as the people sin worse and worse. Notice also the [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of this cycle. It begins and ends with Israel's sin. In the middle, we see a demonstration of God's sovereignty in raising up a nation to oppress Israel and His compassion in relenting and raising up a judge to deliver Israel.
+  This process is reiterated throughout the central portion of the book and the ultimate results is that God will stop driving out the nations before Israel (2:20-23). This cycle is not two dimensional (it's not a circle or circular), but it takes on a third dimension in that it is a downward spiral as the people sin worse and worse. Notice also the [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of this cycle. It begins and ends with Israel's sin. In the middle, we see a demonstration of God's sovereignty in raising up a nation to oppress Israel and His compassion in relenting and raising up a judge to deliver Israel.
 
 - There is a [chiastic structure](https://en.wikipedia.org/wiki/Chiastic_structure) of the Judges presented in the main section of the book (chapters 3:7 - 16):
 

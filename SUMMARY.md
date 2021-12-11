@@ -52,6 +52,7 @@ This is a compilation of my notes on the Bible.
         * [Matthew](new_testament/gospels_and_acts/matthew.md)
         * [Mark](new_testament/gospels_and_acts/mark.md)
         * [Luke](new_testament/gospels_and_acts/luke.md)
+        * [John](new_testament/gospels_and_acts/john.md)
     * [Pauline Epistles](new_testament/pauline_epistles/README.md)
         * [1 Corinthians](new_testament/pauline_epistles/1_corinthians.md)
         * [2 Corinthians](new_testament/pauline_epistles/2_corinthians.md)

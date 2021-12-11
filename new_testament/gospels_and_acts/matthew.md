@@ -46,7 +46,9 @@ The order in which the Gospels were written is highly debated. I am going to mak
 
 **III. Postponement of the Kingdom Announced  [14 - 18]**
 
-  > A. John the Baptist's Death  [14:1-12]
+  > A. The Murder of John the Baptist [14:1-12]
+  >
+  > > NOTE: This section (the murder of John the Baptist) constitutes an attack on Christ because it is an attack on the one testifying to Christ's identity (see Matthew 3).
   > 
   > B. Miracles and Confrontation with Religious Leaders  [14:13 - 16:12]
   > 
