@@ -11,7 +11,7 @@ It is likely that the book of Luke was written sometime between **60 - 62 AD**. 
 ## Theme(s)
 - **Christ is the Central Figure in World History.** In his gospel account, Luke portrays Jesus as the one on whom the Old Testament prophecies and covenants depend and as the one who will change the future by establishing His kingdom and becoming a new, second Adam. Think of the history of the world as an hourglass, with Christ as the center. All history before Christ pointed to Him and all history after Christ stems from what Christ has begun. The long introduction to the book of Luke (1 - 4:13) is, in fact, a microcosm of the whole book. We hear prophecies from Mary and Zechariah that echo Old Testament passages and speak of how God is fulfilling the covenants He made with Abraham and David. We see from Christ's genealogy and temptation that Christ is, in a sense, a new Adam who does not fall into sin.
 
-- **Christ Came to Save ALL Men.** Put another way, Christ came to offer salvation to all types of human beings. Poor, rich, male, female, free, slave, 'religious', 'un-religious', Jews, Gentiles, Roman, the list goes on and on... 
+- **Christ Came to Save ALL Men.** Put another way, Christ came to offer salvation to all types of human beings. Poor, rich, male, female, free, slave, 'religious', 'un-religious', Jews, Gentiles, Roman, the list goes on and on...
 
   This is evidenced in the gospel of Luke as Jesus ministers to both Jews and Gentiles. We find him dining with Pharisees (wealthy religious leaders) and tax collectors (also wealthy, but known for their greed and regarded as traitors for serving Rome). Jesus heals a Centurion's slave and has His feet anointed by a prostitute. It is hard, nigh impossible, to think of a group of people from Jesus's time to which He did not minister.
 
@@ -19,9 +19,9 @@ It is likely that the book of Luke was written sometime between **60 - 62 AD**. 
 **0. Introduction  [1 - 4:13]**
 
   > A. Preface  [1:1-4]
-  > 
+  >
   > B. Introduction  [1:5 - 3:20]
-  > 
+  >
   > C. Identify and Validation of Jesus  [3:21 - 4:13]
 
 **I. Ministry in Galilee  [4:14 - 9:50]**

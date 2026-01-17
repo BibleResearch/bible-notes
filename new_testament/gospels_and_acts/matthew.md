@@ -81,9 +81,7 @@ The order in which the Gospels were written is highly debated. I am going to mak
 
 ## Observations/Notes
   - Matthew may be related to **James the Less** who is described as "the son of Alphaeus" in Matthew 10:3.
-
   - Quotations from both Papias (70 - 163 A.D.) and Ireneus (130- 202 A.D.), are understood by some scholars to indicate that Matthew originally wrote his gospel account in Hebrew and that it was later translated into Greek. In fact, Foxe, in his famous work *Foxe's Book of Martyrs*, claims that James the Less translated Matthew's gospel account into Greek. Whether or not Matthew's Gospel account was first written in Hebrew is the subject of much scholarly debate.
-
   - Notice that in the outline above, I have numbered off five "discourses". Each of these five discourses ends, in English, with a phrase like *"When Jesus had finished these words..."* or *"When Jesus had finished these parables..."*. Some who study Matthew will suggest an outline based around the five discourses. While I have not chosen to do so, this is a viable option as the discourses certainly form a critical part of Matthew's Gospel record.
-
   - In chapters four and five, Jesus re-enacts Moses by fasting for forty days and teaching on a mountain about God's law and the blessings/curses of obeying/disobeying it (see Exodus 24:*18*). This serves to fulfill Deuteronomy 18:15-19 where Moses promises that God will raise up another prophet like himself (Moses). The fact that Jesus did not give into temptation also validates His right to rule as the Messiah. It is interesting to compare Matthew's use of Jesus's temptation and fasting with Luke's argument based on the same events. For more about this discussion, refer to the summary for Luke.
+  - Note that the proclaimation of the kingdom (chapters 1 - 13) climaxes with the death of John the Baptist (chapter 14). The postponement of the kingdom (chapters 14 - 25) climaxes with the death of Christ, the Messiah.
