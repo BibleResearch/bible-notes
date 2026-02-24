@@ -39,6 +39,7 @@ Based on 2 Kings 14:25, we know that Jonah's life had at least some overlap with
   - This books is interesting as there are many unwritten events and sentiments going on throughout the book. For a few examples: 
     - It is interesting that we know nothing of the nature or substance of the Ninevites' disobedience to God.
     - Based on 4:2, Jonah demonstrates a strong dislike for the Ninevites and wants them to face judgement for what they have done, but we aren't told exactly why this is the case.
+    - Make note that Jonah, in Jonah 4:2, leaves out some of the attributes of God which are mentioned in Exodus 34.
     - The discussion between Jonah and the sailors in chapter one (1:8-10) is strange in that we only gets bits and pieces of their interchange and even that appears to be jumbled and possibly not in chronological order (specifically 1:10).
     - Jonah's proclamation to Nineveh (3:4) is recorded as nothing more than a sentence fragment. We are not sure if there was more to his message than this and if this was an appropriate communication of the message God had told him to preach (see 3:2). It is certainly interesting that the Ninevite's radical response (3:5-9) does not line up with the short, incomplete, and fragmented proclaimation of God's word issued by Jonah.
 

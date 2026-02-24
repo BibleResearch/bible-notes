@@ -22,35 +22,36 @@ Although every book in the Bible is important, Deuteronomy is one of the most im
 **III. Covenant Reiterated [5 - 26]**
 
   > A. Foundational Commandment(s) [5 - 11]
-  > 
+  >
   >  > 1. Decalogue [5]
-  >  > 
+  >  >
   >  > 2. Greatest Commandment [6]
-  >  > 
+  >  >
   >  > 3. Promises, Warnings, and Reminders [7 - 11]
-  > 
+  >
   > B. Consequential Commandments [12 - 26]
-  > 
+  >
   >  > 1. Exposition on "No Other Gods Before Me": Exclusive Worship to a Worthy God [12]
-  >  > 
+  >  >
   >  > 2. Exposition on "No Idolatry": Don't Confuse the Creator with Creation [13]
-  >  > 
+  >  >
   >  > 3. Exposition on "Do Not Take God's Name in Vain": Respect and Represent God's Character and Nature [14:1-21]
-  >  > 
+  >  >
   >  > 4. Exposition on "Keep the Sabbath": Recognize God's Ownership of Everything and His Provision [14:22 - 16:17]
-  >  > 
+  >  >
   >  > 5. Exposition on "Honor Your Father and Mother": Respect God Ordained Authority Structures [16:18 - 18]
-  >  > 
+  >  >
   >  > 6. Exposition on "You Shall Not Murder": Honor Life [19 - 21:9]
-  >  > 
+  >  >
+  <!-- TODO: I think #6 ^ goes through 22:8 -->
   >  > 7. Exposition on "You Shall Not Commit Adultery": Maintain a Standard of Absolute Purity [21:10 - 23:14]
-  >  > 
+  >  >
   >  > 8. Exposition on "You Shall Not Steal": Recognize Ownership and Responsibility [23:15 - 24:15]
-  >  > 
+  >  >
   >  > 9. Exposition on "You Shall Not Bear False Witness": Honor and Reflect God's Justice [24:16 - 25:*19*]
-  >  > 
+  >  >
   >  > 10. Exposition on "You Shall Not Covet": Acknowledge God's Ownership and Provision [26:1-15]
-  >  > 
+  >  >
   >  > 11. Conclusion: Follow These Commandments to Love God and Be a Holy People [26:16-*19*]
 
 **IV. Blessings and Curses Given and Covenant Ratified [27 - 30]**
